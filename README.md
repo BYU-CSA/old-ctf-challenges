@@ -3,11 +3,11 @@ This private repository stores all the CTF challenges that BYU has created that 
 
 ## Challenges
 ### Steganography
-* [Grayscale](https://github.com/JustinApplegate/new-ctf-challenges/tree/master/steganography/grayscale) - hard
+* [Grayscale](https://github.com/BYU-CTF-group/old-ctf-challenges/tree/master/steganography/grayscale) - hard
 
 ### Password Cracking
-* [Automation](https://github.com/JustinApplegate/new-ctf-challenges/tree/master/password-cracking/automation) - hard
+* [Automation](https://github.com/BYU-CTF-group/old-ctf-challenges/tree/master/password-cracking/automation) - hard
 
 ### Social Engineering
-* [Links](https://github.com/JustinApplegate/new-ctf-challenges/tree/master/social-engineering/links) - easy
-* [Googlefu](https://github.com/JustinApplegate/new-ctf-challenges/tree/master/social-engineering/googlefu) - hard
+* [Links](https://github.com/BYU-CTF-group/old-ctf-challenges/tree/master/social-engineering/links) - easy
+* [Googlefu](https://github.com/BYU-CTF-group/old-ctf-challenges/tree/master/social-engineering/googlefu) - hard
