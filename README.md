@@ -10,4 +10,4 @@ This private repository stores all the CTF challenges that BYU has created that 
 
 ### Social Engineering
 * [Links](https://github.com/BYU-CTF-group/old-ctf-challenges/tree/master/social-engineering/links) - easy
-* [Googlefu](https://github.com/BYU-CTF-group/old-ctf-challenges/tree/master/social-engineering/googlefu) - hard
+* [Googlefu Crossword](https://github.com/BYU-CTF-group/old-ctf-challenges/tree/master/social-engineering/googlefu) - hard
