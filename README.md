@@ -1,13 +1,18 @@
 # Custom CTF Challenges
-This private repository stores all the CTF challenges that BYU has created that 1) was released in our semesterly BYU CTF and 2) was solved by more than 2 people. They are sorted by category, and include the description, files, and a writeup (with the flag). 
+This private repository stores all the CTF challenges that have been used in previous BYU Capture the Flag competitions. They are sorted by category, and include the description, files, and a writeup (with the flag). 
 
 ## Challenges
-### Steganography
-* [Grayscale](https://github.com/JustinApplegate/new-ctf-challenges/tree/master/steganography/grayscale) - hard (move)
+### Forensics/Steganography
+* [Grayscale](steganography/grayscale) (Fall 2020, Winter 2021) - hard
 
 ### Password Cracking
-* [Automation](https://github.com/JustinApplegate/new-ctf-challenges/tree/master/password-cracking/automation) - hard (move)
+* [Automation](password-cracking/automation) (Winter 2021) - hard
 
 ### Social Engineering
-* [Links](https://github.com/JustinApplegate/new-ctf-challenges/tree/master/social-engineering/links) - easy (move)
-* [Googlefu](https://github.com/JustinApplegate/new-ctf-challenges/tree/master/social-engineering/googlefu) - hard (move)
+* [Birthday](social-engineering/birthday) (Summer 2021) - easy
+* [Links](social-engineering/links) (Winter 2021, Summer 2021) - easy
+* [Accounts](social-engineering/accounts) (Summer 2021) - medium
+* [Cert](social-engineering/cert) (Summer 2021) - medium
+* [Domain](social-engineering/domain) (Summer 2021) - medium
+* [Were U At](social-engineering/wereuat) (Summer 2021) - medium
+* [Googlefu Crossword](social-engineering/googlefu) (Winter 2021) - hard
