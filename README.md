@@ -2,6 +2,7 @@
 This private repository stores all the CTF challenges that have been used in previous BYU Capture the Flag competitions. They are sorted by category, and include the description, files, and a writeup (with the flag). 
 
 ## Challenges
+<<<<<<< HEAD
 ### Forensics/Steganography
 * [Grayscale](steganography/grayscale) (Fall 2020, Winter 2021) - hard
 
