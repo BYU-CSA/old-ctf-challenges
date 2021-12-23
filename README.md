@@ -30,9 +30,15 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Python Jail 4](jail/python_jail_4) (Fall 2021) - hard
 
 ### Miscellaneous
+* [Because Your Urlisvalid](miscellaneous/because-your-urlisvalid) (Fall 2021) - easy
+* [Certified Legitness](miscellaneous/certified-legitness) (Fall 2021) - easy
+* [Powershell 2](miscellaneous/powershell2) (Fall 2021) - easy
 * [Composer](miscellaneous/composer) (Fall 2021) - easy
 * [CLI](miscellaneous/cli) (Fall 2021) - medium
 * [Composer 2](miscellaneous/composer2) (Fall 2021) - medium
+* [Powershell 1](miscellaneous/powershell1) (Fall 2021) - medium
+* [Powershell 3](miscellaneous/powershell3) (Fall 2021) - medium
+* [Powershell 4](miscellaneous/powershell4) (Fall 2021) - extreme
 
 ### Password Cracking
 * [MD5](password-cracking/md5) (Fall 2021) - easy
