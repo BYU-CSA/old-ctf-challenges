@@ -11,22 +11,31 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Wiki Game](cryptography/wikigame) (Fall 2021) - hard
 
 ### Forensics/Steganography
+#### Steganography
 * [Incorrect](forensics-steganography/incorrect) (Fall 2021) - easy
 * [Details](forensics-steganography/details) (Fall 2021) - easy
 * [Samus](forensics-steganography/samus) (Fall 2021) - easy
-* [Retro 1](forensics-steganography/retro1) (Fall 2021) - easy
-* [Retro 2](forensics-steganography/retro2) (Fall 2021) - easy
 * [Cyber Risk](forensics-steganography/cyberrisk) (Fall 2021) - medium
 * [Cyber Risk 2](forensics-steganography/cyberrisk2) (Fall 2021) - medium
+
+#### Network Forensics
 * [Packets](forensics-steganography/packets) (Fall 2021) - medium
-* [Austenland](forensics-steganography/austenland) (Fall 2021) - medium
+
+#### Windows XP
+* [Retro 1](forensics-steganography/retro1) (Fall 2021) - easy
+* [Retro 2](forensics-steganography/retro2) (Fall 2021) - easy
 * [Retro 3](forensics-steganography/retro3) (Fall 2021) - medium
 * [Retro 4](forensics-steganography/retro4) (Fall 2021) - medium
+* [Retro 5](forensics-steganography/retro5) (Fall 2021) - hard
+* [Retro 6](forensics-steganography/retro6) (Fall 2021) - hard
+
+#### Digital Files/Folders
 * [.bash_history](forensics-steganography/bash_history) (Fall 2021) - hard
 * [Wordpress](forensics-steganography/wordpress) (Fall 2021) - hard
 * [Routing](forensics-steganography/routing) (Fall 2021) - hard
-* [Retro 5](forensics-steganography/retro5) (Fall 2021) - hard
-* [Retro 6](forensics-steganography/retro6) (Fall 2021) - hard
+
+#### Other
+* [Austenland](forensics-steganography/austenland) (Fall 2021) - medium
 * [Grayscale](forensics-steganography/grayscale) (Fall 2020, Winter 2021) - hard
 
 ### Jail
@@ -59,11 +68,16 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Automation](password-cracking/automation) (Winter 2021) - hard
 
 ### Reverse Engineering
+#### Binary
 * [Binary](reverse-engineering/binary) (Fall 2021) - easy
 * [Arr](reverse-engineering/arr) (Fall 2021) - medium
-* [Bad](reverse-engineering/bad) (Fall 2021) - hard
-* [Web Bad](reverse-engineering/web_bad) (Fall 2021) - hard
 * [XOR](reverse-engineering/xor) (Fall 2021) - hard
+
+#### Python
+* [Bad](reverse-engineering/bad) (Fall 2021) - hard
+
+#### JavaScript
+* [Web Bad](reverse-engineering/web_bad) (Fall 2021) - hard
 
 ### Signal (SIGINT)
 * [Sig 1](signal/sig1) (Summer 2021, Fall 2021)  - hard
