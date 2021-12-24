@@ -8,7 +8,7 @@
 **Writeup by**: Noah Walker
 
 **Description**:
-```
+```markdown
 Now, it's all about numbersssss!!! No strings allowed!!
 
 nc byuctf.xyz 40002
@@ -88,7 +88,7 @@ Thanks for reading!
 
 **Other possible solutions**:
 
-```
+```python
 0xad9 % 0x5a0
 1<<9<<1|1<<8|1<<5|1<<4|1<<3|1
 ```

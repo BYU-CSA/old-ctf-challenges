@@ -6,7 +6,7 @@
 **Author**: Justin Giboney
 
 **Description**:
-```
+```markdown
 I have written [some amazing code](https://github.com/JustinApplegate/powershell-fun/blob/main/matrix.ps1), and I think it is trying to tell me something....
 
 *Note - Run it using **PowerShell 7** with a decently sized console, zoomed in a bit for best performance. You may need to copy and paste the code into a text editor to avoid execution policy warnings.*

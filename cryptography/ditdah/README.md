@@ -6,7 +6,7 @@
 **Author**: Justin Applegate
 
 **Description**:
-```
+```markdown
 Dit Dah
 
 Note - flag is case insensitive

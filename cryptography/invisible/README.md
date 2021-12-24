@@ -6,7 +6,7 @@
 **Author**: Micheal Erickson
 
 **Description**:
-```
+```markdown
 [flag.txt]
 ```
 

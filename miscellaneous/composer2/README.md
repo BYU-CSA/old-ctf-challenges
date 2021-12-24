@@ -6,7 +6,7 @@
 **Author**: Justin Applegate
 
 **Description**:
-```
+```markdown
 What is the secret message?
 
 Flag format - `ctf{putsecretmessagehere}`

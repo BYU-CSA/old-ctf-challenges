@@ -6,7 +6,7 @@
 **Author**: Justin Giboney
 
 **Description**:
-```
+```markdown
 Can you find our hidden message?
 
 [Samus_Aran_CTF.png]

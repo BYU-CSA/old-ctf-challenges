@@ -6,7 +6,7 @@
 **Author**: Ian Cook
 
 **Description**:
-```
+```markdown
 Give the expiration date for the cert and name of the CA for byu.edu.
 
 Flag format - `ctf{MM-DD-YYYY-CA}`

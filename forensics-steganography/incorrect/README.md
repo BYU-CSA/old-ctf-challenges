@@ -6,7 +6,7 @@
 **Author**: Justin Applegate
 
 **Description**:
-```
+```markdown
 How do computers store photos?
 
 [steg-flag1.png]

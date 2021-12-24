@@ -6,7 +6,7 @@
 **Author**: Anna Pratt
 
 **Description**:
-```
+```markdown
 Elizabeth zipped some files for her Jane Austen blog and sent them to a friend. A flag was hidden along the way, can you find it?
 
 [Austenland.zip]

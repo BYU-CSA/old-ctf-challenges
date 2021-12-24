@@ -6,7 +6,7 @@
 **Author**: Justin Applegate
 
 **Description**:
-```
+```markdown
 Meta-what?
 
 [steg-flag3.png]

@@ -8,7 +8,7 @@
 **Writeup by**: Kate Boekweg
 
 **Description**:
-```
+```markdown
 I had a friend send me a bunch of emails that were recovered from the Epik.com breach. What is the ACH Routing number for Cologix?
 
 Example flag - ctf{00000000}
@@ -21,7 +21,7 @@ Example flag - ctf{00000000}
 ## Writeup
 1. Grep File to Find Relevant Lines  
 
-The first thing that I did was download the file and in the Linux command line run ```grep "Cologix" INBOX.mbox```. This printed out all lines in the file that had the word "Cologix". In the results of this command, there was one line that I was most interested in: "Cologix Billing". Since I was searching for an ACH routing number, this seemed relevant. 
+The first thing that I did was download the file and in the Linux command line run `grep "Cologix" INBOX.mbox`. This printed out all lines in the file that had the word "Cologix". In the results of this command, there was one line that I was most interested in: "Cologix Billing". Since I was searching for an ACH routing number, this seemed relevant. 
 
 ![Grep](Grep.png)
 

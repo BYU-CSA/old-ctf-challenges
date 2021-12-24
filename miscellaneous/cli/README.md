@@ -6,7 +6,7 @@
 **Author**: Steve Palica
 
 **Description**:
-```
+```markdown
 How well do you know command line?
 
 [files.zip]

@@ -6,7 +6,7 @@
 **Author**: Justin Applegate
 
 **Description**:
-```
+```markdown
 [steg-flag5.png]
 ```
 

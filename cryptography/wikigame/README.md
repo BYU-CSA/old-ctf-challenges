@@ -8,7 +8,7 @@
 **Writeup by**: Tanner Meeves
 
 **Description**:
-```
+```markdown
 I discovered a phenomenon called "Getting to Philosophy" in Wikipedia - [read up about it](https://en.Wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy) if you don't know what it is. I realized I could use this to send secret messages. 
 
 *Note - "first link in the main text of an English Wikipedia article" means we don't count disambiguations, pronunciations, redirects, words in parentheses or italics, sound clips, citations, template messages, or table of contents as the "first link"*

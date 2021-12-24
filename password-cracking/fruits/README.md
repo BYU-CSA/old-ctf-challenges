@@ -6,7 +6,7 @@
 **Author**: Justin Applegate
 
 **Description**:
-```
+```markdown
 Bobby really likes fruits. In fact, Bobby likes fruits so much that he's made his password 3 fruit names in a row!! Can you figure out his password?
 
 `e23968e2f63c66616aa5f4fc1e9c45407717270a`

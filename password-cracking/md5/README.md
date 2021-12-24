@@ -6,7 +6,7 @@
 **Author**: Justin Applegate
 
 **Description**:
-```
+```markdown
 We recovered two hashes from a database, and we need you to get the passwords:
 
 `EDBD0EFFAC3FCC98E725920A512881E0`

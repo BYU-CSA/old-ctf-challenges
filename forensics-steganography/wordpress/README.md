@@ -8,7 +8,7 @@
 **Writeup by**: Sebastian Hayes
 
 **Description**:
-```
+```markdown
 I was also able to recover the `/home` directory from `epik.com's` server! They're using WordPress! I know there is a user whose username is 3 characters long, what is the password for this user?
 
 Example flag - `ctf{password}`

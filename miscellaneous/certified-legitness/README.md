@@ -6,7 +6,7 @@
 **Author**: Ian Cook
 
 **Description**:
-```
+```markdown
 BYU Cybersecurity Program is a certified ______ by the _____ (check the BYU Cybersecurity website).
 
 Flag format - `ctf{recognitionlevel_org}` (case insensitive) and no spaces.

@@ -6,7 +6,7 @@
 **Author**: Justin Giboney
 
 **Description**:
-```
+```markdown
 Maybe I shouldn't have multiplied the colors by 2. They seem a little bright... (see script from Powershell 1)
 
 Flag format - `ctf{Aaaa_Aaaa}`

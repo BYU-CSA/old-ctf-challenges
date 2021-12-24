@@ -4,7 +4,7 @@
 **Author**: Justin Giboney
 
 **Description**:
-```
+```markdown
 Can you decipher the message using this grayscale photo?
 
 [grayscale.png]

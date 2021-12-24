@@ -6,7 +6,7 @@
 **Author**: Justin Giboney
 
 **Description**:
-```
+```markdown
 I saved my own message in the matrix. But you need to get the columns lined up. The first 15 are: 
 
 `-20, 11, -26, 76, 29, -25, -229, -18, -195, -25, -31, -172, -10, -11, -111, 14`

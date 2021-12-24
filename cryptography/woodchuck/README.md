@@ -6,7 +6,7 @@
 **Author**: Micheal Erickson
 
 **Description**:
-```
+```markdown
 We've captured an encoded message by some tongue-twister enthusiasts. Can you decode it?
 
 [woodchuck.txt]
@@ -17,4 +17,4 @@ The challenge looks really confusing at first since it has the words `wood` and 
 
 If you substitute `woodchuck could chuck ` for a `0` and `woodchuck chuck if a ` for a `1` and binary decode it, you'll get the flag.
 
-Flag: `ctf{i_bet_he_could_chuck_a_heck_of_a_lot_of_wood}`
+**Flag** - `ctf{i_bet_he_could_chuck_a_heck_of_a_lot_of_wood}`

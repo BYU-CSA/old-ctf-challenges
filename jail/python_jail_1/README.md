@@ -8,7 +8,7 @@
 **Writeup by**: Noah Walker
 
 **Description**:
-```
+```markdown
 Jails help you learn to bypass filters + how to mess with languages. We have given you the source code running on our server. Your goal is to learn how to bypass the filters to get the flag. Once you have code that works, start this netcat session and submit it within to get your flag.
 
 `nc byuctf.xyz 40000`
@@ -86,7 +86,7 @@ Thanks for reading!
 
 **Other possible solutions**:
 
-```
+```python
 int((str(0)).join(str(a) for a in [1,3,3,7])[::2])
 int('1a3a3a7'.replace('a',''))
 int('leet'.replace('l','1').replace('e','3').replace('t','7'))

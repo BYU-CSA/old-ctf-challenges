@@ -6,7 +6,7 @@
 **Author**: Anna Pratt
 
 **Description**:
-```
+```markdown
 Julius uses the same password to log on to all of his favorites sites like Neopets, Club Penguin, and Webkinz. He's trying to log in, but forgot his password! He only has it written down in a code, can you help him get his password to log back in?
 
 Flag format - `ctf{password}` (case insensitive)

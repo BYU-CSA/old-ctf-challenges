@@ -6,7 +6,7 @@
 **Author**: Justin Applegate
 
 **Description**:
-```
+```markdown
 How good are you at password cracking?
 
 [forensics-flag2.zip]
