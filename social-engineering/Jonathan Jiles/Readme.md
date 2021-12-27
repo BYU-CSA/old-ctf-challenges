@@ -1,15 +1,7 @@
 ## resources
 
-* proton: jonathan_j_jiles@protonmail.com
-* pw: 5me$FM5nsAsC?b
-
-* gmail: pigeon.johnnyj@gmail.com
-* pw: #Bgfx85QCJbD3@
-* wattpad pwd: justinapplegate
 
 * [livejournal](https://pigeonjohnnyj.livejournal.com/354.html)
--- password for livejournal: 77x@F9i99yF3Ec
-
 * [Imgur] (https://imgur.com/gallery/kmC8fWC)
 * [Imgur] (https://imgur.com/gallery/zqPg6ky)
 * [Imgur3](https://imgur.com/gallery/K3MALFX)
@@ -19,20 +11,20 @@
 * [wattpad] (https://www.wattpad.com/1158332513-the-pigeonnnnnn-untitled-part-1)
 
 flow:
- imgur -> flag
-        -> Review Photo
-        -> ISBN number caption
-            |_> Goodreads -> flag
-                          -> other review: links to wattpad
-                            |_> wattpad acct -> TSwift flag
-                                    |_> livejournal? -> Google review info
-                                                                    |_> Google review -> review flag
-                                                     -> Community
-                                                        -> email acct. 
-                                                            -> protosint tool
-                                                                -> date flag
-
-
+ Start on google Blogger sight:
+ -> Middle image is sourced form IMGUR, imgur tags + Hashtags into imgur search engine
+     imgur  account -> flag under drawn pigeon photo
+            -> Review Photo
+            -> ISBN number caption under picture on porch
+                |_> Goodreads -> flag in review after bee movie text
+                              -> other review: links to wattpad profile
+                                |_> wattpad acct -> TSwift flag at the end of lyrics. 
+                                        |_> livejournal -> Google review info
+                                                                        |_> Google review for "Pigeon Racing OK" -> review flag
+                                                         -> Pigeon Community
+                                                            -> Proton email acctount 
+                                                                -> protosint tool
+                                                                    -> date flag
 
 
 
