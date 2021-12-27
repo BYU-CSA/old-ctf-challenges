@@ -2,13 +2,13 @@
 
 
 * [livejournal](https://pigeonjohnnyj.livejournal.com/354.html)
-* [Imgur] (https://imgur.com/gallery/kmC8fWC)
-* [Imgur] (https://imgur.com/gallery/zqPg6ky)
+* [Imgur](https://imgur.com/gallery/kmC8fWC)
+* [Imgur](https://imgur.com/gallery/zqPg6ky)
 * [Imgur3](https://imgur.com/gallery/K3MALFX)
 
 * [Google Review for Racing Pigeon](https://goo.gl/maps/JYt4syCQLoUS6PMv8)
 * [Goodreads review](https://www.goodreads.com/book/show/6086651-the-fugitive-pidgeon#other_reviews) 
-* [wattpad] (https://www.wattpad.com/1158332513-the-pigeonnnnnn-untitled-part-1)
+* [wattpad](https://www.wattpad.com/1158332513-the-pigeonnnnnn-untitled-part-1)
 
 flow:
  Start on google Blogger sight:
