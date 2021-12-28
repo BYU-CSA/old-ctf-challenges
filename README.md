@@ -2,7 +2,7 @@
 This private repository stores all the CTF challenges that have been used in previous BYU Capture the Flag competitions. They are sorted by category, and include the description, files, and a writeup (with the flag). 
 
 ## Challenges
-### Cryptography
+### Category - Cryptography
 * [Simple](cryptography/simple) (Fall 2021) - very easy
 * [Dit Dah](cryptography/ditdah) (Fall 2021) - very easy
 * [Invisible](cryptography/invisible) (Fall 2021) - medium
@@ -10,7 +10,7 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Forgotten](cryptography/forgotten) (Fall 2021) - medium
 * [Wiki Game](cryptography/wikigame) (Fall 2021) - hard
 
-### Forensics/Steganography
+### Category - Forensics/Steganography
 #### Steganography
 * [Incorrect](forensics-steganography/incorrect) (Fall 2021) - easy
 * [Details](forensics-steganography/details) (Fall 2021) - easy
@@ -38,13 +38,13 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Austenland](forensics-steganography/austenland) (Fall 2021) - medium
 * [Grayscale](forensics-steganography/grayscale) (Fall 2020, Winter 2021) - hard
 
-### Jail
+### Category - Jail
 * [Python Jail 1](jail/python_jail_1) (Fall 2021) - medium
 * [Python Jail 2](jail/python_jail_2) (Fall 2021) - medium
 * [Python Jail 3](jail/python_jail_3) (Fall 2021) - hard
 * [Python Jail 4](jail/python_jail_4) (Fall 2021) - hard
 
-### Miscellaneous
+### Category - Miscellaneous
 * [Because Your Urlisvalid](miscellaneous/because-your-urlisvalid) (Fall 2021) - easy
 * [Certified Legitness](miscellaneous/certified-legitness) (Fall 2021) - easy
 * [Powershell 2](miscellaneous/powershell2) (Fall 2021) - easy
@@ -55,7 +55,7 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Powershell 3](miscellaneous/powershell3) (Fall 2021) - medium
 * [Powershell 4](miscellaneous/powershell4) (Fall 2021) - extreme
 
-### Password Cracking
+### Category - Password Cracking
 * [MD5](password-cracking/md5) (Fall 2021) - easy
 * [SHA512](password-cracking/sha512) (Fall 2021) - easy
 * [NTLM](password-cracking/ntlm) (Fall 2021) - easy
@@ -67,7 +67,7 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Personal](password-cracking/personal) (Fall 2021) - hard
 * [Automation](password-cracking/automation) (Winter 2021) - hard
 
-### Reverse Engineering
+### Category - Reverse Engineering
 #### Binary
 * [Binary](reverse-engineering/binary) (Fall 2021) - easy
 * [Arr](reverse-engineering/arr) (Fall 2021) - medium
@@ -79,28 +79,47 @@ This private repository stores all the CTF challenges that have been used in pre
 #### JavaScript
 * [Web Bad](reverse-engineering/web_bad) (Fall 2021) - hard
 
-### Signal (SIGINT)
+### Category - Signal (SIGINT)
 * [Sig 1](signal/sig1) (Summer 2021, Fall 2021)  - hard
 * [Sig 2](signal/sig2) (Summer 2021, Fall 2021)  - hard
 * [Sig 3](signal/sig3) (Summer 2021, Fall 2021)  - hard
 * [Sig 4](signal/sig4) (Summer 2021, Fall 2021)  - extreme
 
-### Social Engineering
-* [Birthday](social-engineering/birthday) (Summer 2021) - easy
+### Category - Social Engineering
 * [Links](social-engineering/links) (Winter 2021, Summer 2021) - easy
-* [Accounts](social-engineering/accounts) (Summer 2021) - medium
+* [Cyber Warriors 1](social-engineering/Image%20search) (Fall 2021) - easy
+* [Inside the Cyber Warrior #2](social-engineering/Image%20search) (Fall 2021) - easy
 * [Cert](social-engineering/cert) (Summer 2021) - medium
 * [Domain](social-engineering/domain) (Summer 2021) - medium
 * [Were U At](social-engineering/wereuat) (Summer 2021) - medium
+* [Y Not](social-engineering/self_loath_chal) (Fall 2021) - medium
 * [Googlefu Crossword](social-engineering/googlefu) (Winter 2021) - hard
+* [Everything is an OSINT problem if you try hard enough](social-engineering/self_loath_chal) (Fall 2021) - hard
 
-### Threat Intel
+#### Social Media
+* [Birthday](social-engineering/birthday) (Summer 2021) - easy
+* [Accounts](social-engineering/accounts) (Summer 2021) - medium
+
+#### Image Location
+* [Dang BYU Parking](social-engineering/Image%20search) (Fall 2021) - easy
+* [Killer view eh](social-engineering/Image%20search) (Fall 2021) - medium
+* [Ode to Ye Olde Cougar Net](social-engineering/Image%20search) (Fall 2021) - hard
+* [Oh the roads you'll go](social-engineering/Image%20search) (Fall 2021) - hard
+
+#### Jonathan Jiles
+* [In which you meet Johnny](social-engineering/Jonathan%20Jiles) (Fall 2021) - easy
+* [In which Johnny shares his feelings](social-engineering/Jonathan%20Jiles) (Fall 2021) - medium
+* [In which Johnny gets creative](social-engineering/Jonathan%20Jiles) (Fall 2021) - easy
+* [In which Johnny gets speed](social-engineering/Jonathan%20Jiles) (Fall 2021) - hard
+* [In which Johnny meets Physics](social-engineering/Jonathan%20Jiles) (Fall 2021) - hard
+
+### Category - Threat Intel
 * [Program](threat-intel/program) (Fall 2021) - easy
 * [Name](threat-intel/name) (Fall 2021) - easy
 * [Linked domain](threat-intel/linkeddomain) (Fall 2021) - medium
 * [Country](threat-intel/country) (Fall 2021) - hard
 
-### Web Exploitation
+### Category - Web Exploitation
 * [Error](web/error) (Fall 2021) - very easy
 * [Source](web/source) (Fall 2021) - very easy
 * [Client-side](web/clientside) (Fall 2021) - easy
