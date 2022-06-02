@@ -1,0 +1,91 @@
+# Oh, Babylon
+Level: Hard
+
+Description:
+> Search for yourself.
+>
+> The book you were reading was Volume 21 on Shelf 1 of Wall 1 of Hexagon:
+>
+> 2uunklsbhhxwuekogr8urx119waxv4cp67fipphuaptedk7r3
+> 16q3humqke601ejbgkszkh8q32gjimyjfdmdgsokzn2z2t8or
+> 7jak45nzlqpbq6i3yxc8fwpke78qpj33nm0v0q6nxnldfyclg
+> o1ivske2izldq6sjz720x5eet7ee1jf5bpxegywv5f9x9fsna
+> zq78ffnvro4kbdhpfhbwkpm6mymyfvifx3rwjhe0ik2f1iti9
+> 0o0pc17pjutb122b9fs7acahk4m2o0zo7zopz5tve4m9vvid9
+> d11j5ngxgkwcpyezjy190ve7zhg3wmpemtn0inkfo6kxzoz97
+> nt0ixcl9x4hzs8wmgs9w0kquh1txwqt93yltp0rnn3s0rvo81
+> v2uuts7ng881a7xxmdyfjml21mytomldrfjkyhupyj2njgnul
+> c09gm469d5wrwuxu2h9x7hiljgtr188th7ulsbag0sckzla79
+> pr4dis1gej6o8cqxeuehtrvptf0vi3kj388q0z9d0wun0h6ok
+> 7ia3q47g2ujh0rgtfpi52tb4ad8lqfkkesxz9i6m9p0m7d77n
+> 8o9crl1ax560qv25rctyms2vq73q3iqn3p3vupbiwwyto5sia
+> quoo16xb4dfkjmehnh4d37u1bo3y11wmgwr2wei5svi69gp2j
+> l9uwcs904h6f1rilncoc2il96kc6qyfgha5kfj9ryokykeipc
+> r636lpeynar9xi0m3bo1w3melkwdc0p0z635vqe86qeuw7vcz
+> cjok914xwvx92d88w00gjznvo0ji1gxpauh2dw0tg6ttguxpc
+> rbaig4ka77pkncttmnnkttusmv83ub8gyn712zymzfh0b9fsg
+> hpf6pfg3mjlnm08qggaocwx3l8m4xgpy7oirxe2y0rxm7ix2x
+> s0rbwyc09gbn1sca5x3u9lh2kbywg7uooo90n84nn537jrt2k
+> dhj85qszuebi29jroa9l2t6kj2ouomcbr8ltlhi0uvmjre49k
+> ba31bxgh5wka3c1x1qd2ay1qfxtjg7ds3sfk5oxgs84vl5mxk
+> 5uo2a0ezcb7ybhnj9eqorso81u7rgw65rooj87ne6kvc99z9k
+> kjkycsbjzmn1drfylr2ovfz0fxdu15hd6onpb0butjt1mljk9
+> 1ecb56oycylr201jao795g0amyq4464y5iua7uvupxz88vyz7
+> zzcs56sn2gut5mqpgyxwd5xwk9exx7lqh5hetl5md7pdi9ew0
+> f477ea35zc3yqtz8je4w18il2azlunxls0hz9qn1ktfnhdauk
+> zflqmalz5zlo2uhwna4bnjxq3iozsiscw9rskyke8abe658bw
+> i1xodky7f1vlywultunct7ooh1sg86zewxvyltn9tuso4fbwp
+> ftemn627qit8o8xojpe27w354higygx7j3m94x67qquvpbcqk
+> t3c2852w48rw48jdbjhg2cyyavgl2nwa182bl8dppqzdteryl
+> bs7y8x3djmw7axhc2db4exvxe1j4hsh6af4pycc1owh0kxxdq
+> 3j1kmmtw72bnqj76l71iivg9ia0ayhkkusykd6zmnr3q2yi88
+> h3l8bllrlbe3hgp2daey6a2eou4odyetfbetmzpglmvts4naw
+> fx8aykxszu3gz4e9kjbz2ssvoh35yxvnrd0kneavo4p840rpu
+> a9yo2krfg9z9xa1y51vt98k6ue6vl7msri4gfew5iqsewh0nw
+> thktmp9mg1fybrthk5q446bpusuux69bl871l88vk81qdea6n
+> 3uukqaovtp5gczfg78a4010u43qjl1co4znnmo0zq3zfctnkc
+> thaxkp7so2026olqhwzhx9sn3ex3lb7e6rp4aixtsxzjw9kft
+> wvibqsvyp58s8328rt3dq6d1waayv8s9drj6d7yew1epqkf9f
+> 4wvui26woj2sy1f07tx2zlfb2dz4rfjxhomwo9f8r0o3ukv5s
+> ladfdadssk20zvklxgc3n7cps5dnqicvfbc3hrsi4lb856iss
+> jt0gk8qkt7ux5g2y2m7hcjgfcau6yqec76o7k2vt4m3dplcw8
+> 4k50p8jw3fs4z6o5g76qjgtk671ngqdftccohffsgcn411ulu
+> br9x346fivov81fbxrjo4efadlkddhxnyid5swf5eqv2irxwk
+> o7r88nmngpxg7yegdjbx4117fb87tqlg7vqkprd45gkxwfvum
+> x5opiuixd734e0s8m0ll87hy8iuhopbxx6vo7t6360iu9g58q
+> takykmyy6c0hr0ney5sdnf71n95ui22vzx1n4zufh6rsk35ma
+> fq50bic5ihj5krbjuag4tnmxrjex9e2yl5kxf34y6e39fekoi
+> xc0spfqcnvonoo7l8l5yti2t1hqh65zl54um910xehkaahtuy
+> ym8urnlz3nzs705iz2odna7bsvp8u4r78c181g017brar0ofd
+> ebtaaxx45s6ep2ot5t209u6hc94bxt4p4d6qd119dloxkdqe1
+> yz6tnalhaew3lgs5jstnb64q417sbcu0nmk9alhas7g7sxnex
+> 79rcrvpdaslspr7ihrywq6cac3tgofwr479gg1fd6cu92l123
+> xr7twix1xldvakimct69cetdze6uv8glwnmd72mbuqv2att8n
+> m4ndu143eapsjowc8nq8z26itmqbkmj5z5ds7j3s9w122a74g
+> eqelin0yu22wmjrcar9piwqkuwglnep9wgdhnrk8j1gnxk14a
+> frwhme2aijlw2itffqpgeuiab6wuisr0n7hlx63zx837n814z
+> dmlshv6b4svvb1cwzxkwceevj1451in5foyfn5qm54p3m62wg
+> gguwdpch0vlkonac1u4sp7k3l0wqlto6fi0xrz6yx00yg0jf0
+> npy0cj74pnhs5jf0yz5fc1ch5jtd0i4azm5v4e33d8uusds5o
+> 0gu87nlr7xkgl7apgj2npf2eq32y0v2ja60oah2e1h4td23iw
+> 1yqhsd6mppa5d8eswkal1hnchpff48pdus9egrqoyapsjej84
+> yhq7g08ivz38dvet4av6k83i47dp367p39rbu77d9wndfh3jr
+> 3oevdmbv5vtgio4ort4yc3p23yic4d1gtdknrj4b0garqydra
+> nkomhr10iyu5bigfhh1v93etg3ekbpx2gyvq070s87d2frmdb
+> aneaaami14m318oyvl7z
+
+## Write-up
+
+The challenge was made by searching the library for a simple phrase,
+taking the location of the exact match, and searching for that location
+as text within the library again. The instructions are mostly in there
+as well.
+
+The instructions say to search for _yourself_, which is a quick way to
+find the page in the book given. Download the book and search for
+`yourself`.
+
+This gives the location to the second book. Once there, you can do a
+search for `byuctf` to get the flag. It just needs to be formatted.
+
+**Flag** - `byuctf{the_library_of_babel_contains_your_every_thought_jtjuxkff}`

@@ -1,0 +1,1 @@
+byuctf{easy_rsa_is_rseasy_right_8n260p3b}
