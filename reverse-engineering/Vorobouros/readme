@@ -1,0 +1,22 @@
+ Fursona Tester [You need a more creative name for this.]
+Ardeys Lancaster the Wolf
+ Version (far from actual release) [Thank goodness]
+
+Premise
+    So many people seem to have a problem trying to pick a fursona. They either like too many animals, or they can't think of one that "matches" their personality or fits their aesthetics or whatever. Therefore, I made this program to help them make a choice (nobody's stopping you from having two fursonas either). [But if you have two, that's twice as much money spent on coms!]
+
+Function
+    This program measures 11 aspects of personality that I find are critical to determining a proper fursona. [only 11, huh?] The top two traits are used to determine your fursona. When the maximums for traits for a certain fursona are met, you qualify as a perfect match. The program deletes itself so you can't try to force a certain outcome (after all, if you want to be an fox so bad, why don't you?). [I feel personally attacked]
+    Each question has multiple responses. Different responses add to different traits.
+
+Todos:
+    - Fix balancing issues
+        - Scaley and Avian representation
+    - Add more questions (helps with above)
+    - Fursona gender???
+    - Dynamically allocate questions, no procedural code.
+    - OOP babay [You ought to have programmed in Java if you cared about OOP and boilerplate.]
+    - Expand the "perverse" personality trait: what does it actually mean?
+        - Should I include information based on [removed] and [removed]? or make that a seperate test? [Glad I didn't find that on the drive.]
+    - Flavor text for personality traits like the Pokemon Mystery Dungeon personality test [That was a good game.]
+    - Adjustable speed [Yes]

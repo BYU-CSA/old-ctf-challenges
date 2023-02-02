@@ -1,0 +1,3074 @@
+﻿The Project Gutenberg eBook of A Monograph of the Trilobites of North
+America: with Coloured Models of the Species, by Jacob Green
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: A Monograph of the Trilobites of North America: with Coloured
+       Models of the Species
+
+Author: Jacob Green
+
+Release Date: September 17, 2021 [eBook #66333]
+
+Language: English
+
+Produced by: Tom Cosmas produced from materials made available at The
+             Internet Archive and placed in the Public Domain.
+
+*** START OF THE PROJECT GUTENBERG EBOOK A MONOGRAPH OF THE TRILOBITES
+OF NORTH AMERICA: WITH COLOURED MODELS OF THE SPECIES ***
+
+
+
+
+
+
+
+Transcriber Note: Text emphasis denoted as _Italics_.
+
+
+[Illustration: Frontispiece]
+
+
+
+
+                                   A
+                               MONOGRAPH
+                                OF THE
+                     TRILOBITES OF NORTH AMERICA:
+                                 WITH
+                    Coloured Models of the Species.
+
+           Multa renacentur quæ jam cecidere.--Hor.
+
+                                  BY
+
+                          JACOB GREEN, M. D.
+         Professor of Chemistry in Jefferson Medical College.
+
+
+                             ·—▸⏵►●◓●◄⏴◂—·
+
+
+                             PHILADELPHIA:
+
+           Published by Joseph Brano, No. 12, Castle Street.
+
+                       Clark & Raser, Printers.
+
+                                 1832.
+
+
+Entered according to the Act of Congress, in the year 1832, by Joseph
+Brano, in the Clerk's Office of the District Court of the Eastern
+District of Pennsylvania.
+
+
+
+
+To JOHN GEORGE CHILDREN, Esquire, F. R. S. L. & E.
+
+The kindness which a traveller receives when in a distant land, must
+ever be among his most pleasing recollections your attentions therefore
+to me, during any short residence in London a few years since, cannot
+easily be forgotten. Suffer me, then, to inscribe this little work to
+you as a token of my gratitude.
+
+Our pursuits in the Natural and Physical Sciences have been congenial.
+Your interesting researches with your original and magnificent Galvanic
+Battery, first drew my attention to the calorific effects of that
+mysterious agent; and your works on Natural History have stimulated my
+exertions in the same fascinating pursuit.
+
+A large portion of your time and fortune have been devoted to the
+patronage or the cultivation of Natural Science so that the dedication
+of this work to you, if it were infinitely more worthy of your
+acceptance, would be due from me, both as a tribute of high respect, as
+well as of grateful acknowledgment.
+
+_Philadelphia, October 1st, 1832._
+
+
+EXPLANATION OF THE PLATE.
+
+
+  Figure 1. Trimerus Delphinocephalus.
+         2. Calymene Diops.
+         3. Asaphus Micrurus.
+         4. Cryptolithus Tessellatus.
+         5. Paradoxides Boltoni.
+         6. Triarthrus Beckii.
+         7. Isotelus Cyclops.
+         8. Dipleura Dekayi.
+         9. Head of D. Dekayi.
+        10. Ceraurus Pleurexanthemus.
+
+The above figures represented on the Frontispiece to this volume, were
+first published in the Monthly Journal of Geology, &c. for June, 1832,
+and I am indebted to C. A. Poulson, Esq., for the use of them in this
+Monograph.
+
+
+
+
+                             INTRODUCTION.
+                                 —————
+
+
+Some geologists imagine that the order of creation is registered in
+the rocks which compose the external crust of the earth, and that they
+can there clearly read a progressive development of organic life; in
+other words, that a succession of more perfect animals may be traced in
+ascending from the lower strata to the upper or more recent formations;
+that there is a gradual approach to the present system of things, and
+a succession of destructions and creations; worlds of living beings
+alternating with worlds of desolation and death, antecedent to the
+existence of man.
+
+Others, again, contend that there is often a wide and palpable
+discrepancy between the nature of the rock, and the fossils which it
+contains, and, therefore, that such inquiries afford no clue, whatever,
+to the order of creation.[1] We propose not to enter the field of
+controversy. Fossils are undoubtedly historic medallions of remote
+periods in the natural history of our earth, and our design is, merely
+to illustrate with them a neglected department of ancient zoology, by
+describing a few which have recently fallen under our own observation.
+
+[Footnote 1: Nothing can be more opposed to true science, than to
+pronounce on the priority of formation, or the comparative age of
+rocks, from either their structure, or the organic remains they
+present. M. Alexandre Brongniart thus propounds his opinion: "In those
+cases where characters derived from the nature of the rocks are opposed
+to those which we derive from organic remains, I should give the
+preponderance to the latter." This seems to us to imply an admission,
+that nothing definite can be inferred from the _nature of the rocks_;
+moreover, that between the nature of the rock, and the organic remains,
+there may be a palpable discrepancy; and that these may be even at
+complete antipodes with each other. The event has proved, from what we
+have already mentioned, that no evidence as to priority can be obtained
+from the nature of the fossil remains displayed in particular strata.
+In addition to what has been said on this subject, we may further
+state, that _encrinites_, _entrochites_, and _pentacrinites_ are found
+in clay slate, grauwacke, transition limestone, alpine limestone,
+lias, muschelkalk, and chalk. It may be reasonably asked how these
+three species of fossils could indicate any particular formation, when
+they are found in so many types and structures of rocks altogether
+different? If they would go to prove any thing at all, it would be that
+of a _contemporaneous_ formation; but certainly not distinct epochas.
+_See Eclectic Review, July, 1832._]
+
+In some varieties of rocks there is often found the fossil remains of
+an animal which bears some resemblance to certain species of the crab.
+The back of this organic relic is commonly divided by two deep grooves
+or furrows, into three longitudinal lobes, and from this circumstance,
+the term _Trilobite_ has been applied as a family name to distinguish
+this whole race of beings. This general appellation, however, though in
+most of the species, highly appropriate, is by no means applicable to
+all.
+
+The individuals which compose the family of the trilobites resemble
+each other in many important particulars, and form together an
+exceedingly natural group. The body, with but few exceptions, is
+divided transversely into three parts. The anterior portion or head
+often resembles the buckler of the _horse foot_ or _king crab_
+(_limulus polyphemus_), so common on our sea coast. The middle portion
+is the _abdomen_, and is always separated transversely into a number
+of segments or articulations, generally diminishing in breadth as they
+recede from the head. The posterior end is the _tail_, which, though
+in some species, a mere prolongation of the abdomen, that can scarcely
+be distinguished from it, yet in others it assumes a genuine caudal
+appendage.
+
+The head of the trilobite is also generally divided into three parts:
+the middle is called the _front_, or forehead; and the lateral portions
+the _cheeks_. In most cases, a projecting tubercle, or knob, is
+observable on the anterior surface of each cheek, which has much the
+appearance of an eye. Its reticulated structure is in many instances so
+analogous to that of the eyes of some crustaceous animals, and also of
+some species of insects, that there can be but little doubt that these
+tubercular projections, were true organs of vision.
+
+Some of the genera which belong to this remarkable race of fossil
+animals, possessed the power of rolling or coiling themselves up into a
+kind of ball, like certain species of insects, or like the armadillo;
+and they are always found embedded in the rocks in this attitude.
+
+Such are the general characters by which these petrifactions may be
+known, and they will be found illustrated in a manner more or less
+striking, in most of the species. The exceptions, which rarely occur,
+will be distinctly marked, when the species are described.
+
+The superior covering, or upper shell of the trilobite is the only part
+of the animal, concerning which we have any satisfactory knowledge.
+It is conjectured that it was furnished with articulated feet, but no
+traces of any organs of progressive motion have hitherto been fairly
+discovered.[2] Hence, it may be reasonably supposed, that the structure
+of the lower portions of the animal were so soft and delicate, as to
+render them incapable of sustaining the process of mineralization,
+which the hard crustaceous covering of the back so successfully
+undergoes.
+
+[Footnote 2: Mr. Parkinson states, that in a trilobite which he
+possessed he thought he perceived the _points_ of the feet; but on
+endeavouring to detach the piece of rock in which it was embedded, the
+specimen was entirely shivered, though he worked at it with the utmost
+care. A portion of the underside of a trilobite (_Isotelus gigas_)
+near the anterior edge of the head, was distinctly ascertained, by Dr.
+Dekay, but only enough to convince him of its analogy in this part with
+that of the limulus polyphemus no organs of locomotion could be seen.
+Mr. Stokes, the distinguished fossilist of London, has confirmed the
+observation of Dr. Dekay, by some dissections of his own.]
+
+That these petrifactions were once marine animals there can be little
+doubt, for they are always found associated in the same rocks with
+shells, and other productions peculiar to the sea.
+
+The Trilobite is supposed by many naturalists to be one of the first
+animated beings of our earth called into existence by the great Author
+of nature.[3] It was first noticed more than two centuries ago, among
+the petrifactions which abound in a calcareous rock, at Dudley, in
+England, and was from this circumstance, called for a long time, the
+_Dudley fossil_. Linné gave it the name of the _Paradoxical insect_;
+but whether an insect, a crustaceous animal, or a shell, is still
+considered by many as problematical.
+
+[Footnote 3: It is obvious, that if most of the gelatinous animals
+which now inhabit our seas, were to become extinct, few or no traces
+of them could be found in any succeeding depositions of earthy matter.
+Whatever kind of animal life, therefore, may have been the first which
+appeared in our planet, must be entirely hypothetical. All that we
+can with certainty say of it, is, that it was best adapted to the
+circumstances, in which it was to exist, and that it was consistent
+with the wisdom and design which we see every where pervading the
+universe.]
+
+Notwithstanding the high antiquity of the family of the Trilobites,
+and the remarkable characters the different individuals which compose
+it, sustain in the animal kingdom; till within a very few years, the
+whole race has been almost entirely neglected by naturalists. The
+first attempt at any systematic arrangement of the genera and species,
+was made in 1815, by Alexander Brongniart, Professor of Mineralogy,
+&c. &c., in Paris.[4] Until that period, the term _Entomolithus
+Paradoxus_, proposed by Linné, was applied to all the fossil remains,
+which in their general appearance bore any resemblance to that found at
+Dudley, and which he first described under that name. The confusion,
+therefore, which existed in this department of natural science, may
+readily be imagined; especially, as the species rapidly multiplied,
+when they were supposed to throw some rays of light on certain
+obscure geological phenomena. Soon after the appearance of Professor
+Brongniart's excellent work, the attention of other naturalists was
+directed to this neglected part of creation. The most important memoir,
+on account of the number of species, well figured and described in
+it, is one by Dr. E. W. Dalmann, published in the Transactions of the
+Swedish Academy, for 1826. There is also in the Acts of the Royal
+Society, at Upsal, an excellent paper on this subject by Professor
+Wahlenberg. Our highly esteemed friend, Dr. James E. Dekay, has also
+given in the first volume of the Annals of the Lyceum of Natural
+History of New York, some very interesting and ingenious observations
+on the nature and the structure of the Trilobites, with a description
+of a new genus. These are the principal authorities which have been
+consulted in arranging the present work.
+
+[Footnote 4: I cannot let this opportunity pass, without acknowledging
+my obligations to Professor Brongniart, for his civilities, when on a
+late visit to Paris. Every one whose curiosity leads him to examine the
+royal manufactory of porcelain, at Sevres, of which he is the director,
+will no doubt acknowledge that his talents as a philosopher, are
+rivalled by his accomplishments as a gentleman.]
+
+Our object in the present undertaking being merely to give a monograph
+of the species of Trilobites found in the rocks of North America; we
+leave to other and abler hands the more difficult and interesting task
+of determining with precision the connexion which may exist between
+these organic reliques, and the relative ages of the strata in which
+they are found.
+
+It is supposed, indeed, that a sufficient number of well characterized
+species have not yet been collected and accurately described, to throw
+any certain and clear light on otherwise doubtful geological phenomena.
+What has been remarked by De Candolle, with regard to botanical
+geography, is perhaps true of these fossils as to solving the difficult
+problems of geology--"Let us not forget," says he, "that this science
+can only be commenced when the study of _species_ has been sufficiently
+advanced to furnish us with numerous and well authenticated facts."
+
+We are well aware of the difficulty of settling the line which ought
+to divide species. Individuals perfectly identical in all their
+parts, are rarely, if ever seen; though a general resemblance may be
+easily traced. Among fossils, just discriminations of this kind are
+more delicate, than in recent specimens. The hand of time, accidental
+causes, and the influence of atmospheric changes often produce such
+characters as to render the determination of fossil species an
+exceedingly difficult task. We have no doubt, therefore, that a few of
+our Trilobites, which are now considered as perfectly identical with
+some found in Europe, will upon fuller examination, be discovered to be
+dissimilar, and of course certain geological speculations grounded on
+the first opinion, be ultimately abandoned.
+
+The geographical distribution of organic remains, is an exceedingly
+curious inquiry. If accurately pursued, without reference to any
+preconceived theory, it will no doubt furnish much information as to
+the comparative ages of the different strata which compose the external
+crust of our planet--for that these strata were deposited or formed at
+periods of time more or less remote from each other, every one knows,
+to be a generally admitted _geological fact_. The occurrence of similar
+fossils in districts of country remotely situated from each other,
+certainly presents a phenomenon highly interesting to the speculative
+naturalist, and apparently indicates that the same powerful and general
+causes must have concurred to produce these isomorphous depositions. No
+fossils have contributed more to this kind of information, than those
+of shells, and as the mineralized species could not be satisfactorily
+studied, except by accurately comparing them with those which now
+inhabit our seas and continents; the search for shells, has become,
+from a simple amusement, the study of scientific men--or, as a writer
+remarks, "it was only after the period when it was perceived that
+geology and ancient zoology were destined to be enlightened by their
+fossil remains, that this research passed from the hands of amateurs
+into those of naturalists."[5]
+
+[Footnote 5: We have not unfrequently noticed, both in the writings
+and conversation of some geologists, a disposition to sneer at the
+subsidiary branches of natural history. Mineralogy and conchology, are
+light and mean in their estimation, when compared with the study of
+extensive strata and ponderous boulders. Like Irving's testy governor
+of Manahatta, who settled the accounts of his clients by placing their
+books in the opposite scales of a balance, they decide on the value
+of a science, by the absolute weight of the objects embraced by it.
+Geology, as well as any other branch of natural history, may degenerate
+into a mere love for the curious, or have for its principal aim, the
+perfection or improvement of some ideal system of classification,
+without advancing a single step further.]
+
+Another curious _geological fact_ appears to be established more
+especially by fossil trilobites; it is that precisely the same species
+of animal relic, is the most generally diffused over the globe, in
+proportion to the antiquity of the rock which contains it. Thus the
+transition limestone of England, France, Germany and Sweden, contains
+the species called the Calymene of Blumenbach, in common with the same
+formation which extends over so large a portion of the United States.
+
+Different genera and species of the trilobite are now found in almost
+every part of the globe, and are frequently exceedingly abundant in the
+rocks which contain them. That they must have swarmed in particular
+places, is abundantly evident from a number of localities in our own
+country,--millions, for example, must have lived and died not far
+from Trenton falls, in the State of New York. There are very few of
+the numerous visiters to that romantic cascade, whose curiosity is
+not awaked, by the multitude of these petrified beings, seemingly of
+another world, which are there entombed.
+
+Although many parts of the trilobite are now found distributed through
+the rocks which contain them, in such a manner as to lead to the
+conclusion, that they were separated by decomposition, after the death
+of the animal; yet the perfect preservation of others, and the rolled
+and disjointed attitudes which we should expect such creatures to
+assume when disturbed, lead to the conjecture, that they have been
+often suddenly destroyed, and as suddenly enveloped in that earthy
+matter, which afterwards became an indurated rock; thus preventing the
+separation of the harder parts, by the slow process of decomposition.[6]
+
+[Footnote 6: Vide De la Beche's Geological Manual.]
+
+The fossil remains of the trilobite family, are supposed by most
+naturalists to belong to a race of beings now extinct; but from the
+strong analogy which exists between them and certain species of
+crustaceous animals now living, it is highly probable that they will
+yet be found alive. This opinion will not be regarded as visionary,
+when it is recollected how large a portion of the surface of the earth
+is still unexplored by its enlightened and civilized inhabitants--how
+small the number of animated beings are yet known to the scientific
+world--and above all the fact, that many animals as confidently
+declared to be peculiar to a former world, are now found to be among
+the creatures at present in existence. This opinion, we think, is
+quite as plausible, and far more interesting, than the blank and
+unsatisfactory hypothesis that all the trilobites are confined to an
+order of things before the present glorious creation.[7]
+
+[Footnote 7: The incorrectness of the inference that all the genera
+and species of fossil animals found in the transition rocks must be
+now extinct, will appear from the following extract from Bakewell's
+Geology:--"The _Madrepora stylina_, so common in transition lime-stone
+rock, is entirely wanting in the secondary and tertiary strata, but a
+living animal of this species has been recently discovered in the South
+Seas. The Pentacrinus makes its first distinct appearance in the lias;
+but is not frequently met with in the upper strata, and disappears
+entirely in the uppermost formations: hence it was long supposed
+that the species was extinct. A living Pentacrinus has recently been
+discovered in the West Indies, and its stem and branches in a perfect
+state have been sent to this country." (England.) In the Museum at
+Albany, N. Y., I have examined a recent Pentacrinus, which I conclude,
+came from the West Indies, from the proprietor's account of the manner
+in which he obtained it. It has been a very perfect specimen but the
+branches are gradually dropping off.]
+
+There appears to have been known to naturalists, when the improved
+edition of Prof. Brongniart's work on the trilobites appeared in 1822,
+but 17 well marked species, and out of which he constructed the five
+following genera, which he thus characterizes.
+
+
+_Genus First._ Calymene.
+
+_Body_ capable of contraction into nearly a semicylindrical sphere.
+
+_Buckler_ with many tubercles or folds. Two reticulated eye-shaped
+tubercles.
+
+_Abdomen and Post-abdomen_ with entire edges. Abdomen divided by 12 or
+14 articulations.
+
+No elongated tail.
+
+
+_Genus Second._ Asaphus.
+
+_Body_ broad and rather flat. Middle lobe prominent and very distinct.
+
+_Flanks or lateral lobes_ each double the size of the middle lobe.
+
+_Submembranaceous expansions_ extending beyond the lateral lobes.
+
+_Buckler_ semicircular, with two reticulated eye-shaped tubercles.
+
+_Abdomen_ divided into 8 or 12 articulations.
+
+
+_Genus Third._ Ogygia.
+
+_Body_ much depressed into an oblong ellipsis not contractile into a
+sphere.
+
+_Buckler_ edged, a slight longitudinal furrow arising from its anterior
+extremity. Posterior angles elongated into points.
+
+_Without any tubercles_ except the eyes, which are neither prominent
+nor reticulated.
+
+_Longitudinal lobes_ slightly prominent.
+
+_Abdomen_ with 8 articulations.
+
+
+_Genus Fourth._ Paradoxides.
+
+_Body_ depressed not contractile.
+
+_Flanks_ much broader than the middle lobe.
+
+_Buckler_ nearly semicircular three transverse furrows on the middle
+lobe.
+
+_Eye-shaped tubercles_ none.
+
+_Abdomen_ with 12 articulations.
+
+_Arches_ of the lateral lobes, more or less prolonged beyond the
+membrane which sustains them.
+
+
+_Genus Fifth._ Agnostus.
+
+_Body_ ellipsoidal--semicylindrical.
+
+_Buckler and flanks_ edged--the edges being slightly elevated.
+
+_Middle lobe_ with two transverse divisions, each composed of a single
+piece.
+
+_Two glandular_ tubercles on the anterior part of the body.
+
+In 1824, Dr. J. E. Dekay added a sixth genus to the family of the
+trilobites, which he describes in the following manner.
+
+
+_Genus Sixth._ Isotelus.
+
+_Body_ oval oblong, often contracted, not unfrequently extended.
+
+_Head_ or _buckler_ large and rounded, equalling the tail in size, with
+but two oculiform tubercles.
+
+_Abdomen_ with 8 articulations.
+
+Frontal process beneath, with two semilunar terminations.
+
+_Post-abdomen_ or _tail_ broad, expanded with indistinct divisions, as
+large as the buckler.
+
+_Longitudinal_ lobes very distinct.
+
+This genus, he remarks, will be sufficiently distinguished from the
+five genera proposed by _M. Alexandre Brongniart_ in his valuable and
+truly philosophical work on the trilobites by the following particulars.
+
+From _Calymene_. By the presence of but two tubercles on the buckler
+not reticulated; by the abdomen with but 8 articulations.
+
+From _Asaphus_. By the middle lobe, which is double the size of the
+lateral ones; by the absence of a membranaceous expansion on the sides;
+by the non-reticulation of the eyes, &c.
+
+From _Ogygia_. By the rolled form, the rounded posterior angles of the
+buckler, and the distinct articulation of the longitudinal lobes.
+
+From _Paradoxide_ and _Agnoste_ by characters too obvious to be
+enumerated. (See Annals of N. York Lyceum, Sec. Vol. I. pp. 174-5.)
+
+In 1826, J. W. Dalman published in the Transactions of the Swedish
+Academy, and also in a separate work, an account of the trilobites
+found in the North of Europe, in which he has enriched the family by
+a number of fine species, and with the following genera, which he
+modestly proposes merely as subdivisions.
+
+
+_Genus Seventh._ Nileus.
+
+_Body_ short, capable of contraction into a sphere, smooth, convex.
+
+_Abdomen_ with about 8 articulations, without any dorsal longitudinal
+furrows.
+
+_Buckler_ sub-lunate, with large lateral eyes.
+
+_Tail_ expanded, not so large as the buckler, without lobes.
+
+
+_Genus Eighth._ Illænus.
+
+_Body_ ovate oblong, contractile.
+
+_Head_ rounded in front, eyes small, in the temples, very remote.
+
+_Abdomen_ with from 9 to 10 articulations, trilobate.
+
+_Tail_ expanded as large as the head.[8]
+
+[Footnote 8: Some of the species described by Professor Dalman as
+included in this genus, we think ought to be referred to that of the
+Isotelus.]
+
+
+_Genus Ninth._ Ampyx.
+
+_Body_ very short, contractile.
+
+_Buckler_ large, triangular, gibbous; eyes not remarkable.
+
+_Abdomen_ short, articulations few (6?), trilobate.
+
+_Tail_ expanded, not so large as the head.
+
+Professor Dalman has two other genera, which he calls Olenus and
+Battus, the first is the Paradoxides, and the second the Agnostus of
+Brongniart.
+
+In the 8th Volume of Annales des Sciences Naturelles there is a highly
+valuable paper "Sur les Trilobites et leurs gisemens," by the Count
+Rasoumowsky, in which he describes some new trilobites from Russia;
+the one which he has figured and described as a Calymene[9] from
+Tzarsko-Selo, undoubtedly belongs to a new genus, very near to the
+Isotelus. The middle lobe is visible or naked through its whole extent,
+and the lateral lobes near the tail are covered with a thick cuticular
+membrane. This genus we propose to call Hemicrupturus, and may be thus
+characterized.
+
+[Footnote 9: The editors of the Annales remark that this is not a
+Calymene, but that it appears to belong to the genus Asaphus.]
+
+
+_Genus Tenth._ Hemicrupturus.[10]--_Green._
+
+[Footnote 10: From three Greek words which signify _half-concealed
+tail_.]
+
+_Body_ contractile.
+
+_Buckler_ oculiferous and not lobate.
+
+_Abdomen_ trilobate, with 8 articulations.
+
+_Tail_, costal arches covered, middle lobe naked.
+
+The Asaphus expansus of Dalman, and several other known species may be
+arranged under this genus.
+
+As Count Rasoumowsky has given no specific appellation to the
+fossil above alluded to, we propose to call it after his own name,
+_Hemicrupturus Rasoumowskii_. We examined the fine specimen from which
+our cast is taken in the cabinet of the Baltimore College, and for this
+favour we are indebted to the kindness of Dr. J. J. Cohen, one of the
+Professors in that rising institution.
+
+The following list includes _all_ the genera and species of the
+Trilobite Family, hitherto described as far as known to the author. It
+is taken from De La Beche's Manual of Geology.
+
+        NAMES.             AUTHORS.        LOCALITIES.
+
+  Calymene Blumenbachii,   Al. Brong.     Europe--U. States.
+           Macrophthalma,    do.          Europe--U. States.
+           Variolaris,       do.          Europe.
+           Tristani,         do.          Europe--U. States.
+           Bellatula,      Dalman.        Europe.
+           Ornata,           do.          Europe.
+           Verrucosa,        do.          Europe.
+
+  Calymene Polytoma,       Dalman.        Europe.
+           Artinura,         do.          Europe.
+           Sclerops,         do.          Europe.
+           Schlotheimi,    Brown.         Europe.
+           Latiferus,        do.          Europe.
+
+  Asaphus Cornigerus,      Al. Brong.     Europe.
+          Caudatus,          do.          Europe--U. States.
+          Hausmanni,         do.          Europe--U. States.
+          De Buchii,         do.          Europe.
+          Brongniartii,    Deslongchamps. Europe.
+          Extenuatus,      Wahlenberg.    Europe.
+          Granulatus,        do.          Europe.
+          Expansus,          do.          Europe.
+          Crassicauda,       do.          Europe.
+          Angustifrons,      do.          Europe.
+          Heros,           Dalman,        Europe.
+          Platynotus,        do.          Europe.
+          Frontalis,         do.          Europe.
+          Læviceps,          do.          Europe.
+          Palpebrosus,       do.          Europe.
+          Sluzeri,           do.          Europe.
+
+  Ogygia  Guettardii,      Al. Brong.     Europe.
+          Desmaresti,        do.          Europe.
+          Wahlenbergii,      do.          Europe.
+          Sillimani,         do.          Europe--U. States.
+
+  Paradoxides Tessini,       do.          Europe.
+          Spinulosus,        do.          Europe.
+          Gibbosus,          do.          Europe.
+          Scaraboides,       do.          Europe.
+          Hoffii,          Goldfuss.      Europe.
+
+  Nileus Armadillo,        Dalman.        Europe.
+          Glornerinus,       do.          Europe.
+
+  Illænus Centaurus,       Dalman.        Europe.
+          Centrotus,         do.          Europe.
+          Laticauda,       Wahlenberg.    Europe--U. States.
+
+  Ampyx    Nasutus,        Dalman.        Europe.
+  Olenus   Bucephalus,     Wahlenberg.    Europe.
+  Agnostus Pisciformis,    Al. Brong.     Europe.
+  Isotelus Gigas,          De Kay.        United States.
+           Planus,           do.          United States.
+
+
+Genera and Species not fully determined.
+
+  Trilobites Cephaleurya,  Rafinesque,    United States.
+            Simla,           do.          United States.
+            Granulata,       do.          United States.
+  Bilobites Lunulata,        do.          United States.
+            Lobata,          do.          United States.
+
+From the short descriptions given by Professor Rafinesque of the five
+last mentioned fossils, I conclude that they belong to the genus
+Calymene of Brongniart.
+
+The study of the trilobites naturally leads to the consideration of
+those beings which appear to have inhabited our earth previous to the
+creation of man. Every one knows that the sceptical naturalist has
+drawn from these vestiges of organic life, an argument contradictory
+to the Mosaic account of the history of the world, and though every
+cavil of the least importance, urged against the truth of the sacred
+historian, has been triumphantly confuted, still, the geological
+sciolist boldly impugns his veracity, whenever any new facts in his
+science can be distorted to his purpose. Such being the case, we
+cannot conclude this preface without briefly stating two or three
+methods by which any seeming discrepancies may be explained. First,
+those who imagine that the six periods of creation, mentioned in the
+beginning of the pentateuch, mean literally days of 24 hours each,
+believe that, as only a small part of the earth was at first required
+for the abode of man and the higher animals, the present continents
+might have remained as long beneath the waters, and have undergone
+every change necessary to solve this geological puzzle.
+
+Again, others have thought that Moses, after recording, in the first
+sentence of Genesis, the great truth that all things were made by the
+will of an intelligent Creator--passed silently over some intermediate
+state of the earth, which had no direct relation to the history, or to
+the duties of man--and proceeded to describe the successive appearance
+of the present order of things. On this supposition, the fossil remains
+and peculiarities in the structure of the earth may have belonged to
+that intermediate state.
+
+A third method of explaining the difficulty, and which we think highly
+satisfactory, is, by understanding the days of creation to mean, not
+ordinary days, but _periods of time_, in which the recorded events took
+place in the order described so briefly by the sacred historian. It is
+acknowledged by every one competent to judge, that among the Hebrews,
+_days_ and _weeks_ were often used in this manner. The accordance
+between the order in which, according to the account of Moses,
+the work of creation was accomplished, and the order in which the
+fossil remains of plants and animals are deposited in the earth, has
+surprised, and has been acknowledged by learned sceptics themselves.[11]
+
+[Footnote 11: The Baron Cuvier, on this subject, remarks, respecting
+the Jewish legislator--"His books show us, that he had very perfect
+ideas respecting several of the highest questions of natural
+philosophy. His cosmogony, especially, considered purely in a
+scientific point of view, is extremely remarkable, inasmuch as the
+order which it assigns to the different epochs of creation, is
+precisely the same as that which has been deduced from geological
+considerations."]
+
+It will be useless to push these arguments further. The catastrophes
+which have produced the secondary strata, and the diluvian depositions,
+could not have been local or partial phenomena; but rather than call
+upon a comet, with the abstracted philosopher, to deluge the earth
+for every new geological epoch--or to change the axis of motion of
+our planet--or to resort to any of his wild, fanciful, and impious
+theories, we should, with Sir Humphrey Davy, even prefer the dream that
+all the secondary strata were _created_, filled with the remains, as it
+were, of animal life, to confound the speculations of our geological
+reasoners.
+
+
+
+
+ACKNOWLEDGMENTS.
+
+
+Every author who attempts a Monograph of any of the departments of
+Natural History, must necessarily depend, in a greater or less degree,
+upon the kindness and liberality of others. Rare and unique specimens,
+particularly of fossil species, are often scattered through different
+cabinets, and his work would be rendered very imperfect, if they were
+not intrusted to his care. In preparing the following Monograph on the
+plan of giving exact models of the species, instead of illustrating
+them by engravings in the usual manner, the specimens when used by
+the artist are perhaps more liable to accident, and it was at first
+supposed that this circumstance might have prevented the original
+design. But in no instance, where an application has been made, either
+to a public institution or to a private cabinet, has the author met
+with a refusal; indeed the courtesy, kindness, and liberality which
+he has experienced from naturalists, who have every where aided him
+in the prosecution of his work, form no inconsiderable portion of the
+gratification which he has received. Besides the acknowledgments to
+public museums, and to individuals, which are made in the body of the
+work, the author is desirous of recording in this place, the following
+cabinets from which he has derived much assistance.
+
+
+                           IN PHILADELPHIA.
+
+               The Cabinet of John P. Wetherill.
+               The Cabinet of the Academy of Natural Sciences.
+               The Philadelphia Museum. (Peale's.)
+               The Cabinet of P. A. Browne, Esq.
+               The Cabinet of Dr. R. Harlan.
+               The Cabinet of William Hyde.
+               The Cabinet of J. Pierce.
+               The Cabinet of the Geological Society.
+                                 ————
+               Lambdin's Museum, Pittsburgh, Pa.
+               The Cabinet of D. Keim, Reading, Pa.
+
+
+                             IN NEW YORK.
+
+               The Cabinet of the Lyceum of Natural History.
+               The Cabinet of Dr. J. E. Dekay.
+               The New York Museum. (Peale's.)
+
+
+                              IN ALBANY.
+
+               The Cabinet of the Albany Institute.
+               The Cabinet of Professor T. R. Beck.
+               Albany Museum.
+               The Cabinet of Dr. James Eights.
+                                 ————
+               The Cabinet of the Rensselaer School.
+
+
+                             IN BALTIMORE.
+
+               The Cabinet of Dr. Joshua J. Cohen.
+               The Cabinet of the Baltimore College.
+               The Cabinet of the Atheneum.
+               The Baltimore Museum.
+                                 ————
+               The Cabinet of Professor Hall, Mount Hope.
+
+
+
+
+                            TRILOBITES, &c.
+
+                             ·—▸⏵►●◓●◄⏴◂—·
+
+
+
+Genus Calymene. _Brongniart_.
+
+The name of this genus is derived from a Greek word which signifies
+_obscure_ or _concealed_. The fossil animals included by it are
+characterized as having contractile bodies; the buckler as bearing many
+tubercles or folds--the cheeks as being oculiferous, and the abdomen
+and tail as being composed of from twelve to fourteen articulations
+or joints, without any membranaceous expansion. The Calymenes in
+thickness are nearly semicylindrical, and the buckler in front presents
+a _chaperon_ or upper lip more or Jess raised. In perfect specimens,
+there is a small furrow which seems to indicate a separation between
+the upper and under parts of this kind of lip. The eyes are always
+raised, and frequently present the remarkable structure observable in
+many of the _crustacea_; but as this part is generally very prominent,
+the _reticulations_ of the eye are commonly worn off or injured.
+
+Professor Brongniart places but little confidence in any of the generic
+characters above enumerated, except the number of articulations of the
+abdomen: these, however, in our opinion, are more vague and uncertain
+than most of the others. The genus, however, we think may be readily
+identified, after becoming familiar with one well characterized
+species. The general aspect of the buckler is peculiar--the body is
+not so depressed as in most other genera, and the lateral lobes are
+destitute of all membranaceous expansion.
+
+To the genus Calymene, belongs the celebrated Dudley fossil, called
+_Entomolithus paradoxus_ by Blumenbach, but which is not the same
+organic relic, to which Linné applied that name.
+
+This genus includes a great number of species, and though some of them
+are said to be found in different and distant parts of the globe, they
+are according to our limited observation, for the most part confined,
+like recent species of animals, to particular districts. The C.
+polytoma, C. pulchella, C. bellatula, C. concinna, C. sclerops, and
+the C. punctata, all finely figured by Professor Dalman, and which
+are found in Sweden, have not yet been noticed in any part of North
+America.[12]
+
+[Footnote 12: See the valuable and extensive communication of J. W.
+Dalman, M. D., on the Trilobites, in the Transactions of the Swedish
+Academy for 1820, part 2d.]
+
+
+Calymene Blumenbachii. _Brongniart._ Cast No. 1.
+
+  Clypeo rotundato, tuberculis sex distinctis in fronte; oculis in
+  genis emintissimis; corpore tuberculato.
+
+In this species the upper lip presents a furrow parallel to its edges.
+The lip is straight. The cheeks are a little projecting. There are
+six rounded tubercles on the front, and fourteen articulations on the
+back; the tail is small, and the shell is covered with small rounded
+tubercles of unequal sizes.
+
+The above is Professor Brongniart's description of this trilobite,
+which is the famous Dudley fossil described and figured by Littleton,
+in the Philosophical Transactions, (London) in 1750. According
+to Dalman, several distinct European species have been published
+under this name. The true C. Blumenbachii, he says, has thirteen
+articulations to the abdomen, and about eight to the tail. In the
+cabinet of G. W. Featherstonhaugh, Esq., we have examined a fine
+perfect specimen from Dudley,[13] in which there is fourteen abdominal
+joints. There can be no doubt, however, that several species have been
+confounded under the name of C. Blumenbachii; Dalman's C. Tuberculata
+and C. Pulchella are, we think, distinct from it, though he has marked
+them only as varieties.
+
+[Footnote 13: This famous trilobite, once formed a part of the cabinet
+of Mr. Parkinson, the distinguished author of the "Organic Remains,"
+and is accurately figured on one of the plates of that splendid work.
+At the sale of the late Mr. Parkinson's fossils, it was purchased by
+Mr. Featherstonhaugh,]
+
+The true C. Blumenbachii, no doubt, abounds in North America, and is
+one of the few examples of the occurrence of an identical species
+on both continents. The late Abbe Correa sent a perfect specimen to
+Brongniart, from the vicinity of Lebanon, in the state of Ohio. We
+have also seen a number of specimens from that state, which could not
+be distinguished from the Dudley trilobite. Our model was taken from a
+specimen found at Trenton Falls, in the state of New York.
+
+The three following species found in the United States, will no doubt
+be considered by many as mere varieties of the C. Blumenbachii; we have
+ventured, however, to call them by distinct names.
+
+
+Calymene Callicephala.[14] _Green._ Cast No. 2.
+
+[Footnote 14: From two Greek words, which signify "beautiful head."]
+
+  Clypeo antice attenuato, figura liliiformi in fronte depicta;
+  oculis minimis; abdomine quatuordecim articulis; corpore plano.
+
+The buckler is subtriangular; on the front there is a figure in high
+relief, somewhat resembling a _fleur de lis_; or perhaps more, the
+capital of a Corinthian column. The oculiferous tubercles are rather
+lower down on the cheeks than usual. The articulations of the abdomen
+and the tail cannot well be distinguished from each, other; fourteen
+in all may be easily counted. The middle lobe of the abdomen is nearly
+equal in breadth throughout. The ribs, or costal arches, are not
+grooved or bifurcated at their extremities. Length nearly two inches
+and a half.
+
+This beautiful species is in the Philadelphia Museum, where it is
+labelled as being found in "Hampshire, Virginia." It is mineralized by
+a dark yellowish limestone. It differs from the C. Blumenbachii, in
+the form and number of its articulations; in the shape of the head; in
+having only two flat tuberculous elevations on the front; and in other
+particulars.
+
+In the cabinet of the New York Lyceum, and in that of J. P. Wetherill,
+Esq. there are some examples of this species from the Miami river, near
+Cincinnati, Ohio. I have also seen it from Indiana, in a dark coloured
+limestone, very much distorted. It has never been found at Trenton
+falls, or at any other locality, as far as my knowledge extends, which
+yields the true C. Blumenbachii.
+
+
+Calymene Selenecephala.[15] _Green._ Cast No. 3.
+
+[Footnote 15: From the Greek for "lunate head."]
+
+  Clypeo antice rotundato, margine omni valde incrassato; prominentia
+  frontali utrinque trituberosa; corpore tuberculato.
+
+The buckler is regularly lunate; the margin is slightly reflected or
+raised anteriorly, the posterior edge forms a continuous rim, running
+nearly parallel with the articulations of the abdomen. The front on
+each side has one large and two small tubercles, near its superior
+edge. The oculiferous tubercles on the cheeks are on a line with the
+lowest frontal tubercle. There are fourteen distinct articulations;
+but as the tail is mutilated and distorted, the total number of
+joints cannot, from this specimen, be ascertained. The body appears
+to have been covered with small pustules. These are very evident on
+the front. Costal arches simple, or not grooved. Length, one inch and
+three-fourths, breadth of the buckler one inch and one-fourth.
+
+This species resembles a little the C. Pulchella of Dalman. The
+specimen from which the model was taken, is in the possession of Mr.
+R. Peale, of New York, who willingly lent it for this monograph. He
+informed me that it was found in the state of New York, but he was
+unable to name its precise locality. It occurs in a soft ash coloured
+limestone. No other petrifaction is observable in the fragment of rock
+which contains it.
+
+
+Calymene Platys.[16] _Green._ Casts No. 4 and 5.
+
+[Footnote 16: From a Greek word which signifies Flat,]
+
+  Clypeo antice rotundato; prominentia frontali utrinque quatuor
+  tuberculis.
+
+The buckler is probably semilunate; but as the anterior portion is
+lost, this cannot be determined with precision. The posterior raised
+rim is not continuous, as in the C. Selenecephala, but is separated by
+the longitudinal dorsal furrows. The front is distinctly divided from
+the cheeks, and has four tubercular prominences on each side. Three
+of them are nearly on a line with the lateral edge of the cheeks, and
+gradually diminish in size, as they descend to the anterior part of
+the buckler. The other is smaller, and is between, and a little to
+the side, of the upper two. The cheeks form spherical triangles. The
+oculiferous prominences are close to the second large tubercle on the
+front. The cheeks are, however, quite imperfect. The articulations
+of the back cannot be distinguished from those of the tail. In our
+specimen they are all beautifully distinct, and are twenty-two in
+number. The posterior raised rim of the buckler seems to form an
+articulation; its extremities on each side are a good deal thickened
+and expanded. The costal arches suddenly curve downwards and backwards,
+near their middle, so as to divide the abdomen and tail into five
+unequal sections. The whole length is nearly three inches. The breadth
+of the buckler nearly two inches.
+
+This fine large Calymene was accidentally discovered on the Helderberg
+mountain, by my friend, Professor T. R. Beck. One of the loose pieces
+of sandstone rolling over, near his feet, presented him the fine
+natural mould, from which he has kindly permitted our cast to be taken.
+The animal relic once enclosed in this matrix, must still be near that
+locality, and yet remains undiscovered, to reward the enterprise of
+some more fortunate naturalist.
+
+One of our models represents the natural mould found by Dr. Beck. The
+other is a cast taken from it and exhibits, more satisfactorily, the
+various parts of the animal.
+
+
+Calymene Microps.[17] _Green._ Cast No. 6.
+
+[Footnote 17: From the Greek for "small eyes."]
+
+  Clypeo antice subattenuato; occulis minimis in lateribus capitis;
+  abdominis articulis a 14 ad 18; corpore depresso.
+
+The buckler is semi-elliptical, slightly punctate, and much depressed
+anteriorly; the front and cheeks are not very distinctly marked. The
+eyes are very remote from each other, being situated near the posterior
+lateral angles of the head. They are not very prominent, and exhibit
+no marks of being reticulated. Before the eye on each side, there is
+a slight transverse indentation. It is difficult to distinguish the
+articulations of the abdomen from those of the tail. They are from
+fourteen to eighteen in number. Where the lateral lobes remain perfect,
+two narrow raised lines appear between each of the ribs; these are
+most evident on the caudal extremities of the animal. The middle lobe
+is in the form of a long, slender, and acute cone. The whole animal is
+an inch and a quarter long, and is much more depressed than any other
+Calymene which we have seen.
+
+I am indebted to Mr. Titian R. Peale for the use of the original from
+which our model was taken, his liberality to those who cultivate
+Natural History is proverbial, and needs no encomium from me. The C.
+Microps is said to have been found near Ripley, Ohio. It occurs in
+black limestone.
+
+The eyes of this Calymene are small in comparison with those of some
+other species--particularly the C. Bufo, C. Macrophthalma, and C.
+Anchiops.
+
+
+Calymene Anchiops.[18] _Green._ Cast No. 7.
+
+[Footnote 18: From two Greek words which signify "eyes approximate."]
+
+  Clypeo antice, caudaque postice rotundatis; oculis approximis,
+  magnis, excertis; articulis vigenti; corpore plano.
+
+The buckler of this species is irregularly hemispherical; the front
+pyriform and without pustulations. The cheeks are almost entirely
+occupied by the eyes, which are placed very near each other on the
+upper part of the forehead; are very large and trilobate, the side
+lobes being elongated and attenuated in front. The articulations
+of the back are twenty in number, those of the abdomen not being
+distinguishable from those of the tail. The costal arches of the side
+lobes are round near their extremities, and are intersected with two or
+three raised lines. Length nearly four inches. Breadth about two inches.
+
+It gives me great satisfaction in being able to describe, and to
+present to naturalists a good cast of this Calymene, which has
+excited for a long time so much interest and perplexity. The original
+fossil from which our plaster model was made is now deposited in
+the cabinet of the Albany Institute, and is the identical specimen
+from which a cast was long since made, by Dr. Hosack of New York, a
+specimen of which he sent in July, 1819, to the Royal Academy of
+Science, in France. Professor Brongniart referred the animal from
+which this model was taken, though with much hesitation and doubt,
+to the species, Calymene Macrophthalma. He remarks concerning it,
+"Il est beaucoup plus gros que les autres individus, et a prés de
+dneuf centimètres de longueur. C'est avec doute que je rapporté
+cette empreinte tres-peu nette à l'espèce actuelle; mais malgré ses
+formés obtuses, et l'absence de tout detail, elle est si remarquable
+par la grosseur de ces yeux et par le prolongement de son bouclier
+qu'on peut présumer qu'elle appartient an calyméne macrophthalme, et
+avec d'autànt plus de probabilité qu'elle vient aussi des Etats Unis
+d'Amérique. Elle a été trouvée, suivant M. Hosack, dans un schiste."
+We have seen the cast alluded to in the above note, and are not at all
+surprised at the uncertainty which it has occasioned. The apparent
+prolongation of the buckler is entirely occasioned by the loss of a
+small fragment from that portion of the head. The form and position of
+the eyes, further distinguish it from any of the numerous specimens
+of C. Macrophthalma, that we have examined. The raised lines which we
+have noticed as intersecting the costal arches of the lateral lobes
+are remarkable, though they may have been produced by accidental
+fissures in the epidermal covering of the animal. The head of the C.
+Macrophthalma is always marked by minute and prominent granulations,
+like _shagreen_--nothing of this kind appears on the buckler of the C.
+Anchiops.
+
+I am informed by my friend, Dr. T. R. Beck, to whose liberality I owe
+this interesting species, that it was found in Ulster county, New
+York. It was supposed by Dr. Hosack, to have been discovered in the
+vicinity of Albany. Respecting the locality and geological relations of
+this trilobite, Professor Brongniart remarks, "un modéle en plâtre de
+trilobite envoyé à l'Académie des Sciences, en Juillet, 1819, par M.
+Hosack, et que j'ai rapporté, autant que la chose était possible, et
+toujours avec doute, au calyméne macrophthalme, a été trouvé dans le
+territoire d'Albany, êtat de New York. Or, les environs de cette ville
+sont indiqués, sur la carte géologique de M. Maclure, comme formés de
+terrains de transition. M. Hosack dit qu'il a été trouvé au milieu d'un
+rocher ardoisé, c'est à dire, dans un schiste probablement analogue à
+celui des environs d'Angers, qui renferme les Ogygies, et ce trilobite
+ce rapproche un peu de ce genre par la grosseur des tubercules qui
+recouvrent les yeux on en tiennent la place." The rock in which the
+Calymene Anchiops is found, appears to be a clay slate.
+
+
+Calymene Diops.[19] _Green._ Cast No. 8, and fig. 2.
+
+[Footnote 19: From the Greek for "Double Eyes."]
+
+  Clypeo lobato plano; rugis tribus in lateribus frontis; tuberculis
+  oculiformibus, eminentissimis et duplicibus; articulis octodecim;
+  cauda rotunda.
+
+This species is very distinct from every other Calymene that we have
+seen. The outline of the buckler is lobate lunate; the front is very
+convex, and a good deal elevated above the cheeks or sides, from
+which it is divided by a deep furrow; on the posterior margin of the
+front on each side, close to the groove there is a prominent circular
+tubercle, before which there are three small transverse wrinkles.
+The cheeks are subtriangular; the oculiform tubercle is near the
+posterior superior angle, and is only separated from the tubercle on
+the front, by the furrow or groove, so that the animal seems to have
+had double eyes on each side; there are two curved lines on each side
+below the eyes, crossed near the front by a deep short canal. The
+middle lobe of the abdomen and tail is rather longer than the lateral
+lobes, and is rounded and very prominent throughout. It is composed
+of 18 articulations, seven of which appear to belong to the tail; it
+is, however, somewhat difficult to define the length of the tail with
+precision. The costal arches of the lateral lobes, particularly those
+near the tail, are bifurcate. Length almost three inches.
+
+The original fossil, from which the cast was taken, is in the New York
+Museum. I am indebted to Mr. Rubens Peale, the liberal proprietor of
+that flourishing and important institution, not only for the use of
+it in this Monograph, but also for some valuable information relating
+to other species. The precise locality of Mr. Peale's specimen is
+not known, but in the cabinet of J. P. Wetherill, Esq., there is a
+fine head of the C. diops which was found in the State of Ohio. Both
+specimens are mineralized by the same kind of soft grey coloured
+limestone--and I have but little doubt that they were derived from the
+same place.
+
+
+Calymene Macrophthalma.[20] _Brongniart._ Cast No. 9.
+
+[Footnote 20: From the Greek for "Great eyes."]
+
+  Clypeo antice, caudaque postice attenuatis, oculis magnis exsertis.
+
+This species, according to Al. Brongniart, who first described it,
+is remarkable for the magnitude and protuberance of its eye-shaped
+tubercles, and by the prolongation of the anterior portion of the
+buckler, in the form of a snout.
+
+The back is marked by 12 or 13 articulations, which are thicker than
+those of the tail. The tail is short, pointed, and without expansion.
+
+The middle lobe, or front of the _buckler_, in this calymene, is said
+by Brongniart to be marked on its sides by three oblique plicæ or
+wrinkles, but we have not been able to discover this character in any
+of the specimens to which we have access; neither do they exhibit any
+remarkable prolongation in the anterior portion of the _buckler_, as
+stated in his specific character. The specimens which we have examined,
+agree pretty well with the representation he has given of the C.
+Macrophthalma, Plate I. fig. 5. A. B. & C. made from a drawing by Mr.
+Stokes, from a fossil found in Coalbrookdale (Eng.).
+
+This trilobite is common in several parts of the United States.
+According to Dr. J. E. Dekay,[21] the C. Macrophthalma is found on
+the Helderberg mountains, near Albany, and at Coshung creek, not
+far from Seneca lake, in the State of New York. It occurs also at
+Leheighton, in Pennsylvania--at the Falls of the Ohio, and at several
+other localities. We have examined a number of specimens of the C.
+Macrophthalma, contained in the rich cabinet of fossils, in the Academy
+of Natural Sciences, and have never seen any individual which resembles
+the fig. 4, Plate I. of Brongniart; and in no instance is the front
+of the buckler marked by three oblique folds, a character stated as
+peculiar to this species. The C. Macrophthalma, (variety) occurs in
+large quantities in Leheighton in Pennsylvania, and we are indebted to
+Mr. D. Keim, for some fine specimens from that locality.
+
+[Footnote 21: See Annals of Lyceum, Vol. I. p. 188.]
+
+The authority of Professor Brongniart is sufficient to place the C.
+Macrophthalma among the species of the United States, though we have
+been unable fully to identify it with his description.[22] He received
+a specimen, transformed into red jasper, from Prof. Ducatel, said
+to be found in the United States--no precise locality is given. Our
+model represents the animal which is supposed to be the one intended
+by Brongniart as the C. Macrophthalma of North America. It is, in our
+opinion, a variety of the C. Bufo. There can be no doubt that several
+species have been confounded under the name of C. Macrophthalma.
+
+[Footnote 22: We have seen in the Cabinet of Mr. Featherstonhaugh, a
+fine group of trilobites, in the transition limestone, from Dudley,
+(Eng.) Among them there is a perfect head, which agrees exactly with
+the description given by Mr. Brongniart of the head of his Calymene
+Macrophthalma. If this belongs to the true macrophthalma, our species
+under that name is entirely distinct. Since our work had been prepared
+for the press, Dr. J. J. Cohen, of the Baltimore College, has shown
+us the fragment of a calymene from Berkley, Virginia, which agrees
+with Brongniart's description of the macrophthalma, and with the above
+fossil from Dudley. We regret that the imperfection of the fossil
+prevents our giving a satisfactory cast of it.]
+
+The following extract of a letter from Professor Ducatel to the author,
+referring to the locality of this species, will be read with interest.
+
+"I cannot be positive as to my recollection of the locality of the
+fossil referred to by Brongniart and yourself, but believe it is one
+of several found by my friend Dr. M'Culloh, in the neighbourhood of
+Berkley Springs, Virginia. I regret that I have not in my possession
+another specimen to present to you."
+
+
+Calymene Bufo. _Green._ Cast No. 10.
+
+  Clypeo rotundato, convexo, punctato; abdominis articulis sexdecim;
+  cauda attenuata; corpore plano.
+
+Buckler semilunate, front very large, rounded before and arcuated at
+the insertion of the middle lobe; surface convex, and marked with
+numerous depressed pimples. Mouth large, lunate, resembling that of
+a toad or frog, with a narrow raised rim on the upper and under lip.
+Below the chin there are no pustulations. Cheeks small, triangular,
+and separated from the front by a deep, rectilinear furrow; the eyes
+in our specimen are much injured, but they are large, and near the
+upper angle of the cheeks. Middle lobe with a series of distinct double
+articulations. Lateral lobes wider than the middle lobe, ribs deeply
+grooved near their insertion; articulations of the abdomen twelve; of
+the tail ten. Length four inches and a half; breadth of the buckler
+nearly two inches.
+
+This fossil was presented to me some time since by Thomas P. Johnson,
+Esq., who mentioned that it was found in New Jersey, but that he could
+not learn its precise locality. Near Patterson, in that State, some
+trilobites have been discovered--perhaps the C. Bufo may have been
+derived from that locality. It is composed of a dark greyish limestone,
+easily cut with a knife.
+
+
+Calymene Bufo. Variety, Rana. Cast Nos. 11 & 12.
+
+This fine specimen differs from the one above described, in having the
+front of the buckler rather smaller, and of a different contour. The
+whole of the shell is also covered with granulations, which only appear
+on the head of the other; this, however, may be only an imperfection in
+the specimens in our cabinet.
+
+I am indebted to the Albany Institute for the originals of the models
+Nos. 11 & 12. They were found at Seneca, Ontario County, New York, in
+dark, slaty limestone, which also contains cubical crystals of iron
+pyrites. A fortunate blow of the hammer has fractured the rock which
+contains this trilobite, so neatly, as to present us at the same time
+with the petrified animal in an almost perfect state, and also with
+the mould or matrix in which it was imbedded. This arrangement is
+beautifully illustrated by our models.
+
+
+Genus Asaphus. _Brongniart._
+
+This genus derives its name from the Greek word Ασαφης--obscure. It
+embraces perhaps more species than any other genus of the family of
+trilobites. About twenty have already been discovered. Most of them
+are very characteristic and can easily be determined, but as the genus
+Asaphus, is intermediate between Calymene and Ogygia, it is sometimes a
+little difficult to decide the genus to which the inosculating species
+on each side, belongs.
+
+In general, the Asaphs may be known by the body being very much
+depressed, and by the membranaceous development, which extends beyond
+the lateral lobes. The middle lobe of the abdomen, is rarely more
+than one-fifth the width of the body. As the abdomen and tail of the
+Asaph are the only portions of the animal commonly found entire, the
+distinctive characters of the genus above given, may generally be
+ascertained.
+
+Professor Brongniart remarks, that the ribs of the _Asaph_, which
+correspond in number and position to the articulations of the middle
+lobe, "are sometimes simple or undivided, at least in the post abdomen,
+but that they are always bifurcated in the _Calymene_" As far as our
+observations have extended, these remarks do not apply either in the
+one case or the other.
+
+The head or buckler of the _Asaph_, is not so deeply divided into
+three lobes as the _Calymene_; they are, however, quite distinct. The
+oculiferous tubercles are in some species exceedingly well marked by a
+reticulated structure.
+
+This genus often occurs at the same localities with the Calymene,
+though in some instances it seems to occupy rocks peculiar to itself.
+Dr. John Bigsby, in his list of organic remains occurring in the
+Canadas, states, that he never found a single species of the genus
+Calymene, on the north side of the River St. Lawrence, although
+the Asaphs were very abundant.[23] In his Sketch of the Geology of
+the Island of Montreal, he however observes: "Of Trilobites, the
+Asaph genus is the most abundant, they approach nearest the species
+_caudatus_, of Brongniart. I have found no entire Calymene, but many
+bucklers or heads of the Blumenbach species, some of them an inch and a
+half in diameter. They are found whole in considerable numbers in the
+vicinity of Quebec."[24]
+
+[Footnote 23: Silliman's Journal, vol. viii. p. 83.]
+
+[Footnote 24: Annals New York Lyceum, vol. i. p. 214.]
+
+
+Asaphus Laticostatus.[25] _Green._ Cast No. 13.
+
+[Footnote 25: From the Latin for "broad ribbed."]
+
+  Cauda prælonga, pars ad marginem vix membranacea; cute coriacea,
+  tuberculis minimis; costis latis, convexis et valde distinctis.
+
+The fragments of this species, which we have examined, comprise ten
+articulations of the middle lobe, and the corresponding ribs of the
+sides, all in a very good state of preservation; the extent to which
+the membranaceous expansion reached beyond the tail and the lateral
+lobes is very apparent, but it has been unfortunately broken off all
+round. Our specimen appears to be a natural cast of the internal part
+of the shell, or the coriaceous covering of the animal.
+
+The portion of this specimen of trilobite which still remains perfect,
+is two inches long, and three inches and a quarter broad. The middle
+lobe exhibits the appearance of a very exact and gradually tapering
+cone, its articulations being rounded and slightly flattened on the
+top. The ribs of the lateral lobes are nearly straight, slightly
+arched, broad, rounded, and gradually increase in width from the point
+of their insertion; they are simple or not bifurcated throughout, and
+are covered with very minute granulations, which are probably produced
+by the sandstone in which the animal is mineralized. The membranaceous
+expansion near the caudal termination, is a good deal prolonged.
+
+The A. Laticostatus occurs in a light coloured ferruginous sandstone,
+which contains a multitude of other fossil remains, particularly
+a large species of Productus and of Terebratula. It is said to
+have been found in Ulster county, in the State of New York, by the
+late Charles Wilson Peale, Esq., the distinguished founder of the
+Philadelphia Museum. During the memorable search after the bones
+of the _Mastodon Giganteum_, in the marl pits of that county, this
+enterprising naturalist procured our Asaph with many other remarkable
+petrifactions. The rocks which contain them were probably found not
+_in situ_, but were masses rolled from the neighbouring Shawangunk
+mountains,[26] which by some geologists are supposed to be a link in
+the grand chain of the Alleghanies. Mr. R. Peale, of New York, lately
+visited the rich repository of fossils in Ulster County, and procured a
+number of specimens of the A. Laticostatus, all of which he has kindly
+permitted me to examine. These are much smaller than our cast, but in
+many instances the caudal elongation is perfectly developed. The A.
+Laticostatus also occurs in the Helderberg mountains, specimens of
+which are in the Albany Institute.
+
+[Footnote 26: The Lenape tribe of Indians, who formerly inhabited this
+district of country, gave the name of Shawangunk to this stupendous
+ridge of hills a name which has been very properly preserved.]
+
+
+Asaphus Selenurus.[27] _Eaton._ Casts Nos. 14 & 15.
+
+[Footnote 27: Derived from _Selene_, moon, and _ouros_, tail.]
+
+  Cauda semilunari; costis angustis, valde distinctis; abdominis
+  articulis duodecim; corpore convexo.
+
+I am indebted to Professor Eaton, for two specimens of this very
+interesting species. In his Geological Text Book, he thus describes
+it: "Tail crescent-form, or concavo-convex, with the convex side
+forward, upon which the post abdomen terminates: abdomen contains
+about 12 articulations, with an abrupt termination equal in breadth
+to one-fourth of the length of the transverse lunate tail; the
+articulations of the side lobes gradually incline towards the axis
+of the body, until the last pair terminate at the tail. Found in
+transition limestone at Glenn's Falls, and Becroft's mountain, near
+Hudson. I have a specimen from Becroft's mountain, with part of the
+original covering of the animal remaining."
+
+When we first noticed the remarkable lunate appearance of the tail
+of this Asaph, we supposed that it was occasioned by some accident,
+but there seems no doubt that this conformation is natural. In
+our specimens of this species, which are not however perfect,
+the articulations of the abdomen do not exceed 8 in number. The
+representation of this animal remain given by Mr. Eaton, plate 1,
+figure 1, is exceedingly inaccurate; it will confuse rather than
+illustrate the subject. Our cast and the drawing, we believe, are taken
+from the same specimen, which was kindly loaned by Mr. Eaton for this
+work. It is but justice to the amiable, industrious, and indefatigable
+author of the Geological Text Book to remark, that he regrets as much
+as any one, the insufficiency of his figures of the trilobites, to give
+any correct idea of the fossils they are intended to represent.
+
+In the cabinet of the Albany Institute there are a number of specimens
+of the A. Selenurus. One of our models represents the natural mould
+made by the animal in the rock; the other is an impression taken from
+it, in order to exhibit the animal in a more satisfactory manner.
+
+
+Asaphus Limulurus.[28] _Green._ Cast No. 16.
+
+[Footnote 28: From two Greek words, which signify "Limulus tailed."]
+
+  Cauda longa, spina munita sicut in Limulo; costis abdominis in
+  spinis retrorsum flexis, desinentibus.
+
+It is very much to be regretted that the abdomen and caudal end only of
+this remarkable Asaph have hitherto been discovered; it is, however,
+exceedingly gratifying that the fragment still remains in so perfect a
+state. It forms a part of the magnificent cabinet of organic remains
+belonging to J. P. Wetherill, Esq., now deposited in the Academy of
+Natural Sciences, of Philadelphia.
+
+Dr. J. J. Cohen discovered a small specimen of this species at
+Lockport, New York, which he has presented to the Athenæum, in
+Baltimore.
+
+Eight articulations of the abdomen, and ten of the tail, are all of
+this fine species that we have seen. The ribs, or costal arches of
+the abdomen have a deep furrow on their upper surface, commencing
+at the middle lobe, and terminating near their free extremities;
+these extremities appear all detached from each other, and end in
+reflected points or spines, so as to give the side of the animal a
+serrate appearance. The costal arches of the tail are grooved through
+their whole extent, and present no spinous terminations. Beyond the
+membranaceous expansion of the tail, which is somewhat similar to that
+of the Asaphus Caudatus, there projects a single spine, like that from
+the tail of the _Limulus polyphemus_; this spine may be traced under
+the caudal membrane to its insertion into the middle lobe. A portion
+of the crustaceous shell is still entire, and it seems to have been
+covered with very minute granulations. A row of large granulations
+may easily be traced on each side of the middle lobe. Length of the
+fragment, one inch and a half. Breadth one inch and a fourth.
+
+The A. Limulurus was found in the dark brown, shaly limestone, at
+Lockport, in the State of New York; it is associated in the same rock
+with the terebratula and several other fossils.
+
+The singular spinous projection from the tail of this Asaph, furnishes
+another analogy, between the trilobite and the limulus; an affinity
+which was suggested by Dr. Dekay; and which has been argued with great
+ingenuity both by himself and Professor Wahlenberg.[29]
+
+[Footnote 29: See Nova Acta Regiæ Societatis Upsalensis: 1821. Also,
+Annals of the Lyceum of Natural History. New York. Vol. i. pages
+179-185.]
+
+
+Asaphus Caudatus.[30] _Brünnich. Brongn._ Cast No, 17.
+
+[Footnote 30: From the Latin word for "tailed,"]
+
+  Clypeo antice subrotundato, postice valde emarginato, angulo
+  externo in mucronem producto; oculis exsertis, conicis, truncatis,
+  distincte reliculatis; post abdomine in caudam membranaceam, acutam
+  extenso. (Vide Brongniart.)
+
+The middle lobe of the buckler is marked by three transverse plicæ
+or folds on its posterior part, and its cheeks or lateral portions
+are triangular; the posterior exterior angles of which, are acute,
+and considerably elongated. The cheeks are furnished with conical,
+truncated, semilunar and externally convex tubercles, which were beyond
+all doubt the eyes of the animal, being reticulated as in those of
+the Limulus. The middle lobe of the back is narrow, and has twelve
+articulations. The lateral lobes are composed of double ribbed costal
+arches. Beyond the lateral lobes and the caudal termination, there is a
+smooth, thick membranaceous expansion, which forms an acute projection
+below the central portion of the tail.
+
+The specimen in the Philadelphia Museum, by which I have identified
+this species, is marked as coming from Ripley, Ohio. It reposes on a
+fragment of ash coloured limestone--which contains also a mutilated
+specimen of what seems to be a calymene, and a few small terebratulæ,
+&c.
+
+Dr. John Bigsby, in his "List of Organic Remains, occurring in the
+Canadas," states that the A. caudatus is frequently met with, thrown
+up by the water on the north shore of Lake Superior--on the bank of
+Rainy river--at the Lake of the Woods, and at several other places. In
+some localities they are astonishingly numerous, and so small as to be
+almost microscopic. They occupy indiscriminately limestone of every
+colour, but are most numerous in that which is brown or crystallized.
+They are composed of the kind of limestone in which they happen to be
+embedded.
+
+We have seen a number of specimens of this species in the Albany
+Institute, in Mr. Wetherill's cabinet, and in the Baltimore Athenæum;
+but in all of them, the abdomen and caudal extremity only remain
+perfect: from their exact resemblance, however, to the same parts of
+the A. caudatus, figured by Brongniart, (plate 2, fig. 4, D.) we have
+no hesitation with regard to their identity. The description which
+we have given of the _buckler_, supposed to belong to our Asaph, is
+therefore taken from Brongniart, whose specimens were found at Dudley,
+the celebrated locality of the C. Blumenbachii.[31] The coriaceous
+membrane, which extends beyond the lateral lobes and forms the caudal
+termination of our species, is not covered with minute dots, as in
+the European fossil; and if a new name is to be applied to it on that
+account, it may be called _A. glabratus_.[32] M. Wahlenberg, has given
+the figure of a trilobite which he calls _caudatus_, but ours cannot
+be mistaken for that species, to which Brongniart has very judiciously
+applied the name of _A. meucronatus_.
+
+[Footnote 31: In the first volume, 2d series, of the Transactions of
+the Geological Society of London, Mr. Weaver has published some highly
+interesting observations on the fossils found in Gloucestershire,
+England. The A. caudatus, he states, is there found in the transition
+limestone, though very much mutilated. (Vide p. 326.)]
+
+[Footnote 32: In the cabinet of G. W. Featherstonhaugh, Esq., I have
+examined a fine specimen of the A. caudatus, from Dudley, England,
+but could not perceive the minute dots on the tail, as mentioned by
+Brongniart.]
+
+The conical eye-like protuberances on the head of this species, are
+very remarkable, and so much resemble the reticulated eyes of the
+limulus, as to leave no doubt that they once contained the organs of
+vision.
+
+
+Asaphus Hausmanni. _Brongniart._
+
+  Cauda rotundata; cute coriacea tuberculis minimis spinulosis tecta.
+
+In De la Beche's Geological Manual, there is a list, of the trilobites
+which have been discovered in the grauwacke group of rocks. This list
+we have given in our introduction. Among the trilobites he states that
+the Asaphus Hausmanni has been found in the United States; as we have
+not seen the species, and presuming the author to be correct in his
+locality, we give the following description from Professor Brongniart.
+
+I know, he observes, only the tail of this Asaph, but it is so
+different from that of other trilobites, that I do not hesitate to
+establish a particular species, upon the consideration of this part
+alone. Its general form is that of a semi-ellipsis; the middle lobe
+represents a very slender cone. The arched ribs of the lateral lobes
+are perfectly distinct and simple. I cannot perceive in them the
+slightest appearance of bifurcation. This sufficiently characterizes
+the species. But that which further distinguishes it from the others,
+are the small, elevated points, scattered, and of course rough
+(serrés), with which the skin or epidermis is covered, resembling, in
+this respect, the tail of the _Apus canceriformis_.
+
+This fragment of an Asaph is in a homogeneous, compact, blackish
+limestone, which contains no other kind of petrifaction. I know not
+where it was found. It is in the cabinet of M. de Drée.
+
+On plate 2 of Professor Brongniart's work, he has given figures to
+illustrate this species; fig. 3 A. represents the whole fragment,
+and 3 B. two of the ribs of the lateral lobes, magnified to show the
+arrangement of the tubercles, which are very peculiar.
+
+From the above description it will be readily perceived, that the A.
+Hausmanni comes very near to the A. Laticostatus. There are, however,
+many striking differences, which will be obvious to those who compare
+our cast with the figures of Brongniart. The shape of the ribs, and the
+tubercles upon them; the form of the middle lobe and of the interstices
+between the articulations, are all peculiar to each. The elongation of
+the tail in our species is alone sufficient to distinguish it. We have
+always been doubtful whether the minute granulations on our species
+were not produced by the sandstone in which it is petrified.
+
+Upon what authority the A. Hausmanni has been considered as a species
+belonging to the United States we cannot determine. In the valuable
+and extensive cabinet of trilobites belonging to the Albany Institute,
+there are a number of specimens labelled with this name by Professor
+A. Eaton. If we mistake not, he mentioned to us that similar fragments
+of this fossil were sent by him to Brongniart, who, we understand,
+is the author of the list of trilobites found in the manual of De la
+Beche. The specimens which have been examined, both in the cabinet of
+Professor Eaton, and in that of the Albany Institute, are certainly
+not identical with the figures or descriptions published of the A.
+Hausmanni. Professor Eaton, in his Geological Text Book, at page 31,
+thus describes his A. Hausmanni:--"Tail rounded, and forming the middle
+of a circular arc whose centre is in the fore abdomen, near the head;
+covering tubercled or spined. Found in coral rag on the south shore of
+Lake Erie. Also, in its underlaying grit slate on the Helderberg." Some
+other trilobites mentioned in De la Beche's list as occurring in the
+United States, we have not been so fortunate as to meet.
+
+
+Asaphus Pleuroptyx.[33] Cast No. 18.
+
+[Footnote 33: From the Greek word for "grooved ribs."]
+
+  Corpore depresso; cute coriacea tuberculis minimis; costis
+  striatis; cauda acuta, brevi.
+
+This species like most other specimens of this genus, in our cabinets,
+is decapitated--every other part, however, appears to be in a good
+state of preservation.
+
+The articulations of the abdomen and tail, which cannot readily be
+distinguished from each other, are seventeen in number. The middle lobe
+is flat, and regularly tapers to an obtuse lip; it is marked on each
+side with longitudinal impressed lines or little grooves. The costal
+arches on their upper side have a deep and narrow channel, running
+through their whole course. The costal arches of the abdomen have no
+membranaceous expansion beyond their terminations; this organization
+is only visible immediately below the end of the middle lobe, where it
+quickly finishes in an acute point. A large portion of the crustaceous
+shell remains, and is covered with distinct granulations; those on the
+tail are the least obvious.
+
+This species approaches very near the A. caudatus, but the grooves on
+the middle lobe, the smallness of the costal arches, and the limited
+extent of the membranaceous expansion round the lower portions of the
+shell, will sufficiently distinguish it.
+
+Two specimens of this Asaph are in the cabinet of the Albany Institute.
+The one from which our cast is taken, was found on the Helderberg
+mountains; it is embedded in a light grey coloured limestone shale. The
+other specimen, which is much smaller, was discovered near the Genessee
+River, in the State of New York. The rock in which it occurs is
+identical in its constitution with the other. It contains other species
+of trilobites, and a number of shells.
+
+
+Asaphus Micrurus.[34] Cast No. 19. Fig. 3.
+
+[Footnote 34: From the Greek, for "minute tail."]
+
+  Cauda attenuata, acuta; corpore valde convexo; costis striatis;
+  parte marginali vix membranacea.
+
+This fine, large caudal termination of an Asaph is in the cabinet
+of the Albany Institute--and it is a subject of great regret, that
+all that has yet been discovered relating to this highly interesting
+trilobite, is to be seen in this fragment.
+
+There are eighteen articulations of the tail and abdomen, which cannot
+be distinguished from each other. The middle lobe is composed of a
+series of straight, distinct, parallel articulations, very convex
+about the middle, so as to form a kind of longitudinal ridge down
+the back. The costal arches of the lateral lobes are very distinct,
+and are longitudinally striated or grooved on their upper surface,
+particularly those near the upper part of the animal. The membranaceous
+expansion is very narrow along the sides of the body, and forms a sort
+of hem; below the central portion of the tail it makes a short acute
+projection, which seems to be supported by a short costal elongation of
+the middle lobe. Length two inches and a half.
+
+The A. Micrurus was found in the black fœtid limestone of Trenton
+Falls, by M. H. Webster, Esq., and by him placed in the rich collection
+of trilobites in the Albany Institute. The limestone in which this
+Asaph is embedded, is almost one entire mass of petrifactions. The
+general aspect of the A. Micrurus is very similar to that of a
+calymene--but judging from its structure, it could never contract
+its shell into a spherical figure. Its minute tail, and narrow
+membranaceous expansion round the terminal edges of the lateral lobes
+are quite peculiar, and determine it to be an Asaph.
+
+
+Asaphus Wetherilli.[35] _Green._ Cast No. 20.
+
+[Footnote 35: I have named this species in compliment to my friend,
+John P. Wetherill, Esq., whose magnificent cabinet of fossils in the
+Academy of Natural Sciences of Philadelphia, will ever remain as a
+monument of his discrimination, enterprise, and liberality.]
+
+  Clypeo postice arcuato, sulcato; abdominis articulis duodecim;
+  cauda vix membranacea; cute coreacea vix punctata.
+
+The contour of this beautiful Asaph is very regularly ovate; unlike
+most of the remains of this genus, the buckler is still attached
+to the abdomen, though one of the _cheeks_, and a portion of the
+_front_ are obscured by the rock in which the animal is imbedded. The
+cheeks form spherical triangles. The oculiferous tubercles, though a
+good deal defaced, seem to have been circular and not lunate, as in
+the A. Caudatus. A raised, curved line passes from and over the eye,
+between it and the lateral lobe of the abdomen. The central lobe of
+the back is composed of twelve double joints, and that of the tail of
+six single articulations; where the epidermis or shell is perfect,
+all the articulations appear single. The last joint of the tail is
+longer than in any other of our species. The ribs of the abdomen are
+rather broad, and have a deep furrow scooped out along their upper
+surface; their extremities, where they can be discovered, are detached
+from each other, and terminate in reflected points, like those of the
+A. Limulurus. The costal arches of the tail are delicately grooved,
+and terminate in the membrane. The membranaceous expansion round the
+edge of the tail is very narrow, and appears to form no projection
+beyond its central part. The whole epidermis is finely marked with
+granulations. Length one inch and three-fourths--breadth one inch and
+one-fourth.
+
+This interesting species was found in limestone shale, near Rochester,
+in Munroe County, N. Y.; and is now in the valuable cabinet of the
+Albany Institute. An accidental fissure of the rock disclosed not only
+a fine specimen of both the mould and the cast of this animal, but
+also another individual of the same species in contact with it. From
+the peculiar attitude which these fossilized animals maintain towards
+each other, they appear to have been combatants at the very moment when
+the catastrophe occurred which produced their mineralization. In the
+Museum of the Garden of Plants at Paris, there is a large specimen of
+two fossil fish, which are supposed by many to have been destroyed and
+covered with mineral matter, when one of them was in the very act of
+swallowing the other. Mr. Bake well, however, who accurately examined
+this specimen, is of opinion, that the two heads of the fish had been
+pressed together by the superincumbent weight.
+
+
+Genus Paradoxides. _Brongniart._
+
+The animals arranged under this generic name, include the organic
+remains described by Linné as Entomolithus paradoxus, and Brongniart
+has given the specific appellation which the great Swedish naturalist
+applied to these singular animals, out of compliment to him, though he
+considers it quite inappropriate. The late Professor Dalman calls this
+genus Olenus, and quotes Paradoxides as a synonyme, but the term of
+Brongniart seems to have the priority, and therefore must be preferred.
+
+The animals belonging to the Paradoxides have the body very much
+depressed, and the lateral much wider than the middle lobe.
+
+The buckler is nearly semicircular, the cheeks are destitute of eyes,
+and the front is marked with three transverse furrows. This last
+character is probably not a permanent one.
+
+But the most distinguishing character, is the prolongation of the
+costal arches, particularly those of the tail, beyond the membrane
+which they are supposed to support; the termination of these arches
+is in teeth or spines. Some species of the Asaph have prolongated
+extremities to the ribs of the abdomen, but we have never seen them on
+the arches of the tail.
+
+This genus is said to comprise a great number of species, but the only
+one found in North America, as far as our knowledge extends, is that
+described by J. J. Bigsby, in the fourth volume of the Journal of the
+Academy of Natural Sciences of Philadelphia. As we have not seen the
+specimen, we add the description of it in the author's own words.
+
+
+Paradoxides Boltoni. _Bigsby._ Figure 5.
+
+Oval, blind; surface with small tubercles and striæ; clypeus rounded
+before; exterior angle extending in a broad spine; abdomen fourteen
+jointed; segments recurved, falcate; tail membranaceous and serrate.
+
+The shape of this individual is oval, approaching ovate; it is
+moderately flat; the whole length is five inches and four-fifths; its
+breadth across the middle is four inches and nine-tenths; wherever the
+cutis is not removed, it is covered profusely and irregularly with
+small tubercles. The denuded portions in this specimen, for the space
+of three quarters of an inch from the external margin, is, in a very
+small degree, depressed, and displays a number of broken and continuous
+striæ, parallel to that margin. There are no traces of organs of
+vision. The buckler is nearly the segment of a circle; anterior edge,
+in the present case, imperfect; it is four inches and three-fifths
+broad, and one inch and one-ninth long at the centre; it joins the
+abdomen by a somewhat sinuous transverse line; cheeks and front of
+equal breadth; the former are flat, but rise at the sharp ridge by
+which they unite with the front; they are triangular in shape; their
+outer angles terminating by an acute tip. The striæ mentioned above
+are here not quite parallel to the external border; the front is a
+shallow depression; rounded but tapering anteriorly; it is intersected
+from above on each side obliquely towards the mesial line, by a ridge
+bifurcating downwards; another smaller ridge nearly bisects the front
+perpendicularly.
+
+The abdomen and post abdomen are not distinct. The abdomen exclusive
+of the cauda is three inches and a half long; it exhibits fourteen
+costæ varying indiscriminately from one-fifth to one-fourth of an inch
+in breadth, except the three inferior ones, which are rather broader;
+they occupy the whole abdomen without membranous interspaces, and are
+separated by a black sulcus, not always well defined, and sometimes a
+line in diameter. Each costa is canaliculated from the upper and under
+angle to the tip.
+
+The middle lobe is separated from the lateral by a shallow, rude
+sulcus, which however, does not always destroy the continuity of the
+costæ, as they cross it; this lobe is slightly convex, one inch and
+a half broad at the top, and so continues to the sixth costa, after
+which it gradually contracts, until at the bottom it is one-fifth of
+an inch broad, subsiding insensibly into a flat membrane-like surface;
+its longitudinal sulci pass one inch farther downwards, and expanding
+a little, unite with the costæ on each side the posterior edge of the
+space included by them, being dentated.
+
+The lateral lobes are quite flat, one inch and a half broad anteriorly,
+and, by gradual prolongation, become at the fourth costa one inch and
+four-fifths in breadth; this dimension is maintained to the ninth
+articulation, when it slowly decreases to one inch at the bottom;
+the recurvature of the costæ is gentle in the upper eight, but then
+decreases rapidly. Their extremities, advancing two-fifths and
+four-fifths of an inch into the embedding rock, are falcate with their
+raised black edges, and clearly marked points.
+
+This trilobite was found by Lieut. Bolton, at Lockport, in the state
+of New York, in the black, shaly, horizontal limestone forming the
+lower part of the ravine by which the Erie canal ascends the _parallel
+ridge_ of Lake Ontario. Dr. Bigsby remarks on this locality, "I am not
+prepared to assign to this limestone its exact place in the series
+of geological formations; it is above the saliferous sandstone, and
+therefore more recent than the rocks best known as abounding in
+trilobites." We have, therefore, in this instance, another fact, which
+demonstrates that blind trilobites are not confined to a geological
+period more remote than That which has produced the animals with
+oculiferous tubercles.
+
+
+Genus Ogygia. _Brongniart._
+
+In the vast quarries of slate at Angers, in France, there is frequently
+noticed two very remarkable organic remains, which have for a long
+time excited the attention of naturalists. To receive these curious
+relics, Professor Brongniart established the genus, Ogygia, which he
+thus characterizes. Body much depressed--elongated into an ellipse,
+terminated in points--nearly equal at its extremities, and not capable
+of contracting itself into a spherical form. The buckler is bordered by
+a slight longitudinal furrow, rising from its anterior extremity, and
+its posterior angles terminating in elongated points. The abdomen has
+eight articulations, and its longitudinal lobes are not very prominent.
+The eyes are neither prominent nor reticulated and there are no other
+protuberances on the buckler.
+
+In Professor Brongniart's original work on the Trilobites, he has
+described the two specimens from Angers, under the specific names
+of Guettardi, and Desmarestii, in compliment to M. M. Guettard and
+Desmarest; and in De La Beche's Manual of Geology, we are informed that
+he has since identified two other species; one of which is supposed to
+be found in North America; this he calls _Ogygia Sillimani_; the banks
+of the Mohawk River, near Schenectady, is the locality from which it
+is said to have been derived.
+
+As we have not been able to find any detailed account of this species,
+we have admitted both it and the genus to which it is said to belong
+into our Monograph exclusively on the high authority of Professor
+Brongniart, as quoted in the Manual of Geology. We are not ignorant of
+the species of Trilobites found near Schenectady, and if permitted to
+offer a suggestion on this subject, it would be, that the description
+of the American ogygia, was made out by its distinguished author from
+the fragment of an Isotelus. The Isotelus is not uncommon in that
+vicinity, and one of its extremities might, even by a very close
+observer, be mistaken for that of an Ogygia--especially by those who
+are not perfectly familiar with the Isotelus.
+
+
+Genus Isotelus. _Dekay._
+
+This fine genus of trilobites was established November, 1824, by my
+friend James E. Dekay, M. D. It embraces a considerable number of
+species so analogous to each other, that except in a very few cases,
+it is exceedingly difficult to point out their distinctive characters.
+Some of the species of Isotelus, appear to have reached a greater size
+than any other trilobite. In the cabinet of P. A. Browne, Esq., there
+is the fragment of one, which must have been fourteen or fifteen inches
+long.
+
+The Isotelus is found in several parts of North America, but most
+abundantly in the black transition limestone, in the northern section
+of the country. The richest locality, not only of this genus, but also
+of the Calymene and the Asaph, is Trenton Falls, on West Canada Creek,
+about 13 miles to the north of Utica, in the state of New York. The
+following extracts from the notes of Professor Renwick, which accompany
+Dr. Dekay's account of the Isotelus, will give some idea of this vast
+depository of the medals of ancient zoology. West Canada Creek, is one
+of the principal branches of the Mohawk River. At Trenton Falls it has
+worn itself a passage through the rock for the distance of nearly two
+miles, forming a series of water falls; and has thus laid open to view
+the strata to the depth of probably 300 feet. The layers of the rock
+thus disclosed are nearly horizontal, and of various thicknesses: they
+are composed of limestone, with the exception of numerous thin veins
+of argillaceous matter. The higher strata are composed of carbonate of
+lime nearly pure, of a light grey colour and crystalline structure. At
+greater depths it is more compact and darker in colour, and finally it
+appears quite black and highly fœtid.[36]
+
+[Footnote 36: See Annals of N. Y. Lyceum, vol. i. page 185.]
+
+Animal remains are contained in every part of the rock; besides several
+genera of trilobites, we have several species of orthocera. Encrinites
+and Fungites--Nautili--Terebratulæ and Producti, are quite common.
+The favosites here are sometimes six inches in diameter, and in such
+numerous columns, as to have induced the late worthy proprietor of
+this interesting spot, Mr. J. Sherman, to consider them as analogous
+in structure to the basaltic columns of Staffa and the Giant's
+Causeway; he therefore maintains the extravagant theory that these
+columns are nothing more than gigantic favosites.[37] We visited this
+famous locality of trilobites not long since, and were almost as much
+delighted with the sublimity and grandeur of the cataract, and the
+picturesque and romantic character of the glen, as with the reliques of
+olden times, which are scattered here in such profusion.
+
+[Footnote 37: See a Description of Trenton Falls, by John Sherman, p.
+17.]
+
+The genus Isotelus, derived from Ἱσος, equal, and τελος, extremity, is
+thus characterized by Dr. Dekay.
+
+_Body_ oval often contracted, not unfrequently extended.
+
+_Head_ or buckler large and rounded, equalling the tail in size, but
+with two oculiform tubercles.
+
+_Abdomen_ with eight articulations.
+
+Frontal process beneath, with two semilunar terminations.
+
+_Post abdomen_ or tail, broad, expanded with indistinct divisions, as
+large as the buckler.
+
+Longitudinal lobes very distinct.
+
+Other distinguishing marks by which this genus may be known, have been
+given in our introduction.
+
+
+Isotelus Gigas. _Dekay_. Casts Nos. 21 and 22.
+
+_Head_ representing a spherical triangle, surface punctate, convex,
+descending from between the eyes to the anterior border, which has
+a narrow raised rim; posterior extremity concave and corresponding
+to the articulation of the abdomen. Eyes elevated, prominent,
+sub-pedunculated; cornea oblong, lunated, highly polished; _abdomen_
+with eight distinct articulations, the middle lobe double the size
+of the lateral one: these latter are continuous with the middle
+lobe, have a deep furrow impressed on their upper surfaces, which
+becomes gradually effaced towards their narrow free extremities.
+These lateral lobes are rounded at their extremities, and flattened
+in such a manner as to allow each lobe to slide easily under the lobe
+immediately preceding. _Tail_ subtriangular, convex, equalling the
+head in size, with the posterior termination rounded. On the centre of
+its surface, when accidentally decorticated, a slight elevation may be
+traced, if the specimen be held in a certain light, which appears to
+be a continuation of the middle lobe; this extends to within a short
+distance of the posterior angle of the tail, when it is either entirely
+effaced or terminates in an abrupt truncation. Another elevation runs
+parallel to and at a short distance from the edge of the tail. These
+elevations are connected by obscure parallel lines, imitating the
+spaces between the lateral lobes. When the tail is fractured on the
+borders, a semilunar depression is visible, exhibiting concentric
+striæ. The whole Surface of the animal has a jet black polish. Length
+from 6 to 12 inches.
+
+The original of our cast is in the cabinet of J. P. Wetherill, and was
+found near Cincinnati, Ohio. It is of a yellowish colour, and occurs in
+argillaceous slate. Specimens are common in most cabinets of American
+fossils. The Lyceum in New York, possesses a fragment of an individual
+of this species, which must have been at least 17 inches long. Our
+cast, No. 22, is from the gigantic tail in the cabinet of P. A. Brown,
+Esq. Mr. Stokes describes the I. gigas as a new species under the name
+of Asaphus Platycephalus, in Geolog. Trans. vol. i. N. Series. His
+specimen was found in the limestone of. St. Joseph's, Canada.
+
+
+Isotelus Planus.[38] _Dekay._ Cast No. 23.
+
+[Footnote 38: The general usage of naturalists is to prefix a short
+Latin caption to the species which they discover--but as some
+authors do not follow this fashion, we are satisfied to suffer their
+descriptions to stand without it. We believe, indeed, that the time is
+not very distant, when every author will be expected to publish his
+discoveries in his vernacular tongue.]
+
+_Head_ more rounded than the preceding, and less elevated. _Tail_
+flat, rounded. Total length two inches and one-tenth. Breadth one
+inch and one-tenth. Length of the head, six-tenths--of the abdomen,
+eight-tenths, and of the tail seven-tenths.
+
+Dr. Dekay is of opinion that this species may possibly prove to be the
+young of the preceding. The relative proportions of its buckler and
+tail vary considerably from those of the I. gigas; and the depth of
+the lateral lobes, which exceeds three-tenths of an inch, would almost
+of itself determine it to be a new species. The original, from which
+our cast was taken, is in the cabinet of J. P. Wetherill. It was found
+near Newport, Kentucky, and occurs in argillaceous slate. The fossil is
+of a dirty yellow colour.
+
+
+Isotelus Cyclops.[39] _Green._ Cast No. 24. Fig. 7.
+
+[Footnote 39: From the Greek for "round eyes,"]
+
+  Clypeo antice attenuato, plano; oculis rotundis, proximis; cauda
+  ovata, acuminata.
+
+The head of this species is much more elongated than it is in the
+two preceding species. The anterior portion of the buckler is much
+prolonged. The eyes are approximate, rounded, and near the posterior
+edge of the head. The abdomen is furnished with eight distinct
+articulations; the middle lobe is scarcely broader than the lateral
+lobes; tail rather broader than the head, and ovate; posterior
+termination more rounded than the buckler. Length nearly three inches.
+
+The specimen from which our model was taken belongs to the Albany
+Museum. No label is attached to it, but I was informed by Mr. Meach,
+one of the proprietors, that it was found in the western part of the
+State of New York. It is embedded in an ash-coloured limestone. The
+specimen is a good deal worn--but the peculiar form of the eyes, and
+the narrowness of the middle abdominal lobe, clearly distinguish it
+from either of Dr. Dekay's species.
+
+
+Isotelus Megalops.[40] _Green._ Cast No. 25.
+
+[Footnote 40: From the Greek for "great eyes."]
+
+  Clypeo antice subrotundato, postice arcuato; oculis magnis,
+  rotundis, eminentissimis; cauda suborbiculari, limbo lato;
+  articulis abdominis octo.
+
+The buckler in its contour resembles very much the head of the I.
+gigas; it is, however, rather more rounded before, and arcuated behind.
+The oculiferous tubercles, are very peculiar, being very large, round,
+and exceedingly prominent. They have a good deal the appearance of
+solid hemispheres placed on the forehead of the animal. They are
+exactly on a line with the two abdominal furrows. The abdomen is
+composed of eight distinct articulations; the middle lobe is rather
+larger than the lateral lobes. The tail is suborbicular, convex, and
+rather less than the head. Length nearly five inches. Breadth almost
+three inches.
+
+This magnificent Isotelus was obtained near Trenton Falls, in New York,
+by P. A. Browne, Esq., and now forms a part of his fine collection
+of fossils, in this city. It occurs in black transition limestone.
+It differs essentially from the I. gigas of Dekay, in the magnitude,
+collocation, and contour of the eyes. Those of the I. gigas are oblong
+and lunate, and nearly half the distance between the anterior and the
+posterior edges of the buckler; those of the I. Megalops are not only
+much larger, but they are round, and very near the posterior border of
+the head.
+
+
+Isotelus Stegops.[41] Green. Casts Nos. 26 and 27.
+
+[Footnote 41: From two Greek words, which signify "covered eyes."]
+
+  Clypeo antice, caudaque postice attenuatis; cute coreacea punctis
+  minimis.
+
+The head of this species is nearly in the form of a spherical triangle;
+its anterior edge is vertically flattened all round, but does not
+produce a narrow raised rim, such as is described by Dr. Dekay, to
+belong to the I. gigas. The eyes are prominent, and rather nearer the
+lateral edge of the buckler, than to its posterior border. The shell
+of the buckler forms a remarkable projection over the top of each
+oculiferous tubercle, something like an eye-lid. Continuous with the
+edge of this cuticular projection, there is a curved linear depression,
+which terminates on both sides, at the edge of the buckler. This
+kind of suture, though remarkably developed in this species, is not
+peculiar to it, being more or less distinct in most of the Isoteli.
+The articulations of the abdomen are lost; there can be little doubt,
+however, that they were eight in number. The tail is subtriangular, and
+less in magnitude than the buckler.
+
+This fossil is among the number of fine specimens in the cabinet of
+J. P. Wetherill. It is in a rolled or contracted attitude, and is
+somewhat distorted. We have given, however, models of the head and
+the tail, in two distinct pieces. The external shell, or calcareous
+covering, is more perfect in this specimen than in any other we have
+ever seen. A considerable portion of the under side of the anterior
+part of the buckler, is also well preserved, and perfectly coincides
+with the figure and description given of it by Dr. Dekay and Mr.
+Stokes. There is another fragment of an Isotelus in the cabinet of Mr.
+Wetherill, showing eight articulations of the abdomen, which probably
+belongs to another individual of this species. The dorsal shell is in a
+high state of preservation. This species is embedded in clay slate, and
+was found in Newport, Kentucky.
+
+
+Genus Cryptolithus. _Green._
+
+Among the numerous organic relics embedded in black limestone at
+Trenton Falls, in the State of New York, there is often found the
+fragment of a trilobite which cannot properly be referred to any of the
+genera already mentioned. Dr. J. Bigsby, in his Sketch of the Geology
+of the Island of Montreal, has figured and described a fossil which
+occurs at that place, which approaches in its specific characters to
+the fragments found at Trenton--but he does not suggest for his relic
+any name. Professor Brongniart has also represented, plate 4, figs.
+5 and 7 A. B. C., the fragments of trilobites from Russia and from
+Llandillo, in Wales, which seem to differ but little from those above
+noticed, these are also without names. Under such circumstances, we
+have thought it expedient to group these relics under the generic term
+of Cryptolithus, a name analogous to Calymene, Asaphus, Ogygia, and
+Agnostus, and which may with propriety be applied to the animal, should
+it ever be discovered entire.[42]
+
+[Footnote 42: Since the above was written, and the C. Tessellatus
+published, I have received a fine specimen of this trilobite from
+Professor Eaton, in an almost perfect state, so that the entire animal
+can now be described.]
+
+_Body_, contractile.
+
+_Buckler_, lunate, convex, outer edge surrounded by a semicircular,
+reticulated, or tessellated border.
+
+_Front_ or middle lobe of the buckler very protuberant.
+
+_Oculiferous protuberances_, none.
+
+_Abdomen_, much compressed, trilobate.
+
+
+Cryptolithus Tessellatus. _Green._ Cast No. 28, and Fig. 4.
+
+  Clypeo rotundato, fronte valde convexo, capite antice semicirculari
+  margine tessellato ornato.
+
+Outline of the buckler hemispherical, the edge surrounded by a
+semicircular border of tessellated or rounded punctures, in three
+concentric rows in front--on each side near the posterior angle of the
+buckler, these rows of punctures are more numerous; the front is highly
+convex; is rounded before, and gradually tapers towards the abdomen.
+The cheeks form spherical triangles, and are entirely destitute of
+oculiferous tubercles or any other markings; their posterior angles
+project beyond the sides of the abdomen. Abdomen and tail very much
+compressed, and composed of about ten articulations; costal arches of
+the lateral lobes grooved; tail attenuated. Whole length half an inch.
+
+The Cryptolithus Tessellatus, resembles a good deal the Entomostracites
+Granulatus of Wahlenberg, and which Dr. D aim an calls Asaphus
+Granulatus. The figure of this animal given by Brongniart, table 3,
+fig. 7, appears to be quite imperfect, and is very unlike, except
+in the buckler, the representation of Wahlenberg's fossil, given by
+Dalman, table 2, fig. 6. Though the angles of the buckler in the
+Asaphus Granulatus are much more elongated than those of the C.
+Tessellatus, it may perhaps be another species of the same genus.[43]
+
+[Footnote 43: The following, is Dr. Dalman's description of the Asaphus
+Granulatus:--
+
+  A. trunco sexarticulato pygidioque lævibus, capite antice
+  semicirculari margine granuloso, angulis posticis extensis corpore
+  longioribus.
+
+  Animalculum singulare, inversum si inspicitur, lyram forma fere
+  similans. Caput antice semicirculare, margine distincto, serie
+  submoniliformi e granulis approximatis ornato, discus capitis
+  lævis, sed ambitus intra marginem punctis elevatis obsitus. Hic
+  ambitus, una cum margine, truncum quoque amplecti videtur, ad
+  pygidii basin usque, ubi in cornua lævia, trunco multo longiora,
+  abit. Glabella antice fere clavæformis, ad basin utrinque emittens
+  lobi rudimentum. Truncus brevis lævis segmentis constans tantummodo
+  sex, rhachide angusta. Pygidium breve, rotundatum, læve; adeo
+  parvum ut ne quidem capitis disco respondeat.
+
+  Obs.--Oculos atque suturam facialem ex autopsia describere licet.
+
+Vide Om. Palæaderna eller de sa kallade Trilobiterna af. J. W. Dalman,
+pages 50-4. ]
+
+The animal described and figured by Dr. J. Bigsby, to which we have
+already referred, seems rather different from our species. His
+specimens were found at Montmorenci, near Quebec, (Canada) more than
+an inch and a half in diameter. The following are his remarks on this
+trilobite.[44] "The front of the buckler is remarkably convex, and has
+on each side near the base, three very small transverse lines, scarcely
+to be called depressions, corresponding to the sulci so strongly marked
+in the genus Calymene. There is frequently, but not universally, a
+very minute pisiform process on the centre of the front. The whole
+upper edge of the buckler is always surrounded by a very ornamental
+semicircular border, sometimes semi-elliptical, of punctures placed in
+the meshes of a net-work in high relief and arranged close together,
+in rays, passing perpendicularly from the buckler and forming at the
+same time when observed transversely, curved lines parallel to its
+upper rim or edge, excepting at the sides, where they diverge, leaving
+a space occupied by other lines of dottings, parallel to the former,
+but speedily terminating on the cheeks of the buckler. The lines which
+are complete from side so side, are four in number. The imperfect
+additional ones, vary from two to four; the smallest and inner,
+consisting only of two or three punctures. A plain edging includes the
+semicircle of punctures. In the beds of these casts, the places of
+the punctures are shown by small conical elevations, and those of the
+ridges of the net-work, by corresponding depressions."
+
+[Footnote 44: See Geology of the Island of Montreal, in Lyceum of Nat.
+History, N. Y. p. 214.]
+
+Should this prove to be a distinct species, we propose to call it
+_Cryptolithus Bigsbii_.
+
+The _Nuttainia Concentrica_ of Professor Eaton seems also very nearly
+allied to this species; he describes it as having "four or five
+concentric arcs of punctures in front of the buckler, separated by
+alternating arcs of fine elevated ridges." The genus Nuttainia, to
+which he refers this species, cannot include it, and the N. Sparsa; for
+these two relics have scarcely a single essential character in common;
+we have, therefore, confined the genus Nuttainia, to the species which
+he calls _Sparsa_.
+
+The Cryptolithus Tessellatus is very common at Trenton falls. In the
+transition limestone at Glenn's falls, in the state of New York, during
+a very short visit to this place, Dr. R. Harlan procured a large number
+of this fossil, but only the buckler, the projecting front of which
+exhibited a pisiform protuberance above the level of the strata. Mr.
+Eaton says that the N. Concentrica "occurs in the wacke variety of
+transition of argillite, on the Champlain canal," between the town of
+Waterford and the Mohawk river. The specimen in my cabinet, from which
+our cast was made, is from that place.
+
+The Cryptolithus Tessellatus occurs also in the limestone which,
+according to Dr. Bigsby, overlays the sandstone in the island of
+Montreal. At most of its localities, it is associated with the
+Isotelus, the Calymene, and with several species of Asaphus. The
+Cryptolithus, which is entirely destitute of eyes, being thus found
+with the oculiferous species, is an interesting fact, and controverts
+the opinion of Professor Wahlenberg, that the trilobites, which are
+without eyes belong to a geological epoch more ancient than those which
+are furnished with oculiform tubercles. That organic remains furnish us
+with the most satisfactory evidence of the identity or dissimilarity
+of certain formations, is a disputed point with some geologists[45] It
+cannot reasonably be doubted, that new and isolated facts have been
+made the basis of a too hasty generalization. On this subject Count
+Rasoumowsky makes the following remarks:--"Les divers gisemens des
+Trilobites ne me semblent pas non plus pouvoir être déterminés avec
+quelque précision. M. Brongniart parait admettre que les trilobites
+aveugles ne se trouvent que dans de tres anciennes formations dans
+des schistes et des calcaires de transitions; mais nous avons donné
+la description d'un trilobite [without eyes] des bords de la Yaousa
+prés de Moscow, qui n'appartient certainement pas aux formations de
+transition, ce qui me donné lieu de croire que de nouvelles recherches
+et de nouvelles observations, prouveront qu'il n'est pas strictement
+vrai qu'en France, en Angleterre, en Russie, _il n'existe point de
+trilobites entiérement privés d'yeux_, comme le dit le savant auteur
+que je viens de citer." See Annales des Sciences Naturelles, Vol. 8.
+page 195.
+
+[Footnote 45: See Eclectic Review, for July, 1832.]
+
+
+Genus Dipleura. _Green._
+
+_Body_, contractile, not much depressed, and slightly tapering.
+
+_Buckler_, pustulous, trilobate, cheeks protuberant, with oblique,
+annular, oculiferous tubercles.
+
+_Abdomen_, with fourteen articulations, not lobate, the ribs double.
+
+_Tail_, suborbicular, not so large as the buckler, covered with an
+epidermis.
+
+This genus derives its name from two Greek words, which signify
+double ribs; many of the trilobites are thus characterized; but in no
+species, is this organization so remarkable as in those which belong
+to the Genus Dipleura. The expansion of the tail resembles, in some
+degree, that of the Isotelus, but other obvious characters sufficiently
+distinguish it from that interesting genus. The fossils arranged under
+this section are larger than most other trilobites.
+
+
+Dipleura Dekayi. _Green._ Casts No. 30, 31, and Figs. 8 & 9.
+
+Clypeo lunato punctato; abdomine quatuordecim articulis duplicibus vix
+lobatis; cauda suborbiculari; limbo lato convexo integerrimo; oculis
+oblique deflexis.
+
+The buckler is subtriangular, and covered with granulations; the
+anterior portion of our specimen being mutilated, we cannot determine
+its form exactly. The cheeks are very prominent, and swell up gradually
+towards the oculiferous protuberances, which are oblique, and marked at
+their apex with a depression, so as to give them an annular appearance.
+The abdomen is crossed by fourteen double distinct articulations,
+not interrupted in their course, by the two longitudinal furrows,
+so common in most of the trilobites; but owing to certain curves or
+irregularities in the ribs near their lateral termination, a trilobate
+appearance may in some specimens be detected. Tail suborbicular,
+convex, and covered with a thick epidermis.
+
+The specific name of this species was given in compliment to Dr. James
+E. Dekay, of New York, whose valuable paper on the genus Isotelus,
+first directed my attention to the American trilobites.
+
+The D. Dekayi has been found in several districts of the United States;
+at Lockport in the State of New York, it is not uncommon. The small
+specimen from which our cast of the abdomen and caudal end was taken,
+is in the fine cabinet of Mr. William Hyde, who permitted me to use
+it with his wonted liberality and kindness. It is said to have been
+found in Northumberland, Pennsylvania, and occurs in grey carbonate
+of lime. In the Philadelphia Museum, there is a fine fragment of this
+species, in which there is embedded some crystals of iron pyrites; it
+was obtained in Ulster County, New York. In the cabinet of the Academy
+of Natural Sciences, there is a longitudinal and hollow fragment,
+filled with ochre, and the oxide of iron; it is labelled from Lockport,
+New York. At Mount Hope Institution, near Baltimore, there is also a
+good specimen from the same locality. In the _Clinton collection_,
+owned by the Albany Institute, there is a large extended fragment,
+nearly five inches long. It is embedded in brown limestone, and was
+found in Madison County, N. Y. There are twelve articulations of the
+abdomen remaining, and the epidermal covering of the tail is distinctly
+marked with numerous dots. In the same collection there is another
+large fragment of this species, consisting of the tail and fourteen
+articulations. It was found in Steuben County, New York; and occurs
+in grey limestone. It is slightly contracted and very much depressed
+laterally. There is also a head in the same kind of limestone, from
+Cazenovia, Madison County, New York. In the cabinet of the Institute
+there is another specimen of this species, about six inches in length,
+and nearly perfect; it is also embedded in a similar rock, and was
+brought from Rochester, Munroe County, New York.
+
+The original of the head from which our cast was made, is in the
+cabinet of P. A. Browne, Esq., and was found by that enterprising
+geologist near Lehighton, Pa.
+
+
+Genus Trimerus.[46] _Green._
+
+[Footnote 46: From the Greek for "three divisions."]
+
+_Body_, contractile, tapering, compressed.
+
+_Buckler_, pustulous, indistinctly lobate, with only two small elevated
+oculiferous tubercles.
+
+_Abdomen_, with thirteen distinct, double articulations divided into
+three lobes by a slight longitudinal furrow.
+
+_Flanks_, or lateral lobes, not so broad as the middle lobe.
+
+_Tail_, tapering to an obtuse point, pustulous, and marked with ten
+articulations.
+
+This genus resembles in some respects both the Calymene and Dipleura.
+The form of the buckler, the position and structure of the oculiferous
+tubercles, and the scarcely lobate divisions of the abdomen, will
+readily distinguish it from the Calymenes. The articulations of the
+tail, not being covered with a shelly crust, is a character too obvious
+to confound it with the genus Dipleura. There is, we think, a beautiful
+chain of gradations of resemblances, between the Isotelus, Dipleura,
+Hemicrypturus and Trimerus. The lobes of the abdomen of the Isotelus
+are very distinct, and the articulations of the tail are hid by a broad
+thick shelly crust. The lobes in the Dipleura are scarcely apparent,
+the ribs more numerous; and the covering of the tail much smaller. The
+lobes of the Hemicrypturus are like those of the Isotelus; but the
+lateral ones only of the tail are covered. In the genus Trimerus the
+lobes are like those of Dipleura, but the articulations of the tail are
+exposed.
+
+
+Trimerus Delphinocephalus. _Green._ Cast No. 32, and Fig. 1.
+
+Clypeo semilunari, antice compresso; oculis minimis, enimentissimis;
+articulis duplicibus vix lobatis; cauda attenuata; corpore tuberculata.
+
+In the rich cabinet of American fossils in the Albany Institute,
+there are two fine specimens of this species, and I am indebted to
+that rising and liberal institution, for the use of them in the
+present work. Our cast is made from the smaller and more perfect
+specimen of the two. The outline of the buckler forms an irregular
+semi-ellipse. The front is convex between the eyes, and very much
+depressed anteriorly, so as to form a sharp edge. The posterior part
+of the buckler is marked with a transverse groove parallel with the
+articulations of the back. The cheeks are small and triangular; the
+small elevated eye-shaped tubercles being placed in the middle, nearly
+equidistant from each of the angles. The eyes are not reticulated,
+the summit of each tubercle only presenting a plain oval foramen. The
+middle lobe of the abdomen is much broader than the lateral lobes, and
+has 13 distinct, double articulations. The side lobes are curved, and
+each costal arch is flattened anteriorly near their lower extremities,
+no doubt for the purpose of enabling the animal to roll itself into a
+ball. The tail is tapering, and is composed of ten articulations. The
+crustaceous covering is here more thickly deposited than on any other
+part. The entire shell seems to have been covered with minute elevated
+dots; these are beautifully distinct on the buckler and on the tail.
+Whole length of the specimen described, not quite two inches.
+
+The other specimen of this species in the cabinet of the Albany
+Institute, is a large caudal end, three inches and a half
+long, entirely perfect. Both of these fossils were brought from
+Williamsville, Niagara county, New York. They occur in a dark shelly
+limestone, filled with other petrifactions. The calcareous matter which
+has mineralized the trilobite, in this instance, as in most others, is
+of a much darker hue than the surrounding rock.
+
+
+Genus Ceraurus. _Green._
+
+_Body_, very much depressed, and slightly tapering.
+
+_Buckler_, scarcely trilobate; cheeks large, flat, with small remote
+oculiform tubercles; posterior angle of the buckler spinous.
+
+_Abdomen_, with twelve articulations.
+
+_Tail_, rounded at the end, but terminating on each side with two
+slightly curved spines.
+
+The name of this genus is derived from the remarkable spinous
+projections from the caudal end; this peculiar organization separates
+it widely from the other genera. The _Paradoxides Spinulosus_ of
+Wahlenberg, which is supposed to be the old _Entomolithus Paradoxus_
+of Linné, the fossil, with which all the trilobites were for a long
+time confounded, has not only projecting spines from the tail, but from
+all the costal arches of the lateral lobes. The presence of eyes or of
+oculiferous tubercles in the _Ceraurus_, would alone be sufficient to
+separate it from the genus to which that interesting fossil belongs. In
+the eighth volume of Annales des Sciences Naturelles, Count Rasoumowsky
+has figured and described the fragment of a very curious relic, which
+seems to be an intermediate link between our genus and paradoxides; in
+addition to a number of filamentous elongations of the costal arches, a
+curved spine seems to project from the end of the tail, as in the _A.
+limulurus_. No name is given to this trilobite, which appears to have
+been found on the banks of the Yaousa, near Moscow, where it occurs in
+black, coarse, argillaceous schistus. The Ceraurus is probably a very
+rare animal remain, as we have only met with it, in the unrivalled
+cabinet of trilobites belonging to the Albany Institute.
+
+
+Ceraurus Pleurexanthemus. _Green._ Cast No. 33. Fig. 10.
+
+  Clypeo postice arcuato, angulo externo in mucronem valde producto;
+  oculis minimis remotis, postabdomine in spinam arcuatam acutam
+  utrinque extenso.
+
+The exact contour of this species cannot be perfectly ascertained from
+our specimen; it seems, however, to have been lunate. The horns of the
+crescent which form the posterior angles, are very distinct, and they
+project like curved spines, some distance on each side of the head.
+The middle lobe or front is faintly scalloped on each side along the
+cheeks. The cheeks are rather large, and are furnished with two small
+oculiform tubercles, very remote from each other, and quite near to
+the anterior portion of the buckler. The abdomen is composed of twelve
+articulations. The lateral lobes of the abdomen are flat, and each of
+the ribs, at about half their extent, is marked on the upper surface,
+with an elevated pimple. These little pustules are nearly on a line
+with the oculiferous tubercles of the buckler, and present two parallel
+ranges down the body, one on each side of the middle lobe, and are
+terminated by a curved spine, which projects to some distance beyond
+the tail of the animal. Length one inch and a fourth.
+
+This remarkable organic relic was found near Newport, in the State of
+New York. It is embedded in black limestone shale, and so exceedingly
+depressed is this animal, that a very thin lamen of the slate removed
+from the surface would destroy every vestige of its appearance. I am
+indebted to my early friend, Professor T. R. Beck, for the use of this
+valuable petrifaction, which now belongs to the cabinet of the Albany
+Institute.
+
+
+Genus Triarthrus. _Green._
+
+_Body_, slightly convex; contractile?
+
+_Buckler?_
+
+_Abdomen_, with three articulations, side lobes longitudinal, narrow,
+and wedge-shaped.
+
+_Tail_, broad, rounded, without any membranaceous expansion.
+
+The name of this genus is derived from the circumstance, that the
+abdomen has but _three_ articulations; an organization which is very
+peculiar. These curious fossil animals are very abundant in the rocks
+in which they are found; but though I have examined a multitude of
+specimens from different localities, no vestige of the head or buckler
+could, on the most minute examination, be discovered. Whether these
+animals, during their petrifaction, were so contorted or rolled up,
+as to bring the extremities of the body together, in such a manner as
+to present the posterior folded part only to the view; or whether the
+buckler has been destroyed by the process of mineralization, as appears
+frequently to happen with the asaphs, we are at a loss to determine.
+
+The animal remains which belong to the genus Triarthrus, differ so much
+in their' form and general characters from all the other trilobites,
+that we perhaps ought to regard them as forming another race of beings.
+They are, however, more nearly allied to this family than the Agnosti
+of Professor Brongniart.
+
+
+Triarthrus Beckii. _Green._ Cast No. 34. Fig. 6.
+
+  Cauda subrotunda, bipunctata; articulis abdominis tribus, absque
+  lobis lateralibus consuetis, sed lobo arcuato utrinque apposito.
+
+The only portions of this fossil which have yet been found, are the
+abdomen and tail. The abdomen is composed of three joints; the first
+passes from the side lobes completely over the body, and on its upper
+surface, near the middle of the back, there is often a minute elevated
+pimple. The other two, pass obliquely from the lateral lobes, and are
+interrupted in their course over the body. The tail, or posterior
+portion, is expanded, something like that of the Isotelus or Dipleura,
+and has a deep puncture on each side, about half the distance between
+its terminal border and the last articulation of the abdomen. The
+lateral lobes are unlike those of any other genus. They form narrow
+cuneiform appendages to the sides; near the first joint of the abdomen
+they are crossed transversely by an elevated ridge, from which they
+gradually taper along the sides of the body, and appear to inosculate
+in a delicate point at the central border of the tail. The abdominal
+articulations do not pass over these lobes, but just below the last
+joint, a little transverse furrow, in perfect specimens, may be
+noticed. The largest specimen of this fragment I have seen is exactly
+half an inch in length.
+
+This fossil occurs in black shaly limestone, on the canal near Cahooes
+Falls, in the State of New York, and at a number of other places in
+that State.
+
+I have named this species in compliment to my early friend, Professor
+Theodore Romeyn Beck, M. D., well known both at home and abroad, as
+the learned author of the work on Medical Jurisprudence. Some time
+after commencing this little Monograph, I communicated my plan to Dr.
+Beck, and was surprised and gratified to find that he was also engaged
+with the same inquiries, and that he was then busy in arranging and
+examining the unique collection of trilobites belonging to the Albany
+Institute. Without the smallest hesitation, he placed all his specimens
+at my disposal, and has facilitated otherwise my undertaking, by every
+means in his power.
+
+
+Genus Nuttainia. _Eaton._
+
+Professor A. Eaton, in his Geological Text Book, has proposed the
+Genus Nuttainia, to include two remarkable trilobites which could not
+properly be arranged in any of the previously established genera. The
+two fossils here grouped together, bear no generic relation to each
+other. The first species which he calls N. Concentrica, belongs to the
+genus Cryptolythus, which was proposed before the appearance of his
+work, and has therefore been noticed in another place.
+
+The genus Nuttainia is thus characterized by its author: "Head in
+three lobes, the middle one most prominent; the two lateral lobes
+sub-hemispherical, or sub-quadrantal; the whole head bordered
+anteriorly with a punctured fillet; body distinctly three lobed, middle
+lobe sub-cylindric, and not so broad as the side lobes."
+
+
+Nuttainia Sparsa. _Eaton._ Cast No. 35.
+
+Fillet nearly straight in front of the middle lobe of the head,
+punctures of the fillet scattered irregularly, without any alternating
+ridges; head compressed, covered with scattered punctures, having its
+side lobes much smaller than the middle one; middle lobe with straight
+sides, giving it somewhat the form of a parallelogram.
+
+Found in third grauwacke,[47] or grit slate in Coeymans, sixteen miles
+south-west of Albany. I have the head of one before me two and a half
+inches broad, and one and a half long. The whole of the animal must
+have been six or seven inches in length.
+
+[Footnote 47: In a manuscript note, Professor Eaton states that the
+third grauwacke, or grit slate of Coeymans, "_alternates_ with the
+underlaying cherty lime rock." This opinion some of our geological
+friends, familiar with the formation at Coeymans, and with the
+Professor's nomenclature of rocks, have called in question.]
+
+The above account is copied from the "Text Book." Mr. Eaton was kind
+enough to lend me the only specimen of this curious fossil remain,
+which has yet been found; from which his description was taken, and of
+which our cast is an exact copy. His generic characters do not in our
+opinion at all apply to this fragment. Nothing but the head of this
+singular trilobite remains, and it is doubtful whether what is said
+to be the punctured fillet, "nearly straight in _front_ of the middle
+lobe," be not the commencement of the articulations of the abdomen. The
+whole fragment looks very much like the head of some large Asaph or
+Ogygia.
+
+
+Genus Brongniatia. _Eaton._
+
+Professor Eaton has proposed the name Brongniatia (Brongniartia?) for a
+genus of trilobites, which we think he has not defined with sufficient
+accuracy to be of any practical use. The _Isotelus gigas_ of Dr. Dekay,
+which has been for a long time so well established, is here ranked
+merely as a species under the name of B. isotela. The relic which we
+described before the Geological Text Book appeared as the _Triarthrus
+Beckii_, forms the species B. carcinodea--and the trilobite which is
+supposed to be the Asaphus platycephalus of Stokes, is the only other
+species mentioned. The A. platycephalus,[48] we know to be identical
+with the I. gigas, and as the animal remain described by Mr. Eaton
+is entirely different from Dr. Dekay's fine species, we subjoin the
+account given in the "Text Book."
+
+[Footnote 48: For a figure and description of the Asaphus
+Platycephalus, by Mr. Stokes, see Transactions of the Geological
+Society. Second Series, vol. i.]
+
+Genus Brongniatia--Fore abdomen always, and post abdomen in some
+cases, longitudinally divided into three lobes, by regular series of
+undulations traversing the joints, without grooves; articulations of
+the side lobes being manifest continuations of those of the middle
+lobe, and consequently, agreeing in number.
+
+
+Brongniatia Platycephala. _Eaton._
+
+Head and fore abdomen very broad and depressed, the abdomen with ten
+joints curved forwards at the undulations; post abdomen and tail with
+about fifteen joints curved backwards at the undulations; the three
+lobes of the tail more distinctly separated; divisions between the
+joints of the abdomen double.
+
+The representation of B. platycephala, figure 20, plate 2, of the
+Geological Text Book, if it be accurately drawn, is certainly of a
+trilobite never before described. On the buckler, which is without
+eyes, there is delineated a figure, not unlike some of the leaves of
+the mulberry tree.
+
+The tail is also very peculiar. In Silliman's Journal, Volume 21st,
+page 136, Professor Eaton proposed for this curious fossil the
+temporary name of Ogygies latissimus. It is found, he observes, "in the
+upper soft slaty variety of the rock which has been so successfully
+used for the lias cement at Chitteningo, &c. Dr Smith, of Lockport,
+(N. Y.) sent me two specimens, taken from a continuation of the
+Chitteningo lias rock, immediately beneath the geodiferous lime rock
+on which the cherty (cornitiferous) reposes." The whole animal is six
+inches long, and three broad.
+
+
+
+
+Nature of the Trilobite.
+
+
+Every one familiar with the history of the Trilobites, is aware that
+a good deal of controversy has existed among naturalists, respecting
+the precise link in the grand chain of organized beings, these
+singular fossil animals, should occupy. Professor Brongniart, Dr.
+Dekay, Audoúin, and several other acute observers, have placed them
+in the vicinity of the Limuli, and other Entomostraca with numerous
+feet; while P. A. Latreille and others, presuming that these animals
+were destitute of locomotive organs, as no vestige of them has ever
+been discovered, fix their natural position in the neighbourhood of
+the Chitones; or rather that they constituted the original stock of
+the Articulata, being connected on the one hand with these latter
+Mollusca, and on the other with those first mentioned, and even
+with the Glomeris.[49] It was our original intention to have closed
+this Monograph with a short history of these theories--and of the
+notion advanced by Latreille and others, that the Trilobites have
+been annihilated by some ancient revolution of our planet. All these
+matters, we think, are now put to rest by the late discovery of some
+living Trilobites in the southern seas, near the Falkland Islands. In
+the cabinet of the Albany Institute, we have examined some of these
+recent animals, which have very nearly the size and general appearance
+of the Paradoxides Boltoni, as represented on our frontispiece; the
+species cannot, however, belong to that genus, as the buckler is
+furnished with eyes very similar to those of the Calymene Bufo; its
+organs of locomotion are short, numerous, and concealed under the
+shell--but I do not feel at liberty to notice the interesting animal
+more minutely. It will probably be described and figured shortly, in
+a perfectly full and satisfactory manner, by Dr. James Eights, the
+enterprising discoverer, together with several other new and remarkable
+genera and species belonging to the Entomostraca.
+
+[Footnote 49: See Cuvier's Animal Kingdom, vol. iii. pp. 135-6.]
+
+
+
+FINIS.
+
+
+                       Index to the Species.
+                             ————
+
+            CALYMENE Blumenbachii,           page 28
+                     Callicephala,                30
+                     Selenecephala,               31
+                     Platys,                      32
+                     Microps,                     34
+                     Anchiops,                    35
+                     Diops,                       37
+                     Macrophthalma,               39
+                     Bufo,                        41
+                     Rana,                        42
+            ASAPHUS  Laticostatus,                45
+                     Selenurus,                   46
+                     Limulurus,                   48
+                     Caudatus,                    50
+                     Hausmanni,                   52
+                     Pleuroptyx,                  55
+                     Micrurus,                    56
+                     Wetherilli,                  57
+            PARADOXIDES Boltoni,                  60
+            OGYGIA   Sillimani,                   63
+            ISOTELUS Gigas,                       67
+                     Planus,                      68
+                     Cyclops,                     69
+                     Megalops,                    70
+                     Stegops,                     71
+            CRYPTOLITHUS Tessellatus,             73
+                     Bigsbii,                     76
+            DIPLEURA Dekayi,                      79
+            TRIMERUS Delphinocephalus,            82
+            CERAURUS Pleurexanthemus,             84
+            TRIARTHRUS Beckii,                    87
+            NUTTAINIA Sparsa,                     89
+            BRONGNIATIA Platycephala,             91
+
+
+                             JOSEPH BRANO,
+
+                 No. 12, CASTLE STREET, PHILADELPHIA,
+
+         _Teacher of the Art of Preparing Birds, Quadrupeds,
+                         Reptiles, &c. &c._
+
+                              AND OF THE
+
+            Art of making Moulds and Casts in Wax, Plaster,
+                           and Compositions.
+
+In addition to the casts taken from the originals of the Trilobites,
+he has also a few fine casts of the bones of the Megalonix Laqueatus,
+_Harlan_.--Scaphites Cuvieri, _Morton_.--Mosasaurus tooth, and of
+several rare fossil American Plants;--all taken from the original
+fossils, in the Cabinet of the Academy of Natural Sciences, &c. &c.
+These models are fac similes of the real objects, coloured according to
+nature.
+
+As the originals of the above are in the possession of different
+public and private cabinets throughout the United States, I have at
+great trouble and expense, taken from them exact patterns, so as
+to accommodate museums and scientific gentlemen with them on very
+reasonable terms. This practice is now used in several parts of Europe;
+and thus the curious are able to supply their cabinets with rare
+specimens, often superior to the originals.
+
+                             ·—▸⏵►●◓●◄⏴◂—·
+
+
+JOSEPH BRANO having finished for us a number of models of different
+objects in Natural History, we have no hesitation in recommending him
+as an exceedingly skilful artist.
+
+                                          Jacob Green, M. D.
+                                          Rich'd. Harlan, M. D.
+                                          P. A. Browne, ESQ.
+                                          Chas. A. Poulson.
+                                          Isaac Parrish, M. D.
+                                          S. G. Morton, M. D.
+
+_Philadelphia, October 3d, 1832._
+
+       *       *       *       *       *
+
+
+Transcriber Note
+
+Minor typos corrected. The quotation on page 91 has been corrected
+based on the original article found at The Internet Archive.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK A MONOGRAPH OF THE TRILOBITES
+OF NORTH AMERICA: WITH COLOURED MODELS OF THE SPECIES ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

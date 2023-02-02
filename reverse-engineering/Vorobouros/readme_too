@@ -1,0 +1,11 @@
+Hello there! This is Ryan!
+I've taken the liberty of patching out some of the more... inappropriate bits in the program, as well as cleaning up some of the old readme.
+    All my comments can be found between square brackets [like this].
+
+In my patching of the program, I did find a few things that might be helpful.
+    - It seems as if our software engineering friend has fallen into the bad habit of using global variables for fast programming.
+    - The program deletes itself when finished executing, keep a backup copy.
+    - Brute forcing is nearly impossible because of the flavor text printing method, oh well.
+    - The executable is staticly linked, which is great; no need for .so objects.
+    - The program *does* respond to parameters. I found that adding a 'v' skips the intro text.
+        - I wouldn't recommend this on your first time, it's obvious our lupine friend tried really hard to write 2nd person fiction, so try to suspend your disbelief, yeah?

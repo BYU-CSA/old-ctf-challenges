@@ -1,0 +1,3191 @@
+﻿The Project Gutenberg EBook of The Geological History of Fossil Butte
+National Monument and Fossil Basin, by Paul Orman McGrew and Michael Casilliano
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Geological History of Fossil Butte National Monument and Fossil Basin
+
+Author: Paul Orman McGrew
+        Michael Casilliano
+
+Release Date: August 30, 2015 [EBook #49829]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK GEOLOGICAL HISTORY--FOSSIL BUTTE MONUMENT ***
+
+
+
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+As the Nation’s principal conservation agency, the Department of the
+Interior has basic responsibilities for water, fish, wildlife, mineral,
+land, park, and recreational resources. Indian and Territorial affairs
+are other major concerns of America’s “Department of Natural Resources.”
+The Department works to assure the wisest choice in managing all our
+resources so each will make its full contribution to a better United
+States—now and in the future.
+
+This publication is one in a series of research studies devoted to
+special topics which have been explored in connection with the various
+areas in the National Park System. It is printed at the Government
+Printing Office and may be purchased from the Superintendent of
+Documents, Government Printing Office, Washington, D.C. 20402.
+
+
+Library of Congress Cataloging in Publication Data
+
+
+  McGrew, Paul Orman, 1909-
+    The geological history of Fossil Butte National Monument and Fossil
+          Basin.
+      (National Park Service occasional paper; no. 3)
+      Bibliography: p.
+      Includes index.
+      1. Geology—Wyoming—Fossil Butte National Monument.
+      2. Geology, Stratigraphic—Eocene.
+      3. Paleontology—Eocene.
+      4. Fossil Butte National Monument, Wyo.
+      I. Casilliano, Michael, joint author.
+      II. Title.
+      III. Series: United States. National Park Service. National Park
+          Service occasional paper; no. 3.
+      QE182.F67M3    557.87'82    75-17511
+
+
+
+
+The Geological History of Fossil Butte National Monument and Fossil Basin
+
+
+                                                          Paul O. McGrew
+                                                      Michael Casilliano
+                          _Department of Geology, University of Wyoming_
+
+
+          NATIONAL PARK SERVICE OCCASIONAL PAPER NUMBER THREE
+
+    [Illustration: Excavations in progress]
+
+
+
+
+                                Contents
+
+
+  INTRODUCTION                                                          1
+  LOCATION                                                              1
+  HISTORICAL BACKGROUND OF RESEARCH                                     1
+  STRATIGRAPHY                                                          5
+      Thaynes Limestone                                                 7
+      Evanston Formation                                                7
+      Wasatch Formation                                                 7
+      Basal Conglomerate Member                                         9
+      Lower Member                                                      9
+      Main Body                                                        11
+      Sandstone Tongue                                                 11
+      Mudstone Tongue                                                  12
+      Bullpen Member                                                   12
+      Tunp Member                                                      12
+      Age of the Wasatch Formation                                     12
+      Depositional Environment                                         13
+      Green River Formation                                            13
+      Fossil Butte Member                                              13
+      Angelo Member                                                    14
+      Age of the Green River Formation                                 14
+      Depositional Environment                                         14
+      Fowkes Formation                                                 15
+      Sillem Member                                                    15
+      Bulldog Hollow Member                                            15
+      Gooseberry Member                                                15
+      Age of the Fowkes Formation                                      15
+      Depositional Environment                                         15
+  QUATERNARY                                                           15
+  THE GEOLOGIC STRUCTURE OF FOSSIL BASIN                               15
+  PALEONTOLOGY                                                         19
+      Flora                                                            19
+      Invertebrates                                                    20
+      Vertebrates                                                      20
+      Fish                                                             20
+      Amphibians                                                       24
+      Reptiles                                                         24
+      Birds                                                            24
+      Mammals                                                          25
+  PALEOECOLOGY AND TAPHONOMY                                           30
+  GLOSSARY                                                             34
+  REFERENCES                                                           35
+  BIBLIOGRAPHY                                                         37
+  ACKNOWLEDGMENTS                                                      37
+
+
+
+
+                              INTRODUCTION
+
+
+Fifty million years ago the southwestern corner of what is now Wyoming
+was part of a system of three freshwater lakes that covered that area
+plus adjacent parts of Colorado and Utah.
+
+These lakes began with Lake Flagstaff and later became Lake Gosiute,
+Lake Uinta, and Fossil Lake (Fig. 1). These lakes developed in
+intermontane basins that were created as a result of the geologic events
+that formed the Rocky Mountains. The three lakes, collectively known as
+the Green River Lake System, had a long, complex history of expansion
+and contraction. Varying climatic and geologic conditions were
+responsible for the changes in lake size and distribution.
+
+The shores surrounding the lakes were blanketed by a lush, green canopy
+of palm, cinnamon, maple, oak, and other familiar trees. Hazel and lilac
+covered the forest floor. Rushes and other aquatic plants lined the lake
+shore.
+
+The air was humid and warm. Streams flowing down from the hills and
+mountains built up flood plains and fed sediment into the lake, where it
+was deposited in shallow water near the shore. Deposits formed by
+chemical processes settled to the bottom further from shore in deep,
+quiet water. From these processes were formed the rocks from which the
+past history of Green River Lake System is read.
+
+In the forest and undergrowth lived the ancestors of modern mammal
+groups. Ancestral rodents and tiny insectivores lived a furtive
+existence in the brush and mold that carpeted the forest floor, or else
+they sought a livelihood among the branches of trees. Large, bizarre
+animals with strange names lumbered through the reed-covered streamsides
+eating soft, succulent plants. The earliest members of the horse family
+browsed on the soft vegetation. The trees overhead were alive with the
+chattering and antics of early primates. Carnivorous mammals preyed on
+their plant-eating neighbors and so maintained a balanced community.
+Crocodiles and turtles basked in the sun on the beach. Flamingos
+concentrated in large nesting grounds. Snakes and lizards crawled about
+in the undergrowth. Insects, many exceedingly similar to modern types,
+flew about in the warm air or crept about on the plants.
+
+The waters of the lakes teemed with many types of fish. Relatives of the
+perch, herring, and sting ray swam in the warm lake water. Occasionally,
+large-scale mortalities of the fish occurred. As the fish died, they
+sank to the bottom of the lake, and were preserved in the lake
+sediments.
+
+Today, the lakes are gone and where once there were lush tropical
+forests there is now a semi-desert covered with sagebrush and
+greasewood. The history of these lakes, forests, and animal life can be
+read in the thick sediments deposited so long ago.
+
+This report concerns itself with one of these lakes, the smallest of the
+three, Fossil Lake. Famous for its fossil fish beds, part of this
+ancient lake is now Fossil Butte National Monument. It is the purpose of
+this report to relate the history of Fossil Lake and its now fossilized
+inhabitants, thereby, hopefully presenting the order of events in a
+landscape obscured by 50 million years of time.
+
+
+
+
+                                LOCATION
+
+
+Fossil Butte National Monument is near the geographical center of Fossil
+Basin. The basin itself is located in the extreme southwestern part of
+Wyoming in Uinta and Lincoln counties, near the Utah-Idaho border (Fig.
+2).
+
+The monument is situated about 10 miles west of Kemmerer, Lincoln
+County, Wyoming (Fig. 3). U.S. Highway 30N runs just south of the
+monument as does the Union Pacific Railroad line to Oregon. The
+abandoned town of Fossil is also immediately south of the monument.
+
+The Kemmerer and Sage quadrangles of the United States Geological Survey
+cover the entire monument and the surrounding area.
+
+
+
+
+                   HISTORICAL BACKGROUND OF RESEARCH
+
+
+The principal rocks involved at Fossil Butte are the Green River and
+Wasatch formations. The first published notice of these two rock units
+was by Hayden (1869). Although short, Hayden’s descriptions were the
+basis for later refinement of the stratigraphy of the Green River and
+Fossil basins. Hayden also mentioned the quantities of fossil fish from
+the Green River Formation.
+
+The work done by Hayden was conducted under the auspices of the U.S.
+Department of the Interior, Geological and Geographical Survey of the
+Territories. The survey lasted from 1867 to 1878, during which time
+Hayden and his associates published annual reports of their findings.
+
+In the 1870 report, Hayden (1871) mentioned the discovery of the
+Petrified Fish Cut. This cut is located on the main line of the Union
+Pacific Railroad about 2 miles west of Green River, Wyoming. A. W.
+Hilliard and L. E. Rickseeker, employees of the Union Pacific Railroad,
+discovered the cut and obtained many fossil fish which they turned over
+to Hayden.
+
+Previous to Hayden, rocks now known as the Green River and Wasatch
+formations were occasionally mentioned in the various diaries, journals,
+and reports of early missionaries like those of S. A. Parker or those of
+explorers like Fremont (Knight 1955).
+
+    [Illustration: Fig. 1. Paleocene-Eocene lake system (after Schaeffer
+    and Mangun 1965).]
+
+    [Illustration: Fig. 2. Geographic features of southwest Wyoming and
+    adjacent areas (from Oriel and Tracey 1970).]
+
+    [Illustration: Fig. 3. Physiography of the Fossil Butte National
+    Monument region (from U.S. Department of the Interior 1964).]
+
+Hayden’s report (1871:425-437) included a description of the fish
+fossils from Petrified Fish Cut by E. D. Cope, a vertebrate
+paleontologist. Several years earlier Leidy (1856), another
+paleontologist, described a fish from an unknown locality in the Green
+River Formation.
+
+Hayden divided this survey area into several districts. The Green River
+district was put in charge of A. C. Peale. Peale’s (1879:535) report
+contained the first geologic description of Fossil Butte itself, as well
+as a short discussion of the fish fossils obtained there. The
+description of the butte is quoted here:
+
+  ... In the lower part of the bluff from which these specimens are
+  taken, the bright coloured beds of the Wasatch are seen outcropping,
+  although the entire section cannot be seen, as their softness causes
+  them to weather so that the debris conceals the strata. The fossils
+  are found at several horizons in the shales. Near the top of the bluff
+  is a band of hard, bituminous, or oily shale, which burns rather
+  freely with a strong bituminous odor.... It is brownish-black in color
+  and on the weathered surfaces a bluish white....
+
+The next major publication dealing with Fossil Basin was that by Veatch
+(1907). He mapped the rocks in certain areas of the basin in an attempt
+to bring a semblance of order to Hayden’s (1869) broad stratigraphic
+descriptions. His work resulted in the designation of most of the rock
+units in Fossil Basin from Jurassic to Recent.
+
+Schultz (1914), an associate of Veatch, published a paper dealing with
+the structures to the north and east of Fossil Basin. This helped to
+delineate the features surrounding and forming the basin.
+
+Subsequent work on the geology of southwest Wyoming mainly has been
+concentrated on the Green River Basin just east of Fossil Basin.
+Significant work on Fossil Basin has been done by Rubey et al. (1968a,
+b) who mapped the northern part of the basin, and by Oriel and Tracey
+(1970) who have published results of the latest study on the
+stratigraphy and age of the rock units in Fossil Basin. This latest work
+is the culmination of many years of study and incorporates and refines
+data presented in shorter, earlier papers.
+
+
+
+
+                              STRATIGRAPHY
+
+
+The complete geologic history of the Fossil Basin involves many
+stratigraphic units. Most of these are not exposed within the monument
+itself but are well known from outcrops outside the boundaries of the
+monument and from deep wells (Fig. 4).
+
+At the base of the stratigraphic section are rocks of Precambrian age.
+These have not been penetrated by wells within the Fossil Basin but
+should occur as much as 25,000 ft beneath the surface. They probably
+consist of metamorphic and intrusive rocks. Beginning about 600 million
+years ago, at the beginning of Cambrian time, sedimentary deposits
+accumulated. These are both marine and continental in origin and range
+in age from early Cambrian (600 million years old) to early Tertiary (50
+million years old). Some 34 geologic formations are recognized in this
+thick section, a list of which follows:
+
+  Eocene                Fowkes Formation
+                        Wasatch-Green River Formations
+  Paleocene             Evanston Formation (upper part)
+  Upper Cretaceous      Evanston Formation (lower part)
+                        Adaville Formation
+                        Lazeart Sandstone
+                        Hilliard Shale
+                        Frontier Formation
+  Lower Cretaceous      Aspen Shale
+                        Bear River Formation
+                        Gannett Group
+  Jurassic              Stump Sandstone
+                        Preuss Sandstone
+                        Twin Creek Limestone
+                        Nugget Sandstone (upper part)
+  Triassic              Nugget Sandstone (lower part)
+                        Thaynes Limestone
+                        Woodside Formation
+                        Dinwoody Formation
+  Permian               Phosphoria Formation
+  Pennsylvanian         Wells Formation
+  Mississippian         Brazer Limestone
+                        Madison Limestone (upper part)
+  Devonian              Madison Limestone (lower part)
+                        Darby Formation
+  Silurian              Not Present
+  Ordovician            Leigh Dolomite
+                        Bighorn Dolomite
+  Cambrian              Gallatin Limestone
+                        Gros Ventre Formation
+  Precambrian           Complex of metamorphic and intrusive rocks
+
+Within the monument itself the oldest rocks exposed are those of the
+Thaynes Limestone near Prow Point. As will be seen in the discussion of
+the structure of the Fossil Basin, all of the rocks beneath the Evanston
+Formation are folded and faulted and within the monument are buried by
+deposits of Tertiary age. For this reason detailed discussion of
+stratigraphic units will be confined to those rocks that can be seen
+within the boundaries of the monument or closely adjacent to it (Fig. 5
+). The distribution of the various formations within the monument is
+illustrated in Figs. 7 and 8.
+
+    [Illustration: Fig. 4. Geologic time scale.]
+
+  Era/Period/Epoch             Age  Major Biological & Geologic Events
+                         (Millions
+                        of years)
+  CENOZOIC
+    Quaternary                      Ice Age begins and evolution of
+                                    modern mammals; man reaches N. A.;
+                                    general uplift of continent.
+      Holocene (Recent)        .01
+      Pleistocene                3
+    Tertiary                        Evolution and Development of major
+                                    mammal groups; Cascadian Orogeny in
+                                    northwestern United States; in latest
+                                    Cenozoic, Eocene lake system.
+      Pliocene                 5.5
+      Miocene                 25.5
+      Oligocene                 36
+      Eocene                    54
+      Paleocene                 65
+  MESOZOIC
+    Cretaceous                130   Extinction of dinosaurs; flowering
+                                    plants flourish; height of
+                                    Cordilleran Orogeny.
+    Jurassic                  185   First birds, dinosaurs and mammals
+                                    continue to evolve; beginning of
+                                    Cordilleran Orogeny which formed the
+                                    Rocky Mountains.
+    Triassic                  230   Conifers evolved; first dinosaurs;
+                                    first mammals; Appalachian Orogeny;
+                                    some orogeny in Cordillera.
+  PALEOZOIC
+    Permian                   265   Archaic reptiles and mammal-like
+                                    reptiles evolve. Appalachian Orogeny.
+    Pennsylvanian             310   First reptiles, coal swamps formed;
+                                    beginning of the Appalachian Orogeny.
+    Mississippian             355   Expansion of amphibians; much
+                                    carbonate deposition; Antler Orogeny
+                                    in Cordilleran Mobile Belt (Rocky
+                                    Mountain area).
+    Devonian                  413   First land plants; first jawed
+                                    fishes, sharks and bony fish;
+                                    amphibians appear; Acadian Orogeny in
+                                    the Appalachian belt.
+    Silurian                  425   Jawless fishes evolved; much reef
+                                    development; evaporite mineral
+                                    development.
+    Ordovician                475   First vertebrate remains known from
+                                    this time; Taconic Orogeny in
+                                    Appalachian belt.
+    Cambrian                  600   First shelled invertebrates; major
+                                    flooding of North America.
+
+
+  Notes:
+    Reformatted table to combine ‘Era’, ‘Period’, and ‘Epoch’ columns
+          into one column in outline form.
+    Beneath heading ‘Epoch’: “(Cenozoic only)”; beside other periods,
+          “Epochs for these periods are not definitely established”
+    As the last line, “Precambrian time began 5 billion years ago.”
+
+
+                           Thaynes Limestone
+
+At the very northeastern corner of Fossil Butte National Monument can be
+seen an outcrop of the Thaynes Limestone of Triassic age, a marine unit
+deposited some 200 million years ago. This formation is noted for its
+rich and varied assemblage of marine fossils, mostly forms related to
+oysters and clams. The Thaynes Limestone consists predominantly of
+sandy, gray limestone and green-gray limey siltstones. The formation
+weathers to a dark brown in the lower part and a grayish-yellow in the
+upper. The fact that the Thaynes Limestone is exposed in the monument at
+all is because of the faulting that took place just prior to the
+deposition of the Evanston Formation of latest Cretaceous and earliest
+Tertiary age (refer to section on structure) and the erosion of the
+Tertiary rocks that once covered it.
+
+
+                           Evanston Formation
+
+Although not seen within the boundaries of the Fossil Butte National
+Monument, the Evanston Formation is exposed just south of Highway 30N,
+1.5 miles southeast of the southeast corner of the monument. The
+Evanston was not involved in the complex folding and faulting but it is
+somewhat disturbed and rests under the Wasatch Formation with angular
+uncomformity. The Evanston Formation bridges the time boundary between
+the Cretaceous and Tertiary periods. In the lower part of the unit are
+found many fossil leaves, pollen, and spores and a jaw of the horned
+dinosaur _Triceratops_ that prove its Cretaceous age, and in the upper
+part are found fossil mammals of Paleocene age.
+
+The Evanston Formation has been studied in detail by Oriel and Tracey
+(1970). These authors divide the formation into three members. The
+lowest, which they called the Lower Member, is predominantly “gray to
+very dark gray mudstone, siltstone, claystone and gray carbonaceous
+sandstone.” The Lower Member reaches a thickness of 500 ft in some
+places. Above and in part interfingering with the Lower Member is a 1000
+ft thick unit that was named the Hams Fork Conglomerate Member. This
+unit consists of beds of boulder conglomerate interstratified with thick
+beds of coarse, partly conglomeratic brown sandstone and gray mudstone.
+Where the Lower Member of the Evanston is missing, the Hams Fork
+Conglomerate forms the base of the formation.
+
+The Upper Member of the Evanston Formation is termed by Oriel and Tracey
+(1970) the Main Body. It is more than a thousand feet thick and the
+lower part intertongues with the Hams Fork Conglomerate. The Main Body
+is “light to dark gray carbonaceous sandy to clayey siltstone
+interbedded with gray, tan, yellow and brown sandstone and conglomerate
+and carbonaceous to lignitic claystone.” It is this Main Body that can
+be seen along the highway just southeast of the monument.
+
+The types of sediments and fossils found in the Evanston indicate that
+the formation was deposited by streams on flood plains and in marshes
+and ponds. A subtropical climate is indicated and the area was heavily
+wooded.
+
+
+                           Wasatch Formation
+
+The term Wasatch was first used by Hayden (1869:91) as follows:
+
+  Immediately west of Fort Bridger commences one of the most remarkable
+  and extensive groups of Tertiary beds seen in the West. They are
+  wonderfully variegated, some shade of red predominating. This group,
+  to which I have given the name of Wasatch group, is composed of
+  variegated sands and clays. Very little calcareous matter is found in
+  these beds.
+
+  In Echo and Weber Canyons are wonderful displays of conglomerates,
+  fifteen hundred to two thousand feet in thickness. Although this group
+  occupies a vast area, and attains a thickness of three to five
+  thousand feet, yet I have never known any remains of animals to be
+  found in it. I regard it, however, as of middle Tertiary age.
+
+The Wasatch is well exposed in Fossil Basin. There the unit was regarded
+by Veatch (1907) as a group and divided by him into three formations:
+the Almy, Fowkes, and Knight. He wrote (1907:88):
+
+  In the Wasatch group as thus defined by Hayden the field work of the
+  season 1905 showed three divisions: 1) a basal member composed of
+  reddish-yellow sandy clays, in many places containing pronounced
+  conglomerate beds, which has been named the Almy Formation; 2) a great
+  thickness of light-colored rhyolitic ash beds containing intercalated
+  lenses of white limestones with fresh-water shells and leaves—the
+  Fowkes Formation; and 3) a group of reddish-yellow sandy clays with
+  irregular sandstone beds (the Knight Formation) closely resembling 1)
+  lithologically and separated from 1) & 2) by a pronounced period of
+  folding and erosion.
+
+Veatch, however, erred in his field work and did not realize that the
+Fowkes Formation had been downfaulted into the position in which he saw
+it (Tracey and Oriel 1959; Eardley 1959). The Fowkes is actually the
+youngest of the three formations of Veatch and is considerably later in
+age than the true Wasatch.
+
+The Almy and Knight formations are not separable (Oriel and Tracey
+1970:16), and can be seen to grade into each other at the basin edges.
+
+    [Illustration: Fig. 5. Intertonguing relationship of latest
+    Cretaceous and Tertiary stratigraphic units of Fossil Basin.]
+
+
+  Recent, Pleistocene
+    Pleistocene and Recent gravel and alluvium
+  Pliocene
+    Gooseberry Member of Fowkes Formation
+  Oligocene to Pliocene
+    Hiatus
+  Eocene
+    Bridgerian
+      Fowkes Fm.
+    Bulldog Hollow Member
+    Sillem Member
+    Unconformity
+    Wasatchian: Wasatch Formation, Tunp Member
+      Bullpen Member
+    Green River Formation
+    Angelo Member
+    Mudstone Tongue
+    Fossil Butte Member
+    Sandstone Tongue
+    Main Body
+    Lower Member
+      Basal Conglomerate Member
+  Paleocene
+    Possible hiatus or unconformity
+    Evanston Formation
+      Main Body
+      Hams Fork Conglomerate Member
+  Latest Cretaceous
+      Lower Member
+      UNCONFORMITY
+  Late Cretaceous
+    Adaville and older formations
+
+
+    [Illustration: Fig. 6. Subdivisions of Paleocene and Eocene time.]
+
+
+  Eocene
+    Late Eocene
+      Uintan
+    Mid Eocene
+      Bridgerian
+    Early Eocene
+      Wasatchian
+    Lostcabinian
+    Lysitean
+    Graybullian
+  Paleocene
+    Late Paleocene
+      Tiffanian
+    Mid Paleocene
+      Torrejonian
+    Early Paleocene
+      Dragonian
+      Puercan
+
+
+The Almy and Knight, as defined by Veatch, are probably different facies
+of Wasatch, the Almy being a more peripheral facies and the Knight a
+more basinal facies (Oriel and Tracey 1970). These authors proposed that
+the terms Almy and Knight be dropped and that the name Wasatch be
+applied to all these rocks to avoid confusion.
+
+The latest subdivision of the Wasatch Formation in the Fossil Basin is
+that of Oriel and Tracey. The members of the Wasatch Formation they
+propose are described in order from oldest to youngest.
+
+
+                       BASAL CONGLOMERATE MEMBER.
+
+This member has only local development in Fossil Basin. Where found, it
+is a lenticular conglomerate with pebbles and cobbles of buff and tan
+sandstone from the Nugget Sandstone and limestone fragments from the
+Thaynes and Twin Creek formations.
+
+The basal conglomerate is essentially a channel fill in ancient stream
+beds cut into Mesozoic rocks.
+
+
+                             LOWER MEMBER.
+
+This is an irregular sequence of flood-plain and stream-channel
+deposits. It is exposed along the southern part of the Tunp Range and
+extends into the far western section of Fossil Butte National Monument
+just below Prow Point.
+
+Mudstone is the main rock type. It can be tan, brown, pink, red, or gray
+in color. Black, carbonaceous siltstones are also present. Gray
+sandstone that weathers yellow or brown and coarse-grained, cross-bedded
+conglomerate and sandstone are also prominent. Limestone occurs as thin
+lenses and is often brown, platy, and carbonaceous.
+
+It is interesting to note that the Lower Member is intermediate not only
+in stratigraphic position but also in color and composition between the
+underlying Evanston Formation and overlying Main Body of the Wasatch
+Formation. The Lower Member thus appears to represent a gradual change
+in either climatic and/or sedimentary conditions in Fossil Basin (Oriel
+and Tracey 1970).
+
+    [Illustration: Fig. 7. Geologic map of Fossil Butte National
+    Monument (after Rubey et al. 1968).]
+
+
+  LEGEND
+    Quaternary—Qg-Qaf—Gravel & stream deposits
+    Eocene
+      Green River Fm.
+    Tga—Angelo Member
+    Tgf—Fossil Butte Member
+      Wasatch Fm.
+    Twb—Bullpen Member
+    Twm—Mudstone Tongue
+    Tw—Main Body
+    Twl—Lower Member
+    Triassic TR†—Thaynes Limestone
+
+
+    [Illustration: Fig. 8. NW-SE section across Fossil Butte National
+    Monument, Sage and Kemmerer quadrangles (mapped by Rubey et al.
+    1968).]
+
+
+  Eocene
+    Twb—Bullpen Member of Wasatch Fm.
+    Tga—Angelo Member of Green River Fm.
+    Twm—Mudstone tongue of Wasatch Fm.
+    Tgf—Fossil Butte Member of Green River Fm.
+    Tw—Main body of Wasatch Fm.
+
+
+                               MAIN BODY.
+
+This unit of the Wasatch Formation is that part of the formation which
+produces the spectacular red-colored badlands in Fossil Butte National
+Monument. Particularly typical exposures can be seen in the south-facing
+scarp of Fossil Butte where the Main Body makes up the lower portion of
+the butte.
+
+The most remarkable feature of the Main Body is its color. On the lower
+slopes of Fossil Butte are bands of bright to dull red, pink, purple,
+yellow, and gray color arranged in various patterns. This unit is best
+observed at a distance, especially after a rain. The bright hues of the
+Wasatch contrast markedly with the whites and tans of the overlying
+Green River Formation.
+
+Individual bands of color range from 1 to 10 ft thick (Oriel and Tracey
+1970:78). The colors are brightest in the upper part of the member and
+drabber in the coarser-grained lower part.
+
+The predominant rock types in the Main Body are banded, variegated
+mudstone with interlayered sandstone, conglomerate, marlstone,
+siltstone, and claystone.
+
+The upper part of the Main Body is mainly mudstone composed of fine silt
+and very fine, bedded sand with a clay binder. Conglomerates occur as
+channel fills and contain calcium carbonate as cement as do a number of
+sandstone and siltstone layers in the upper Main Body.
+
+Conglomerates and sandstone are more common in the lower part of the
+Main Body. Some are part of Veatch’s old Almy Formation. They are best
+developed along the edge of Fossil Basin. The Main Body overlaps the
+Evanston Formation in some places and may rest directly on Mesozoic or
+Paleozoic rocks.
+
+
+                           SANDSTONE TONGUE.
+
+This is a tongue of cross-bedded sandstone. It is brown in color and is
+composed mostly of quartz with some black chert grains. This unit is
+limited in distribution to the south of Fossil Butte National Monument.
+The Sandstone Tongue thins and pinches out to the north and is not
+present within the monument. The area of pinchout represents the
+shoreline at one stage of Fossil Lake. The Sandstone Tongue wedges into
+the Fossil Butte Member of the Green River Formation. The sediment
+sources were probably the Uinta Mountains at the south edge of Fossil
+Basin. Tectonic events caused an uplift and erosion of Mesozoic and
+Paleozoic rocks in the Uintas and debris was deposited in Fossil Lake as
+an encroaching delta of sand. When deposition of the sand halted, the
+lake expanded and covered the sand, encasing it within the shales of the
+Green River Formation.
+
+The Sandstone Tongue can be traced into the Main Body of the Wasatch,
+hence its assignment to the Wasatch Formation.
+
+
+                            MUDSTONE TONGUE.
+
+This tongue of the Wasatch Formation can be seen in the northwestern
+part of Fossil Butte National Monument and over most of the northern
+part of Fossil Basin. In the area of its distribution, the Mudstone
+Tongue separates the underlying Fossil Butte Member of the Green River
+Formation from the overlying Angelo Member of the Green River Formation.
+The tongue thins and disappears to the south, that is, basinward. As
+with the Sandstone Tongue, the edges of the Mudstone Tongue where it
+pinches out represent an ancient shoreline of Fossil Lake. To the north
+and west the Mudstone Tongue merges with the Tunp Member of the Wasatch
+Formation.
+
+The Mudstone Tongue is a composite of dark-red mudstone which becomes
+lighter in color basinward, changing to light red, pink, or
+greenish-gray claystone. The unit is a mixture of silt and clay derived
+from the north and west, and was deposited as a large delta in Fossil
+Lake.
+
+An interesting aspect of the Mudstone Tongue is the presence of algal
+logs. These are cylinders of limestone that apparently formed as an
+encrustation of calcium carbonate around logs and branches that fell
+into the edge of the lake. The calcium carbonate resulted from the
+action of algae which grew around the log. Successive growths of algae
+resulted in successive layers of calcium carbonate being deposited.
+
+
+                            BULLPEN MEMBER.
+
+This uppermost member of the Wasatch Formation is found mostly to the
+west and south of the monument. A few, small, isolated caps on the top
+of the Green River Formation east of Prow Point occur within the
+monument. These low hills, mere bumps, are remnants of a once more
+extensive distribution of the Bullpen Member.
+
+Veatch (1907:99) originally considered what is now called the Bullpen
+Member as being the Bridger Formation, this was based mostly on the
+Bullpen’s position above the Green River Formation rather than on any
+lithologic resemblance to the Bridger. The Bullpen is much redder in
+color than the Bridger.
+
+In early work Tracey and Oriel (1959:729) called these beds an upper
+tongue of the Wasatch and have since named them the Bullpen Member.
+
+The Bullpen Member is lithologically very like the Main Body of the
+Wasatch and can be traced into the peripheral units of the Wasatch
+Formation.
+
+The rocks included within the Bullpen Member are layered sequences of
+red, pink, gray, and green claystone and mudstone. Bentonite is present
+in some claystone beds and causes sloughing because of its property of
+expanding when wet. Some sandstones are present in the northern areas of
+the member’s distribution. Limestones are also present. They are thin
+and slabby and have a brown, white, or gray color. Some contain varying
+amounts of clay. A conglomerate is present in the upper part of the
+Bullpen toward the basin periphery and merges with the Tunp Member of
+the Wasatch Formation.
+
+The Bullpen Member is conformable with the underlying Angelo Member of
+the Green River Formation. The contact is a transitional one reflecting
+a gradual change from the lake environment of the Green River Formation
+through a swamp environment to that of a flood plain. The light-colored,
+fine-grained shales, marlstones, and limestones of the Green River
+Formation grade upward into drabber, coarser grained clay and mudstones
+of the Bullpen Member as a reflection of this change of environments.
+
+
+                              TUNP MEMBER.
+
+This peripheral unit of the Wasatch Formation was first described by
+Oriel and Tracey in 1970. It is not exposed in the monument, but forms a
+belt of outcrops around the edge of Fossil Basin and in channels cut at
+right angles to the basin edge.
+
+The Tunp Member is seen to intertongue with nearly all of the Wasatch
+and Green River formations. The member grades laterally basinward from
+coarse, angular conglomerates to fine mudstone. Two limestone tongues of
+the Green River Formation are interbedded with the Tunp, indicating that
+at least twice there was major expansion of the lake.
+
+Lithologically, the Tunp Member is a diamictite. This is a sedimentary
+rock with a wide range of particle sizes. The Tunp is best described as
+a red, conglomeratic, sandy mudstone with angular, poorly rounded to
+smooth, well-rounded clasts with a size range from pebble to boulder.
+There is no bedding or orientation of clasts.
+
+The Tunp Member probably originated from mudflows and gravity sliding
+(Tracey et al. 1961). Environmental studies indicate that the area had a
+warm, humid climate. This would cause deep weathering of the surrounding
+slopes. This weathered material would then be a prime source to be acted
+upon by rain, gravity, and possibly earthquakes. These agents of
+deposition would then cause the material to flow and be deposited with
+little chance for sorting and rounding of the rock particles. The result
+was a belt of coarse, unsorted detritus on the basin edges now called
+the Tunp Member.
+
+
+                     AGE OF THE WASATCH FORMATION.
+
+The exact age of the units within the Wasatch Formation can be
+determined only if fossils are present. None has been found in the basal
+conglomerates but it is believed to be earliest Eocene. The Lower Member
+is also not dated with fossils but is believed to be very early Eocene.
+A number of fossil mammals are known from the Main Body of the Wasatch
+Formation. The lower part is early, early Eocene as demonstrated by the
+presence of a very primitive ungulate, _Haplomylus speirianus_. In the
+upper part of the Main Body another primitive ungulate, _Hyopsodus
+browni_, is found which indicates a mid to early Eocene age. The
+Mudstone and Sandstone tongues are not dated by means of fossils but the
+stratigraphic relationships indicate an early Eocene age. Fossil
+mollusks in the Bullpen Member are not completely diagnostic but suggest
+either a late early Eocene (Lostcabinian) (Fig. 6) or mid-Eocene age.
+The Tunp Member interfingering as it does with the entire Wasatch
+section represents all of early Eocene age.
+
+
+                       DEPOSITIONAL ENVIRONMENT.
+
+The sediments that make up the Wasatch Formation in the Fossil Basin
+were deposited mainly by streams flowing into the basin from the
+surrounding uplands. Rock types are variable and for the most part
+individual types cannot be traced over large areas, a condition typical
+of fluvial environments. The mudstones and siltstones probably were
+deposited along flood plains, while the lenticular sands and
+conglomerates were laid down in stream channels. Where streams entered
+the lake tongues of deltaic deposits, sands or mudstones wedge into the
+Green River Lake sediments.
+
+The reason for the red color of the Wasatch Formation is not fully
+known. According to Van Houten (1948), the red is most likely the result
+of tropical, red lateritic soils forming in the uplands and being
+deposited on flood plains. The oxidation of organic material in a humid,
+subtropical environment causes the red color. The bands of purple, gray,
+orange, and other colors are due to various stages in the reduction of
+the iron oxides in the rocks.
+
+The presence of palms in the lake sediments and of bones of primates and
+crocodiles in both the lacustrine and fluvial sediments indicate a
+heavily forested, tropical environment.
+
+
+                         Green River Formation
+
+The Green River Formation is easily recognized by its light color and
+continuous bedding, in strong contrast to the red, discontinuous,
+variegated Wasatch Formation below. The Green River Formation can be
+thought of as a gigantic lens of lacustrine sediments enclosed in the
+fluvial Wasatch Formation. The name Green River Formation is applied to
+all of the roughly contemporaneous deposits laid down in lakes of Utah,
+Colorado, and Wyoming. It is probable that at one time or another all of
+these lakes were connected.
+
+Oriel and Tracey (1970) have divided the Green River Formation of the
+Fossil Basin into two members: the Fossil Butte Member and the Angelo
+Member.
+
+
+                          FOSSIL BUTTE MEMBER.
+
+The type section for this member is near the southeastern end of Fossil
+Butte within the monument boundaries. In the type area the Fossil Butte
+Member can be seen to consist of four lithologic units.
+
+The lowermost unit is predominantly mudstone. It occurs in a sequence
+about 45 ft thick and contains light gray, fine-grained, calcareous
+mudstone and siltstone.
+
+The next overlying unit is about 75 ft thick and is mainly a limestone
+unit. It consists of tan to gray limestone, shaly limestone, siltstone,
+and paper shale which weathers into thin, curled flakes. A yellow-brown
+mudstone tops this unit.
+
+The third unit in the sequence is 45 ft thick and mainly composed of
+shales. These shales weather a buff color and are calcareous. Oil shale,
+organic rich paper shale, and marlstone comprise the actual layers in
+the unit. A few, thin ash beds are also present. This unit is the most
+significant one for Fossil Butte National Monument. About 10 ft below
+the top of this unit (about 155 ft above the Wasatch) is a bed of varved
+shales, one foot thick, that contains the fossil fish for which the
+monument was established.
+
+The uppermost unit contains a number of beds of oil shale that are brown
+on a fresh surface but weather a grayish-white. An
+orange-yellow-weathering limestone caps the 40-ft thick upper unit. Ash
+beds are common and traceable over a wide area of Fossil Basin.
+
+South of the monument the Sandstone Tongue of the Wasatch Formation
+wedges in between the lowermost unit and the overlying limestone unit of
+the Fossil Butte Member.
+
+In the Fossil Butte Member an interesting sequence of facies changes can
+be seen which reflect lateral changes in the environment of Fossil Lake.
+In those areas where the member represents a deep-water environment,
+organically formed limestones and shales are predominant. Shoreward,
+these rocks grade into ostracodal limestone, gastrapodal limestone, and,
+closest to shore, algal limestone. Then a muddy, sandy beach facies is
+encountered where the Green River and Wasatch formations intergrade.
+
+The contact with the underlying Wasatch is conformable and sharp. It is
+often marked by a bench or by slump blocks of Green River Formation.
+
+The Fossil Butte Member may in some cases overlap the Wasatch Formation
+and be deposited on Paleozoic and Mesozoic rocks. This is a reflection
+of topographic relief during the Eocene.
+
+The thickness of the Fossil Butte Member, as reported by Oriel and
+Tracey (1970:37), is from 208 to 269 ft.
+
+
+                             ANGELO MEMBER.
+
+In the northern part of Fossil Basin, the Mudstone Tongue of the Wasatch
+Formation separates the Angelo Member of the Green River Formation from
+the Fossil Butte Member. Further south, the two members rest directly on
+one another. The southern extent of the Angelo Member has not been
+determined as yet, but Oriel and Tracey (1970:32) believe it extends up
+to, and intertongues with, Wasatch conglomerates near the Uinta
+Mountains. Toward other edges of Fossil Basin, the Angelo Member thins
+and pinches out into the Wasatch Formation. The Bullpen Member of the
+Wasatch rests on top of the Angelo Member.
+
+The Angelo Member consists of white to blue-white weathering limestone,
+marlstone, and mudstone. Some sandstone lenses, claystone, oil shale,
+and siliceous limestone are present as well. In general, Oriel and
+Tracey (1970) have found that buff limestones prevail to the north and
+white, siliceous limestone, to the south. Like the Fossil Butte Member,
+the Angelo Member shows a facies change from deep-water to shore.
+
+This member forms the very uppermost, rounded slopes of Fossil Butte in
+contrast to the more vertical cliffs formed by the Fossil Butte Member.
+
+
+                   AGE OF THE GREEN RIVER FORMATION.
+
+The age of the Green River Formation is dated on its intertonguing
+relationships with the Wasatch Formation because the latter has datable
+mammal fossils. The well-preserved fossils of fish, leaves, and insects
+from the Green River are, unfortunately, of little value in dating the
+Green River Formation.
+
+Although no Lostcabinian mammals are known from Fossil Basin, the Green
+River Formation is believed to be of that age (Gazin 1959; Schaeffer and
+Mangus 1965).
+
+
+                       DEPOSITIONAL ENVIRONMENT.
+
+The Green River Formation, on the basis of its lithology and fossil
+content, is a fresh-water, lacustrine deposit. Clay and silt were dumped
+in Fossil Lake by streams. Most of this fine debris was deposited near
+the shore. Chemical and organic processes formed limestones and
+marlstones in the deeper central part of the lake.
+
+Examination of the edge of the Green River Formation indicates that
+Fossil Lake expanded and contracted several times.
+
+Fossil Lake was eventually filled in with chemical precipitates and
+deltaic deposits. The end of the lake was gradual as seen in the
+transitional and gradational Green River-Bullpen contact.
+
+Although oil shale is not extensively developed in the Green River
+Formation of Fossil Basin, it does occur in small quantities.
+
+  Oil shale is a fine-grained sedimentary rock containing organic matter
+  which was derived chiefly from aquatic organisms, waxy spores and
+  pollen grains ... and of which a large portion is distillable into a
+  liquid similar to petroleum. Despite the name, most rich beds of oil
+  shale in the Green River Formation cannot be regarded strictly as
+  shale. Instead, they are dolomitic marlstones rich in organic matter.
+  Nevertheless, a few are shaly (Bradley 1964b:19).
+
+Oil shale has a structureless ground mass that is yellowish-orange to
+reddish-orange in color. Pyrite crystals are found indicating a
+partially anaerobic or reducing environment. Pollen, waxy spores,
+filaments of algae, and other plant parts are preserved along with
+insects and larvae. The preservation is akin to mummification. Crystals
+of calcite, dolomite, or authigenic feldspar are also found in the oil
+shale (Bradley 1966).
+
+The exact mode of origin of oil shale is not positively known because of
+a lack of a modern analogue for comparison. Oil shale probably
+originated as an organic ooze on the bottom of the Fossil Lake. This
+ooze was composed of the remains of phytoplankton, blue-green algae,
+zooplankton, bacteria, and some pollen and spores. The ooze was dense
+and uncompacted. Little clastic debris is found, either because the ooze
+accumulated in deep water or plants near the shore filtered out the
+debris.
+
+Decay was reduced effectively in the ooze because of either an
+antibiotic in the ooze which inhibited bacteria of decay or the ooze
+accumulated in waters where anaerobic conditions prevented decay.
+
+With time and the weight of overlying sediments, the ooze was compacted
+and most of its water driven off. Continuing pressure from compaction
+and heat generated by burial and compaction caused a variety of complex
+chemical reactions which converted the ooze into a petroleum product
+called kerogen. Kerogen is distillable and is the important constituent
+of oil shale.
+
+An alternate hypothesis (Eugster and Surdam 1973), would have some oil
+shale forming in a desert-playa environment. This is based on
+geochemical evidence found in Gosiute Lake sediments to the east of
+Fossil Lake. There, certain minerals are found in association with some
+oil shale that could only have been deposited during periods of extreme
+evaporation and in a shallow lake. Much study is now being directed
+toward a solution to these problems.
+
+The combustible quality of oil shale has been known for a long time.
+Many of the pioneers used it as a fuel for cooking and heat. Hayden
+(1871:142) wrote of how workmen on the Union Pacific accidently ignited
+the oil shale in a cut they were excavating. The burning shale provided
+enough light for night work.
+
+Many of the shales of the Green River Formation appear to be varved. A
+varve consists of two layers, one of calcium or magnesium carbonate and
+one of organic material. The limnological conditions that led to the
+formation of varves will be discussed in their proper place in the
+section on Paleoecology.
+
+
+                            Fowkes Formation
+
+This is the middle formation of Veatch’s (1907) tripartite division of
+the Wasatch Group. It is now found to be the youngest formation in
+Fossil Basin. It is not exposed in Fossil Butte National Monument.
+
+Oriel and Tracey (1970) have formally divided and named three members of
+the Fowkes Formation: a lower Sillem Member, a middle Bulldog Hollow
+Member, and an upper Gooseberry Member.
+
+
+                             SILLEM MEMBER.
+
+Like most of the Fowkes Formation, this sequence of rocks has been
+eroded extensively and is preserved as erosional remnants, where
+protected by faulting, in the western part of Fossil Basin.
+
+The Sillem Member consists of a lower conglomeratic sequence with some
+sandstone and mudstone. The conglomerate contains well-rounded clasts of
+gray quartzite, chert, and Paleozoic limestone. The sandstone is light
+gray, calcareous to muddy, and coarse to medium-grained. The mudstone is
+pink, gray, or tan in color.
+
+The upper part of the Sillem Member is a mudstone and claystone unit. It
+ranges in color from pink and yellow to gray and green. Some volcanic
+debris is found. There are also interbedded layers of marlstone and
+limestone. Some sandstone is present.
+
+The Sillem Member is between 100 and 400 ft thick and most probably
+rests unconformably on the Bullpen Member of the Wasatch.
+
+
+                         BULLDOG HOLLOW MEMBER.
+
+This middle member of the Fowkes Formation has the thickest and most
+extensive outcrops. The Bulldog Hollow Member is exposed along the west
+side of the basin.
+
+Included rocks are green, white, and blue-green mudstone with ash beds,
+green and buff claystone, and tuffaceous, limy sandstone. A high
+percentage of the iron mineral, magnetite, occurs in the sandstone.
+Conglomerate occurs as lenses.
+
+The Bulldog Hollow Member has a gradational contact with the underlying
+Sillem Member. The amount of volcanic material increases upward from the
+Sillem, indicating an increase in volcanic activity during the
+deposition of the Bulldog Hollow Member.
+
+
+                           GOOSEBERRY MEMBER.
+
+Oriel and Tracey (1970:55) place this uppermost member provisionally
+within the Fowkes Formation. Most of the Gooseberry Member is a
+puddingstone, a lithology with well-rounded, spherical pebbles in a
+marlstone, sandstone, or sandy limestone matrix. The pebbles are too
+rounded for the rock to be a diamictite, and too separated from each
+other to be called a conglomerate.
+
+The nature of the Gooseberry-Bulldog Hollow contact is not completely
+known. It appears to be gradational in some areas and to be an angular
+unconformity in others.
+
+
+                        AGE OF FOWKES FORMATION.
+
+Fossils date the Sillem and Bulldog Hollow members as middle Eocene in
+age. These fossils consist of ostracodes, gastropods, leaves, and
+vertebrates from the Bulldog Hollow Member (Nelson 1973). The Gooseberry
+Member has yielded a few vertebrate remains and is late Miocene or early
+Pliocene in age (Oriel and Tracey 1970).
+
+
+                       DEPOSITIONAL ENVIRONMENT.
+
+The Fowkes Formation is an alluvial deposit, much like the Wasatch
+Formation. The chemical and climatic conditions of deposition were
+different from those of the Wasatch, and the extensive red-beds are not
+developed.
+
+Small lakes were present in which limestone and marlstone accumulated.
+The puddingstone may be a mudflow. Volcanic activity left its record in
+the ash found in the Fowkes Formation.
+
+In the past, the Fowkes Formation had a greater distribution.
+Postdepositional faulting down dropped parts of the Fowkes protecting
+them from subsequent erosion.
+
+
+
+
+                               QUATERNARY
+
+
+Rubey et al. (1968a, b) have mapped several forms of Quaternary deposits
+in Fossil Basin. These include stream alluvium, rock and landslide
+debris, river terraces, and gravels, all derived from local formations.
+These deposits are the work of water, wind, and ice acting in relatively
+Recent time.
+
+
+
+
+                 THE GEOLOGIC STRUCTURE OF FOSSIL BASIN
+
+
+The Fossil Basin is a small, linear and structurally controlled basin in
+the southeastern part of the Wyoming overthrust belt. This “overthrust
+belt” is represented by a number of small mountain ranges and high
+ridges formed by the “thrusting” of sedimentary rocks over other
+sedimentary rocks. Topographically, the Fossil Basin is bounded by the
+Crawford Mountains and Tunp Range on the west, by Oyster Ridge on the
+east, and by the Uinta Mountains on the south. The Crawford Mountains,
+Tunp Range, and Oyster Ridge (Fig. 2) are areas of high relief developed
+upon southerly extended salient ridges of deformed Paleozoic and
+Mesozoic strata. In the center of the Fossil Basin, these earlier rocks
+are covered by a veneer of early Tertiary sediments. Superficially, the
+Fossil Basin appears to be a broad syncline with tilted beds dipping
+sharply or gently basinward from the basin margins. The Tertiary
+sedimentary cover, however, partially obscures what is a more complex
+structural history.
+
+Following deposition of the Late Cretaceous Adaville Formation, the
+Fossil Basin was included in a period of intense structural deformation.
+This deformation was the result of compressional forces acting along a
+more or less east-west alignment. The strain, or the resolution of these
+forces, was developed along a north-south alignment or perpendicular to
+the compressional forces. As the stress level became too great, the
+rocks were first folded and then faulted. Initial faulting of the rocks
+relieved some of the stress; however, with continued application of
+compressive forces many stages of folding and faulting were generated.
+Because the alignment of the compressive forces remained about the same
+throughout deformation (i.e., east-west) and because the strongest
+relative compressive forces were from the west, successively younger
+folds and faults were generated in an eastward direction.
+
+The structural evolution of the Fossil Butte area may be interpreted as
+follows from the schematic diagrams:
+
+  1. The Rock Creek-Needles Anticline is developed at the western edge
+  of the Fossil Basin. The present topographic highs developed on this
+  structure are the Crawford Mountains and Tunp Range (Fig. 9-B).
+
+  2. With continued application of compressional forces, Paleozoic and
+  Mesozoic rocks to the east of the Rock Creek-Needles Anticline are
+  folded (Fig. 9-C).
+
+  3. The fold becomes sharply asymmetrical and when the rocks can no
+  longer accommodate the compressional forces by further folding, a
+  low-angle fault is developed (Absaroka thrust fault). This fault
+  probably began as a fracture parallel to bedding which rose to
+  topographic surface at a low angle at the point of greatest strain in
+  the fold. Most likely, this fracture was an eastward extension of the
+  fault underlying the Rock Creek-Needles Anticline, as depicted in Fig.
+  9-D.
+
+  4. The rocks to the west of the newly developed fault overrode those
+  to the east. This was accompanied by further downwarping in the
+  syncline to the east of the fault and the erosion of uplifted
+  sedimentary rocks on the west side of the fault (Fig. 9-E).
+
+  5. Another cycle of folding and faulting was initiated to the east of
+  the Absaroka fault. This post-Absaroka deformation instigated further
+  downwarping of the Fossil Basin area between the Tunp-Crawford
+  Mountains and Oyster Ridge. Tertiary sediments began to accumulate in
+  the Fossil Basin (Fig. 9-F).
+
+    [Illustration: Fig. 9. Structural development of the Fossil Butte
+    area.]
+
+
+  LEGEND
+    T—Tertiary
+    K₂, K₁—Cretaceous
+    J—Jurassic
+    TR—Triassic
+    Pz—Paleozoic
+    X—Position of Fossil Butte
+    ←, →—Relative movement along faults
+
+
+    [Illustration: A. Pre-deformation: Paleozoic & Mesozoic Formations]
+
+    [Illustration: B. Pre-Absaroka Deformation]
+
+    [Illustration: C. Development of the Absaroka thrust fault: folding]
+
+    [Illustration: D. Development of the Absaroka thrust fault:
+    faulting]
+
+    [Illustration: E. Development of the Absaroka thrust fault:
+    faulting]
+
+    [Illustration: F. Post-Absaroka Thrust Deformation]
+
+    [Illustration: G. Simplified structure section through present-day
+    Fossil Basin
+    (Oyster Ridge is off the diagram to the East)
+    Structural interpretation by Dr. D.L. Blackstone]
+
+In early Eocene times, the effects of continued downwarping allowed
+Fossil Lake to form in the Fossil Basin. By the late Eocene, however,
+basinal subsidence could no longer keep pace with deposition and the
+dominantly lacustrine (lake) sedimentation was replaced by a fluviatile
+(riverine) sedimentary regime. Deposition of fluviatile sediments
+probably continued into the later Tertiary when, in the late Pliocene,
+regional uplift of the Rocky Mountain interior reversed the sedimentary
+cycle from depositional to erosional. The last 3 or 4 million years of
+geologic history have witnessed the excavation of much of the Tertiary
+sedimentary fill from the Fossil Basin. Fossil Butte and the Ham’s Fork
+Plateau to the northeast of the butte are high erosional remnants of
+this early Tertiary basin fill. The traces of the Absaroka and other
+thrust faults are buried beneath these remaining Tertiary deposits in
+the Fossil Basin.
+
+
+While most of this complex structural history took place before the
+Tertiary sediments were deposited, some deformation continued into the
+early Eocene. Near Prow Point, for example, is a fault that developed
+during early Eocene time. This can be noted in the very northwest corner
+of the monument, just to the west of Prow Point (Fig. 6). Here, the
+Lower Member of the Wasatch Formation on the west is faulted against the
+Main Body on the east (USDI 1964). This fault also is responsible for
+elevating the Thaynes Limestone so it is exposed (Fig. 10).
+
+    [Illustration: Fig. 10. Structural relation of older rocks to
+    Wasatch and Green River formations near Prow Point in the northwest
+    corner of the monument (from U.S. Department of Interior 1964).]
+
+
+
+
+                              PALEONTOLOGY
+
+
+Fossils of plants, invertebrates, and vertebrates are abundant in rocks
+exposed in the Fossil Basin. For example, Oyster Ridge received its name
+because of the well-preserved and abundant fossil oysters found there.
+Of course, Fossil Butte and Fossil Butte National Monument were so named
+because of the beautifully preserved fossil fish. A brief review of the
+main groups of fossils to be found in the basin follows.
+
+
+                                 Flora
+
+Many of the sediments in the Fossil Basin contain an abundance of fossil
+plants. These consist of pollen, spores, wood, and leaf impressions.
+Those of the Green River Formation are best preserved and have received
+the most study.
+
+Brown (1929, 1934) and Lesquereux (1883) have presented the best
+information on the flora of the Green River Formation. Much of the
+present knowledge is based on their work.
+
+Brown (1929, 1934) concluded that the Green River flora is a mixed
+forest type. It contains some plants common to warm, wet lowlands and
+others adapted to cooler, drier uplands. Pollen studies support Brown’s
+original concept that several plant communities, including mountain
+communities, existed around Fossil Lake.
+
+The flora was situated in an inland, mountain basin. Fossil Lake was in
+the middle of the basin. Swamps and flood plains bordered the lake,
+while the flanking ridges and mountains provided altitudinal variations
+in the plant assemblage.
+
+Spruce, fir, and pine are indicated by fossil pollen. The presence of
+these conifers suggest that at least some of the nearby mountains rose
+to heights of 6000-8000 ft.
+
+Leaf imprints indicate that deciduous trees occurred on the lower
+slopes. Oak, elm, maple, and beech were common forms.
+
+Closer to the lake where it was wetter and warmer there were willows,
+laurel, and fig trees. Palms grew in the sandier soils (Fig. 11).
+Cypress grew in quiet embayments of Fossil Lake. The shoreline plant
+assemblage had a rather subtropical appearance.
+
+    [Illustration: Fig. 11. Impression of a palm frond from the fish
+    beds of Fossil Basin. Width of original, 160 mm. _Collection of
+    University of Wyoming._]
+
+Ground cover was provided by a mold of dead leaves, holly, liverworts,
+mosses, and ferns (Fig. 12). Prairie-type grasses are not present and
+large savanna areas probably were not developed.
+
+    [Illustration: Fig. 12. A fern leaf from the Green River Shales of
+    the Green River Basin. Width of original, 4 cm. _Collection of
+    University of Wyoming._]
+
+In the lake itself small, one-celled algae floated about in the waves
+and currents. Bacteria grew on the lake bottom and in the water and
+helped to contribute to the organic ooze that built up on the bottom.
+Fungi, wonderfully preserved in oil shales, are further indicators that
+Fossil Lake was a fresh-water lake and deep enough to have depths below
+the zone of sunlight penetration (Bradley 1964a). Reeds, rushes, and
+similar lake-shore plants grew in shallow, near-shore waters.
+
+The large amount of organic material in the rocks is evidence of the
+prolific microscopic plant growth in the lake.
+
+Occasional dry periods in the Fossil Basin are indicated by fossils of a
+plant called _Ephedra_. This plant had leaves with a thick, waxy cuticle
+to prevent desiccation during drought. The absence of saline minerals in
+the Green River Formation in Fossil Basin suggests that these arid
+periods were never of the intensity that occurred in the Green River
+Basin to the east.
+
+The flora of Fossil Basin, especially that from the Green River
+Formation, is usually compared to that of the present-day Gulf Coast.
+Seaward from the Appalachians, the composition of the flora is very
+similar to that of the Green River. Spruce, pine, and fir grow in the
+Appalachians at elevations of 6000 or more feet, supporting the idea
+that similar elevations existed near Fossil Lake and that a general Gulf
+Coast climate prevailed in Fossil Basin.
+
+
+                             Invertebrates
+
+Molluscs, ostracodes, and insects comprise the invertebrate fauna of
+Fossil Basin.
+
+A large number of marine forms are found in the earlier marine deposits,
+while fresh-water and terrestrial forms are common in the Tertiary
+units. It is these later forms which are considered here.
+
+The fresh-water and terrestrial molluscs from the Wasatch and Green
+River formations include bivalves (clams) and gastropods (snails).
+
+Aquatic clams from the Green River Formation include _Unio_ and
+_Plesiellipta_. _Pisidium_ and _Sphaerium_ are common in the Wasatch
+Formation.
+
+Land snails from the Wasatch include such genera as _Grangerella_,
+_Discus_, _Oreoconus_, and _Glypterpres_. _Oreoconus_ is also known from
+the Green River Formation.
+
+Fresh-water snails are very abundant from both the Wasatch and Green
+River formations. _Physa_, _Planorbis_, _Elimia_, _Bioniphalaria_,
+_Virpains_, and _Omalodiscus_ are from the Wasatch. _Physa_, _Elimia_,
+_Diomphalaria_, and _Goniobasis_ are recorded from the lacustrine Green
+River sediments. In some areas of the Green River Formation, these snail
+fossils are so abundant that they form a major constituent of the
+limestones. The presence of land snails in the Green River and
+fresh-water molluscs in the Wasatch is evidence that the two formations
+are not totally representative of a single environment, but represent
+several related ones.
+
+Most of these fresh-water snails were herbivorous and frequented the
+shallow, well-lighted areas of Fossil Lake which had a good growth of
+plants and algae. This naturally occurred close to shore, hence the
+gastropodal limestones reported by Bradley (1926) and Oriel and Tracey
+(1970) are interpreted as being near-shore facies.
+
+Ostracodes are extremely small arthropods that produce a two-piece,
+hinged shell within which they live. _Pseudocypus_ is the most common
+form. Like the snails, the ostracodes were so abundant in areas that
+they, too, formed a large part of some Green River Formation limestones.
+And like the snails they lived in a near-shore environment.
+
+Within the laminated shales of the Green River Formation is preserved an
+abundant and diverse assemblage of fossil insects (Fig. 13).
+
+These insects are important because they demonstrate that many modern
+families and even genera were in existence during the Eocene. In
+contrast to this, knowledge of insect evolution prior to the Eocene is
+rather poorly known. Scudder (1890) and Cockerell (1920) have described
+most of the Green River insects.
+
+Beetles are the most common forms, followed by dragonflies. Maggots and
+larvae of flies are commonly preserved.
+
+Except for these insects preserved as whole "mummies" in the oil shales,
+the majority of the insect fossils are preserved as distilled outlines.
+This distillation process resulted from the weight and heat of overlying
+sediments of driving off the volatile substances from the buried
+insects, leaving a hydrocarbon outline. The process is so precise that
+the fine hairs and wing veins and even body-color markings are
+preserved.
+
+    [Illustration: Fig. 13. An impression of a horse fly from the Fossil
+    Lake deposits. Length of original, 12 mm. _Collection of University
+    of Wyoming._]
+
+
+                              Vertebrates
+
+
+                                 FISH.
+
+The single factor that has made Fossil Butte world famous is the
+occurrence of literally millions of beautifully preserved fossil fish.
+In one layer approximately 14 inches thick, the fish are nearly black
+and preserved in a nearly white shale. Most of the fish are perfectly
+preserved, retaining every detail of the skeleton and even undisturbed
+scales. Fish from Fossil Butte have been collected and sold since the
+1870s and may be found on sales counters, in museums, and on living room
+walls throughout the world.
+
+The fossil fish from the Green River Formation have a history of
+discovery stretching back to 1856. At that time Leidy (1856:256)
+described a fish given to him by a Dr. John Evans. Leidy called the fish
+_Clupea humilis_, a type of herring. Exactly where Dr. Evans obtained
+the specimen is not known. He passed through the area of the Green River
+Formation several times and could have collected it during any one of
+those trips (Knight 1955:12).
+
+During the construction of the Union Pacific Railroad in the 1860s,
+workmen blasting a cut through Green River shales, about 2 miles west of
+Green River, Wyoming, came upon remains of well-preserved fish. Hayden
+(1871:742) first mentions this cut as "Petrified Fish Cut." Many of the
+fish from this cut were given to Cope who described them in Hayden’s
+(1871) report. Insects, plants, and a bird feather were also obtained
+from "Petrified Fish Cut" at this time.
+
+Sometime in the 1870s the first fish were obtained from Fossil Butte
+itself. Cope (1877, 1878) described fish from the Green River Formation
+which may be from Fossil Butte. His locality is "nearer the mainline of
+Wasatch Mountains" (Cope 1877:807). This may be Fossil Butte. His 1878
+locality information is just as poor. He does mention a specimen of
+_Priscacara peali_ given to him by A. C. Peale. Since it was Peale who
+first wrote about Fossil Butte, the specimen may have come from the
+butte.
+
+Peale (1879) first mentioned the quarrying of fish at Fossil Butte, but
+he had no specific date as to the discovery of the butte or the
+beginning of quarrying of fish.
+
+Cope (1884) published two large volumes about the Tertiary vertebrates
+of the West. Here he mentioned three fossil localities for his Green
+River Fish: "Petrified Fish Cut," "The Mouth of Labarge Creek," and
+"Twin Creek." Twin Creek is now known as the Fossil Butte site.
+
+Since that time, the quarries at Fossil Butte have been extensively
+worked, mostly by commercial collectors.
+
+The fish from Fossil Butte form an unusual array of genera (Table 1)
+unlike any now found living together. Included in the assemblage are
+forms usually found in marine waters and tropical, fresh-water fish
+(Schaeffer and Mangus 1965).
+
+    TABLE 1. _Simplified classification of fish from Fossil Basin._
+
+
+  Elasmobranchii
+    Trygonidae
+      _Xiphotrygon_ (sting ray)
+  Chondrostei
+    Polyodontidae
+      _Polyodon_ (paddle fish)
+  Holostei
+    Lepisosteidae
+      _Lepisosteus_ (gar)
+    Amiidae
+      _Amia_ (bowfin)
+  Isospondyli
+    Osteoglossidae
+      _Phareodus_
+    Gonorhynchidae
+      _Notogoneus_ (sand fish)
+    Clupeidae
+      _Diplomystus_ (herrings, shad)
+      _Knightia_
+  Ostariophysi
+    Siluridae
+      _Ameiurus_ (catfish)
+  Xenarchi
+    Aphredoderidae (pirate perches)
+      _Erismatopterus_
+    Asineopidae
+      _Asineops_
+  Acanthoptergii
+    Percidae
+      _Mioplosus_ (perches)
+    Serronidae
+      _Priscacara_
+
+
+More than 40 species of fish have been described from the Green River
+shales, but authorities do not agree on how many of these are valid.
+Because of this, only super specific groups will be considered in the
+following discussion.
+
+    [Illustration: Fig. 14. _Xiphotrygon_, a fossil ray. These forms are
+    present but rather rare in the fish deposits of Fossil Butte. Length
+    of original, 39 cm. _Collection of University of Wyoming._]
+
+One of the strangest forms to come from Fossil Butte is that of
+_Xiphotrygon_ (Fig. 14). This is not a true fish, but is a sting ray,
+related to sharks. Closely related forms still survive, with little
+change, in coastal waters in many parts of the world. Like sharks, sting
+rays have a skeleton composed of cartilage. Normally, cartilage is not
+preserved as a fossil as it disintegrates readily. The excellent
+skeletons of _Xiphotrygon_ are good evidence of how well the shales of
+the Green River Formation preserve the fossils. _Xiphotrygon_ is
+characterized by being shortened from back to front and flattened from
+top to bottom. It possesses a long, whip-like tail and bears enormous,
+flat pectoral (anterior) fins. The mouth is on the underside of the body
+indicating that _Xiphotrygon_, like its modern relatives, fed along the
+bottom of the lake. The strong flattened teeth form something like a
+pavement in the mouth, suggesting that it fed on clams and other
+hard-shelled invertebrates. Close relatives of _Xiphotrygon_ live mostly
+in marine waters, but occasionally enter fresh water.
+
+The paddlefish, _Polyodon_, is rare but present at Fossil Butte. Similar
+forms still survive in China and the United States. The prominent
+features of _Polyodon_ include a virtually scaleless body, a long,
+depressed snout, and long gill rakers. The skeleton, unlike that of most
+modern fish, is composed of cartilage, hence skeletons of _Polyodon_ are
+rare. The difference between the modern and Eocene paddlefish are so
+slight that the two probably filled similar or the same ecologic niches.
+This consists of feeding on plankton and other small organisms which can
+be obtained from the water. The long gill rakers would provide a large
+surface area on which food could be trapped as the water passed out
+through the gill slits. The large mouth would also provide a large
+surface area for catching and trapping food.
+
+Quite common to streams and rivers of North America from the Cretaceous
+to the Recent is the garfish, _Lepisosteus_ (Fig. 15). The most striking
+feature of the gar is its diamond-shaped scales, which are extremely
+hard and shiny. The body is long, essentially of the same depth
+throughout, and ending in a broad-based tail that is slightly
+asymmetrical. The mouth is armed with many small, sharp teeth for
+catching prey. One specimen over 5 ft long has been found in the Fossil
+Butte area.
+
+    [Illustration: Fig. 15. The fossil gar _Lepisosteus_. Only a few gar
+    have been found at Fossil Butte itself. Length of original, 70 cm.
+    Across the highway from the butte, one specimen over 5 ft long was
+    found by Carl Ulrich. _Collection of University of Wyoming._]
+
+Fossils of the bowfin _Amia_ (Fig. 16) are recorded from the Green River
+shales at Fossil Butte and in stream deposits from Cretaceous to Recent.
+This fish is still another “living fossil.” _Amia_ is a nocturnal
+predator. Presumably, the Eocene _Amia_ had similar habits. The body in
+_Amia_ has become elongate, as has the dorsal fin. The thickness of the
+scales has been reduced, but they are still rather heavy and cover the
+body. Specimens are rather large and deep-bodied. The tail fin is nearly
+symmetrical above and below. _Amia_ is rare in the Fossil Butte fish
+quarries.
+
+By far the most abundant fish from Fossil Butte is the genus _Knightia_
+(Fig. 17, 18). This fish is a member of the Clupeidae, a family that
+includes modern herrings, shad, and sardines. The tail fin is small
+relative to the rest of the body. A row of modified scales extends on
+the back from the skull to the dorsal fin. Possibly they aided in
+streamlining the fish. _Knightia_ apparently fed on the large amounts of
+plankton, especially algae, which lived in the waters of Fossil Lake.
+Fossils of _Knightia_ are also known from Eocene lake sediments in South
+America.
+
+_Knightia_ appears to have been susceptible to mass mortalities. Some
+layers of shale at Fossil Butte contain literally hundreds of thousands
+of these fish that must have suffered catastrophic mass mortality.
+Possible reasons for the obvious sudden death of so many fish will be
+discussed in the section on paleoenvironment and taphonomy.
+
+Another Eocene relative of the herring found at Fossil Butte is
+_Diplomystus_ (Fig. 19, 20). Like _Knightia_, _Diplomystus_ bears a row
+of modified scales on its back. _Diplomystus_ is the second most
+abundant fish at Fossil Butte. The jaw in _Diplomystus_ has a rather
+pronounced oblique angle to it. The deepest portion of the body is
+directly behind the gill region, with a continuous narrowing of the body
+toward the tail region. _Diplomystus_ is known from Cretaceous rocks of
+Brazil and Syria and from Tertiary sediments in Brazil and West Africa
+(Schaeffer and Mangus 1965). Close relatives of _Diplomystus_ now
+inhabit the waters off the coasts of Peru and eastern Australia.
+
+    [Illustration: Fig. 16. _Amia_, the bowfin. This too is rare but
+    present at Fossil Butte. Length of original, 67 cm. _Collection of
+    American Museum of Natural History._]
+
+    [Illustration: Fig. 17. The fossil herring, _Knightia_. This fish is
+    by far the most abundant in the fish beds at Fossil Butte and at
+    least in one layer was involved in a catastrophic mass mortality.
+    Length of each fish, 13 cm. _Collection of University of Wyoming._]
+
+    [Illustration: Fig. 18. The herring, _Knightia_.]
+
+    [Illustration: Fig. 19. _Diplomystus_, another type of herring, is
+    the second most abundant fish at Fossil Butte. Length of original,
+    12 cm. _Collection of University of Wyoming._]
+
+    [Illustration: Fig. 20. A large _Diplomystus_ with four small bass,
+    _Priscacara_. Length of _Diplomystus_, 45 cm. _Collection of
+    University of Wyoming._]
+
+_Phareodus_ (Fig. 21) belongs to a family of fish, the Osteoglossidae,
+which began as marine forms and has since become a fresh-water family.
+At present, they are restricted to tropical rivers and lakes of South
+America, Africa, and Australia. In the past they had a much greater
+distribution, as its occurrence at Fossil Butte indicates, including
+North America. It is a deep-bodied fish with a large head. The anal and
+dorsal fins are close to the tail fins. The many sharp teeth in the
+mouth attest to the carnivorous habits of _Phareodus_.
+
+The family Gonorhynchidae, the living sandfish of the Indo-Pacific area,
+is represented at Fossil Butte by _Notogoneus_ (Fig. 22). _Notogoneus_
+is very long-bodied and quite slender. The body width does not vary much
+from head to tail, although narrowing does occur in the tail region. The
+tail fin is symmetrical, forming a good rudder. The anal, dorsal,
+pectoral, and pelvic fins are all small. The body is covered with small,
+elongate scales. _Notogoneus_ was apparently a bottom feeder, living on
+small organisms picked off or out of the bottom of Fossil Lake.
+
+The Recent catfish, _Ameuirus_, has also been found at Fossil Butte in
+the Green River shales. The form of the Eocene catfish was very much
+like the Recent one. The habits of the Eocene catfish were probably like
+those of the modern _Ameuirus_, i.e., adaptations to a scavenger-type
+existence.
+
+Rather common in the sediments of Lake Gosiute, but not yet known from
+the Fossil Basin, is _Erismatopterus_, a member of the family
+Aphredederidae or pirate perches. This small, elongate fish has few
+distinguishing characters, the rounded front edge of the skull being
+most distinguishable.
+
+_Asineops_ is an Eocene relative of _Erismatopterus_ and also one of the
+pirate perches. _Asineops_ is, however, placed in a different family,
+the Asineopidae. _Asineops_, like _Erismatopterus_, is a rather
+plain-looking fish. The dorsal fin is long relative to the rest of the
+body. The body is slightly deeper behind the gills than elsewhere,
+giving _Asineops_ a rather common appearance.
+
+The Percidae, or perches, are represented at Fossil Butte by _Mioplosus_
+(Fig. 23). _Mioplosus_, as indicated by its well-developed teeth, was a
+carnivore that probably preyed on its piscine relatives in Fossil Lake.
+The large head blends in well with a strongly built, long body. The anal
+and dorsal fins are subequal in size and positioned opposite each other.
+The tail fin is large and fan-shaped. It is easily identified by the
+presence of two dorsal fins.
+
+    [Illustration: Fig. 21. A large _Phareodus_, fairly common in the
+    Fossil Butte fish beds. Length of original, 54 cm. _Collection of
+    University of Wyoming._]
+
+    [Illustration: Fig. 22. _Notogoneus_, a long, slender bottom-feeder,
+    occasionally found at Fossil Butte. Length of original, 56 cm.
+    _Collection of University of Wyoming._]
+
+    [Illustration: Fig. 23. _Mioplosus_, a fairly common perch from
+    Fossil Butte. Length of original, 30 cm. _Collection of American
+    Museum of Natural History._]
+
+    [Illustration: Fig. 24. _Priscacara_, a small bass that is common in
+    the Fossil Butte fish beds. Length of original, 13 cm. _Collection
+    of University of Wyoming._]
+
+The one genus for which no close living relatives can be found is
+_Priscacara_ (Fig. 24). The family Priscacaridae is thought to be
+related to the bass. The family is known only from the Eocene. The size
+of _Priscacara_ is extremely variable. The body is deep and nearly round
+like that of the common sunfish, the head blending in well with the body
+and its contours. The most distinguishing feature of _Priscacara_ is the
+series of strong, stout spines supporting the anal and dorsal fins.
+These spines may have acted as cut-waters for better swimming and/or
+they may have protected _Priscacara_ from its more voracious relatives.
+
+
+                              AMPHIBIANS.
+
+To date, no amphibian fossils are known from Fossil Butte. They must
+have been present, as this class of animals is recorded from Devonian
+rocks more than 350 million years old and from rocks younger than those
+at Fossil Butte. Living amphibians are typified by frogs, toads, and
+salamanders. The lack of amphibian remains at Fossil Butte is more
+likely due to nondiscovery than nonexistence.
+
+
+                               REPTILES.
+
+Reptile fossils are very abundant in the Green River and Wasatch
+formations. Also a jaw of the three-horned _Triceratops_ is known from
+the Cretaceous part of the Evanston Formation.
+
+Small lizards are normally represented only by jaw fragments and
+vertebrae. Their remains are most often found by a process of washing
+and screening of the sediments containing the fossils. Snakes are also
+represented in the Green River Formation. Remains of these animals are
+also often restricted to jaws and vertebrae. A complete skeleton of a
+fossil boa, _Boavus idelmani_, has been recovered from the Green River
+Formation and is the most complete fossil snake from North America
+(Schaeffer and Mangus 1965).
+
+Turtles are among the most abundant reptile fossils. They are usually
+found as isolated shell plates, although many complete shells are known.
+The turtles _Trionyx_ (Fig. 25), _Emys_, _Baena_, and _Notomorpha_ are
+known from the Fossil Basin.
+
+The largest Eocene reptiles were the crocodiles (Fig. 26). The presence
+of these predaceous animals is further evidence for a prevailing warm
+and humid climate during the Eocene times since their tolerance ranges
+include only comparable conditions at the present time. A few incomplete
+specimens have been recovered from near the monument.
+
+
+                                 BIRDS.
+
+Birds, which first appeared in Jurassic time, are rare as fossils in
+rocks of any age because their skeletal remains are exceedingly fragile.
+Their fossilization requires special conditions because many of their
+bones are hollow as a weight-reducing adaptation for flight. These
+hollow bones are especially susceptible to breakage and poor
+preservation. Scattered remains of birds, mostly limb bones, are found
+in the Green River sediments. Feather imprints have also been recovered.
+A complete skeleton of _Gallinuloides_, a bird related to the South
+American fowl-like chachalaca, is one of the most significant finds from
+the Green River Formation. Recently, Brodkorb (1970) described the wings
+of puff birds similar to those now living in South America from near
+Fossil Butte.
+
+    [Illustration: Fig. 25. An aquatic turtle, _Trionyx_, from the
+    shore-line deposits of Lake Gosiute. Several turtles have been found
+    in the fish beds near Fossil Butte.]
+
+    [Illustration: Fig. 26. The skull of a large crocodile from near the
+    shoreline of Lake Gosiute. Several crocodile fragments have been
+    found at Fossil Butte beds. Length of original, 75 cm. _Collection
+    of University of Wyoming._]
+
+In the adjacent Green River Basin to the east, paleontologists from the
+University of Wyoming have found nesting grounds of Eocene flamingos in
+slightly younger sediments of the Green River Formation. These
+“rookeries” have yielded many hundreds of fossil bones of this curious
+bird. Since these bird fossils were found proximal to Fossil Butte, they
+demonstrate the near subtropical nature of the environment in the Fossil
+Butte area in Green River times.
+
+
+                                MAMMALS.
+
+The rocks of the Evanston, Wasatch, and Fowkes formations contain
+various fossilized remains of mammals which once inhabited the Fossil
+Basin.
+
+Mammal fossils are highly significant since they are used extensively
+for correlation and dating of the Tertiary rocks of the West. Fossils
+which are readily recognizable, limited in time, and widely distributed
+geographically are called “index fossils.” These fossils are restricted
+to a particular time horizon in the rock. In this way, rocks of unknown
+age which are found to contain index fossils can be dated relatively and
+hence correlated with other fossil-bearing rocks. The small condylarth
+_Haplomylus_ (Fig. 27) is a very early Eocene index fossil. Its presence
+in certain sediments in the Fossil Basin shows conclusively that these
+sediments were laid down in earliest Eocene times.
+
+    [Illustration: Fig. 27. A jaw of the primitive mammal _Haplomylus_.
+    Length of original, 1.3 cm. _Collection of University of Wyoming._]
+
+The mammal fossils found in Fossil Basin are also important in
+documenting the temporal changes in evolution and environment of the
+biotic community. The picture of Eocene Wyoming drawn through
+interpretation of these fossils is vastly different than that of the
+present day.
+
+Mammals have a long evolutionary history that began over 200 million
+years ago in the Triassic period. At that time mammals had only just
+evolved from their reptilian ancestors. These earliest mammals were
+small, furtive creatures. However, with the extinction of the dinosaurs
+some 65 million years ago at the end of the Cretaceous, the mammals were
+able to diversify rapidly and fill the empty ecologic niches that the
+dinosaurs once occupied.
+
+This filling of ecologic niches voided by the dinosaurs coupled with the
+spreading of mammals into hitherto unoccupied niches resulted in the
+development of a large variety of mammals. Some became extinct, others
+were the ancestors of modern mammals. Fossils of mammals found in
+sediments in the Fossil Basin are proof of the extent of this Late
+Cretaceous-early Tertiary mammal radiation.
+
+Early mammals bore little resemblance to their later descendants.
+General trends in mammalian evolution were increase in size and the
+tendency to become more “modern”-looking through adaptation to changing
+Tertiary environments.
+
+Most mammal fossils are extremely fragmentary. Teeth are most often
+preserved as they are the hardest part of the skeleton and therefore
+most resistant to wear and breakage. Thus, it often happens that the
+knowledge of a particular fossil mammal is derived entirely from its
+preserved dentition. This has obvious limitations for the completeness
+of our understanding about mammals in question.
+
+The Paleocene portion of the Evanston Formation has yielded mammals of
+Torrejonian and Tiffanian age (Fig. 6).
+
+The Torrejonian assemblage (middle Paleocene) (Gazin 1969) is small and
+poorly preserved. Its main significance is that the fauna records a
+definite time interval for the Evanston Formation. Gazin’s work has
+demonstrated this fauna to be intermediate in composition between
+similarly aged faunas recovered from sites to the north and south.
+
+The major faunal elements are insectivores, primates, condylarths
+(primitive ungulates), and multituberculates (a type of extinct
+rodent-like mammal, with no known descendants).
+
+The poorly preserved condition of these fossils makes discussion
+impossible except to note that they extend the known time range of
+mammalian habitation in the Fossil Basin.
+
+The younger Tiffanian fauna (late Paleocene) (Gazin 1956) is also known
+from largely fragmentary remains. The multituberculate mammal
+_Ptilodus_, also present in Torrejonian deposits, is the most
+“primitive” mammal in the fauna. The multituberculates first appeared in
+the Jurassic (Fig. 4), and are therefore the oldest lineage of mammals
+that survived into Tertiary times. The molar teeth of these animals are
+characterized by multiple cusps arranged in parallel rows. _Ptilodus_,
+like most other multituberculates, was specialized in that its fourth
+lower premolars were expanded into shearing blades, the function of
+which is not known. _Ptilodus_ was in many respects similar to rodents
+in the development of procumbant incisors and in general build and
+appearance. Multituberculates are, however, not related to rodents
+except that both are mammals. The differentiation of rodents in the late
+Paleocene and their diversification during the Eocene probably presented
+strong competition for the multituberculates who were unable to compete
+successfully and so became extinct.
+
+The primates were represented by _Plesiadapsis_. This animal was about
+the size of a squirrel and had chisel-like incisors. Flesh
+reconstructions of _Plesiadapsis_, based on skeletal remains, show this
+primate to look much like a rodent with a long-snouted skull, clawed
+feet, long body, and tail. There is conceivable relationship between the
+rodents and _Plesiadapsis_-like primates.
+
+The dominant Tiffanian herbivorous mammals were members of the Order
+Condylarthra. These primitive ungulates were diverse in both size and
+appearance. It is probable that later modern ungulates (Artiodactyla,
+Perissodactyla) evolved from the Condylarthra; however, there are no
+surviving members of this group. The Paleocene condylarths were mostly
+small animals and include such forms as _Haplaletes_, _Litomylus_, and
+_Gidleyina_. These mammals had somewhat insectivore-like teeth, and may
+have bridged the gap between insectivores and archaic hoofed mammals.
+One of the larger Tiffanian condylarths was _Phenacodus_. This mammal
+had a long, massive skull and a long, probably flexible body. The limbs
+were stout and short. The body ended in a long tail. Small hooves were
+present on all digits, which numbered five per foot. The length of the
+largest _Phenacodus_ was about 6 ft.
+
+Carnivorous and omnivorous condylarthra were also common. _Thryptacodon_
+and _Claenodon_ are two types known from the Evanston Formation in the
+Fossil Basin.
+
+The true carnivores (Order Carnivora) were also present. The Paleocene
+carnivores were small and possibly arboreal in habit. The stem carnivore
+stock was represented by the family Miacidae. In the Fossil Basin the
+miacid _Didymictis_ was common. In _Didymictis_, the mouth was armed
+with small, sharp teeth. Most important, the typical carnivoran
+carnassial (shearing) teeth had developed. Among carnivores, from
+Paleocene to Recent, the shearing blades developed on the last upper
+premolar and the first lower molars. Various kinds of shearing teeth
+have evolved in other mammal lineages.
+
+Mammals from the Wasatch Formation in Fossil Basin represent the
+Greybullian and Lysitean provincial ages (see Fig. 6). These fossils are
+of earliest Eocene and mid to early Eocene age. Fossil localities in the
+Wasatch Formation of southwestern Wyoming are Knight Station (partly
+Lysitean), at Elk Mountain (Greybullian), and at Fossil Butte itself.
+The age of the Wasatch Formation at Fossil Butte is Lysitean.
+
+The insectivores are represented by _Diacodon_, a small mammal known
+only from fragmentary material.
+
+Primates also continued to expand and diversify in Wasatchian time.
+_Microsyops_ was a very unusual type that belongs to the extinct family
+Microsyopidae. The teeth were sharp and adapted for eating fruit and/or
+insects. _Microsyops_ was about the size of a rat or slightly larger.
+The microsyopid primates were limited to the Paleocene and Eocene and
+left no later known descendants.
+
+Another group of primates is represented by _Pelycodus_. This was a
+small lemur-like animal that may possibly have been an ancestor of
+higher primates (monkeys, apes, and men). _Pelycodus_, like
+_Microsyops_, was an arboreal (tree-dwelling) animal which inhabited the
+forests of the Fossil Basin during the early Eocene.
+
+The Order Taeniodonta is a strange and little known group of mammals. In
+the sediments at Fossil Butte the taeniodonts are represented by
+_Ectoganus_. This was a moderately large animal. The skeletal
+adaptations were similar to those of moles, but there was no actual
+relationship between the two groups. The front feet and legs were
+robust, and bore large claws. _Ectoganus_ probably used these structures
+to grub for food, possibly roots. The incisor teeth were rootless and
+persistently growing. The tooth enamel was restricted to two bands on
+either side of the teeth. The single pair of upper and lower incisors
+was greatly enlarged. The taeniodonts became extinct in the Eocene and
+left no descendants.
+
+Equally as strange a group of animals as the taeniodonts are mammals in
+the Order Tillodonta. These were herbivorous animals, some of which
+became quite large. They have many rodent-like characters, but were not
+related to rodents. In many respects, the morphology of rodents seems to
+have lent itself to convergence. _Esthonyx_ was the most common
+tillodont from the Fossil Basin. Prominent, rootless incisors were a
+characteristic of the later members of the group. These incisors were
+chisel-like, as in rodents. The molars were unusual and bore certain
+resemblances to primitive carnivoran and insectivoran teeth. The
+tillodonts, however, bore uncertain relationships to other mammals and
+left no descendants beyond the middle Eocene.
+
+In comparison with recent faunas, Paleocene rodents were rare faunal
+elements. Two early rodents were found in the Fossil Basin Wasatch
+Formation:
+
+_Paramys_ was relatively unspecialized but was diverse in the number of
+species. One species of _Paramys_ was about 2 ft long and possessed a
+long tail. The body was long and slender. The skull was small and rather
+squirrel-like. The cheek teeth were quadrate and had low, blunt cusps.
+The typical, single pair of chisel incisors was present both on lower
+and upper jaws. _Paramys_ was probably an arboreal form that did not
+look too unlike a modern squirrel and may have had a similar mode of
+life. Another rodent, _Reithroparamys_, was somewhat similar to
+_Paramys_ in size and appearance. The differences between the two
+animals were mainly in the teeth and hind limbs. The latter showed
+certain very minor structural modifications that suggested a saltatorial
+(jumping) mode of locomotion for _Reithroparamys_.
+
+Bats (Order Chiroptera) are extremely rare as fossils because their
+volant and cave-dwelling habitat as well as a fragile skeleton did not
+lend their remains to preservation. From the Green River Shales, from
+near Fossil Butte, a complete articulated skeleton of a bat has been
+found (Jepsen 1966). This animal, named _Caronycteris index_, was small
+and generalized in form. Superficially, it looked much like a typical
+brown bat. This fossil is important because it demonstrates that the
+bats had already become good fliers by early Eocene time.
+
+The condylarths were prominent in the early Eocene but diminished in
+importance following this time. _Phenacodus_ was still extant; however,
+it was replaced in importance by the smaller _Hyopsodus_.
+
+_Hyopsodus_ is perhaps the most commonly recovered Eocene fossil mammal.
+This animal was small and long-bodied and retained a more-or-less
+generalized structural pattern. In some respects _Hyopsodus_ was similar
+to both insectivores and primates and was at one time or another
+regarded as belonging to either of these two orders.
+
+Some of the later condylarths paralleled the more advanced ungulates.
+Indeed, the Perissodactyla (horses, tapirs, rhinos) and Artiodactyla
+(bovids, deer, pigs, sheep, etc.) were derived from early Tertiary
+condylarths. _Meniscotherium_ was one such advanced condylarth. The
+cusps on its molars, instead of being blunt points, had developed into
+crescentic patterns, somewhat like those in deer or camels. The
+relationship of _Meniscotherium_ to modern ungulates is only one of
+parallel dental development. _Meniscotherium_ was a medium-sized animal,
+but about the same build and size as that of a cocker spaniel.
+_Meniscotherium_, however, had hoofs on its toes and was a forest-living
+browser.
+
+The condylarth _Haplomylus_ is found at the Elk Mountain Wasatchian
+locality. This small animal is typical of the Greybullian level of
+faunal organization (earliest Eocene). A supposed carnivorous condylarth
+was _Pachyaena_. _Pachyaena_ was a fairly large animal for its time. The
+strong, robust jaws and teeth and heavy build suggest that _Pachyaena_
+was a predatory animal suited for preying on larger animals such as the
+amphibious pantodont _Coryphodon_. The affinities of _Pachyaena_ to the
+condylarths are uncertain and are based primarily on foot structure.
+
+The miacid carnivores were abundant and varied. _Didymictis_ persisted
+and both _Vassacyon_ and _Vulpavus_ continued the arboreal,
+forest-dwelling habits of their Paleocene precursors.
+
+The main carnivorous animals of the Eocene, however, were the creodonts
+(Order Creodonta) which were essentially early experimenters in
+carnivorous habits. As such they were diversely specialized.
+_Proviverra_ (=_Sinopa_) was one of the smaller, predaceous creodonts
+that inhabited Fossil Basin during Eocene times.
+
+One of the most characteristic fossil mammals from the early Eocene of
+Fossil Basin was _Coryphodon_. A specimen of _Coryphodon_ was also the
+first mammal fossil to be found in the Fossil Basin. The order of
+mammals to which _Coryphodon_ belongs, the Pantodonta, was a group of
+large and heavily built, herbivorous mammals. _Coryphodon_ was about the
+size of a small rhinoceros. The skull was large and heavily built. The
+brain, however, was small. The canine teeth were somewhat enlarged and
+strong. Stout limbs supported the bulky body. In habits, _Coryphodon_
+was possibly semi-aquatic.
+
+The modern ungulates, Order Perissodactyla (odd-toed ungulates) and
+Order Artiodactyla (even-toed ungulates), first appeared in the early
+Eocene. The earliest members of both orders were small and relatively
+unspecialized.
+
+The earliest perissodactyls were the horses and tapirs. The earliest
+horses were represented by _Hyracotherium_. This small, slender, and
+lightly built horse was about the size of a fox terrier. The front feet
+had four toes, and the hind feet three toes. The teeth suggest that this
+animal was probably a browser, living in the forests. In the Fossil
+Basin, tapirs were known from deposits of Lysitean (mid to early Eocene)
+age of which _Heptodon_ was representative. The tapirs now live in the
+tropics of Malaysia and Latin America. Their present habitat suggests a
+similar environment may have been favored by the Eocene tapirs of the
+Fossil Basin.
+
+The first Artiodactyls were pig-like forms, although they are only
+distantly related to true suids. _Protodichobune_ was small and may have
+looked much like some of the early Perissodactyls. There are, however, a
+complex of structural features which serve to distinguish these
+mammalian orders from each other.
+
+The mammal fauna from the Fowkes Formation places a late Bridgerian age
+on the Sillem and Bulldog Hollow members (Nelson 1973). Small mammals
+were most abundant in the Fowkes, especially primates and rodents. The
+marsupials were characterized by _Peratherium_ which was a small,
+probably arboreal, opossum-like animal. _Peratherium_ was but one stage
+in a slow and relatively conservative evolution of opossums that began
+in the Cretaceous.
+
+The condylarths decreased in importance during Fowkes time and were
+gradually replaced by more advanced ungulates, the artiodactyls and
+perissodactyls. Only the small _Hyopsodus_ survived into the Bridgerian
+of the Fossil Basin. The horses continued to differentiate as evidenced
+by the appearance of _Orohippus_, an animal similar to _Hyracotherium_,
+but with minor dental differences. The primitive tapirs were represented
+by _Hyrachyus_, a medium-sized herbivore which was nearly as closely
+related to the rhinoceroses as it was to the tapirs.
+
+The primates were also diverse in Fowkes time; however, this group began
+to decline in importance following Bridgerian times. As a group, the
+primates were restricted mainly to warm and forested environments. The
+lemur-like _Notharctus_ and the tarsier-like _Omomys_ and _Hemiacodon_
+were common in the Fowkes. _Hemiacodon_ was typical of the late
+Bridgerian (an index fossil).
+
+The true carnivores, represented by _Miacis_, remained small in size,
+perhaps to avoid competition with the larger surviving creodonts.
+
+Insectivores from the Fowkes Formation are abundant and varied.
+Unfortunately, they are known almost exclusively from teeth. Fowkes
+insectivores include the hedge-hog-like _Nyctitherium_, _Talpavus_, and
+_Scenopagus_. _Apatemys_ is an insectivore of uncertain affinities. The
+feeding habits of these early insectivores were probably similar to
+those of contemporary insectivore species (moles and shrews); however,
+there is some evidence to suggest many of these small creatures may have
+been semi-arboreal.
+
+One of the most unusual of middle Eocene creatures is the giant
+_Uintatherium_. This was a large browsing animal, about the size of a
+rhinoceros. What was most unusual about _Uintatherium_ was its skull
+which was large and strongly built. The large upper canines were
+apparently formidable defensive weapons. The skulls of the males bore
+six prominent bony protuberances which grew from the frontal region of
+the skull. The function of these structures is unknown. They may have
+been of use for defense.
+
+During Bridgerian times, the rodents underwent an explosive adaptive
+radiation which ultimately may have led to the near extinction of the
+less well-adapted multituberculates. The diversity of Bridgerian rodents
+from Fossil Basin is impressive. Species of _Leptotomus_, _Paramys_,
+_Thisbemys_, _Microparamys_, _Sciuravus_, _Mysops_, and _Pauromys_
+demonstrate that a wide range of adaptations of environments was
+exploited by the rodents. This diversity in life habits has been a mark
+of rodent evolution from the middle Eocene to the present day.
+
+The above descriptions of the known mammal fossils from the Fossil Butte
+area are intended to demonstrate the varied life forms that once existed
+in southwestern Wyoming. Further collecting will almost certainly expand
+the number of fossil mammal species from Fossil Basin and increase our
+knowledge of the succession of ancient environments which prevailed at
+different times in the Fossil Basin area.
+
+               TABLE 2. _Mammals known from Fossil Basin_
+
+
+  Faunal lists—Middle Paleocene: Torrejonian
+    Class Mammalia
+      Multituberculata
+    _Ptilodus_
+    _Neoplagiaulax_
+    _Ectypodus_
+      Insectivora
+    _Leptacodon_
+    _Aphronorus_
+      Primates
+    _Torrejonia_
+    _Pronothodectes_
+      Condylarthra
+    _Chriacus_
+    _Tricentes_
+    _Promioclaenus_
+    _Litaletes_
+    _Haplaletes_
+  Late Paleocene: Tiffanian
+      Multituberculata
+    _Ptilodus?_
+      Primates
+    _Plesiadapis_
+      Condylarthra
+    _Thryptacodon_
+    _Claenodon_
+    _Litomylus_
+    _Haplaletes_
+    _Gidleyina_
+    _Phenacodus_
+      Carnivora
+    _Didymictis_
+      Pantodonta
+    Genus indeterminant.
+  Early Eocene: Graybullian
+      Primates
+    _Pelycodus_
+      Tillodontia
+    _Esthonyx_
+      Rodentia
+    _Paramys_
+      Creodonta
+    _Proviverra_
+      Carnivora
+    _Didymictis_
+    _Vassacyon_
+      Condylarthra
+    _Pachyaena_
+    _Haplomylus_
+    _Hyopsodus_
+    _Phenacodus_
+    _Meniscotherium?_
+      Pantodonta
+    _Coryphodon_
+      Perissodactyla
+    _Hyracotherium_
+      Artiodactyla
+    _Diacodexis_
+  Early Eocene: Lysitean
+      Insectivora
+    _Diacodon_
+      Primates
+    _Pelycodus_
+    _Microsyops_
+      Tillodontia
+    _Esthonyx_
+      Rodentia
+    _Paramys_
+    _Reithroparamys_
+      Creodonta
+    _Proviverra_
+      Carnivora
+    _Didymictis_
+    _Vulpavus_
+      Condylarthra
+    _Pachyaena?_
+    _Hyopsodus_
+    _Phenacodus_
+    _Meniscotherium?_
+      Pantodonta
+    _Coryphodon_
+      Perissodactyla
+    _Hyracotherium_
+    _Heptodon_
+      Artiodactyla
+    _Protodichobune_
+  Early Eocene: Wasatchian (general)
+      Chiroptera
+    _Icaronycteris_
+  Late Middle Eocene: Late Bridgerian
+      Marsupialia
+    _Peratherium_
+      Insectivora
+    _Apatemys_
+    _Nyctitherium_
+    _Scenopagus_
+    _Talpavus_
+      Primates
+    _Hemiacodon_
+    _Omomys_
+    _Notharctus_
+      Condylarthra
+    _Hyopsodus_
+      Rodentia
+    _Leptotomus_
+    _Microparamys_
+    _Mysops_
+    _Paramys_
+    _Pauromys_
+    _Sciuravus_
+    _Thisbemys_
+      Dinocerata
+    _Uintatherium_
+      Perissodactyla
+    _Orohippus_
+    _Hyrachyus_
+
+
+
+
+                       PALEOECOLOGY AND TAPHONOMY
+
+
+Paleoecology is the study of ancient biotic communities and their
+relationship to the abiotic environment. The conclusions of paleoecology
+are reached by studying in detail the fossils and sediments and whatever
+relationships exist between them. Its ultimate aim is to build a picture
+of the climate, flora, fauna, and topographic setting of an area. For
+this reason it borrows heavily from paleontology, paleobotany,
+sedimentology, and climatology.
+
+From studying modern environments, it is observed that each has its own
+type of sediment. When certain sediments are found in the rock record,
+it is generally assumed that they represent environments similar to
+modern ones that produce similar deposits. For example, limestone is
+forming today in warm, shallow, well-lighted, well-aerated water. When
+limestone is found in a rock sequence, it is usually assumed that the
+same or similar environmental conditions occurred in that area in the
+past. Fossils can further refine the interpretation.
+
+As can be interpreted from foregoing discussions, the sediments
+deposited in the Fossil Basin vary from stream and flood-plain fluvial
+to lacustrine. At times, material eroded from surrounding uplands was
+carried by streams throughout the basin. These rocks are exemplified by
+the Evanston and parts of the Wasatch and Fowkes formations. When the
+lake appeared, lacustrine sediments, marlstone, and shale were deposited
+in the lake, while around the periphery of the basin, fluvial sediments
+continued to accumulate.
+
+Plants found in the lake sediments of Fossil Basin tell us much about
+the climatic conditions that prevailed during the Eocene. The flora is
+quite similar to that now existing in the southeastern United States,
+reflecting a warm and humid climate. One of the striking examples is
+that of huge palm fronds that occasionally are found in the fish
+quarries at Fossil Butte. These seem to be fronds that blew from the
+trees into the lake. Soon they became water-logged and settled to the
+bottom to be preserved.
+
+The land animals indicate that a rather wide range of ecologic niches
+existed over the basin before the lake came into being, around the lake
+during its presence, and again all over the basin after the lake
+disappeared. Many of the smaller mammals, some of the rodents, and most
+of the primates were almost certainly arboreal. The large mammals such
+as uintatheres, pantodonts, and tapiroids may have been stream-side or
+marsh dwellers. Probably inhabiting the forest floor and feeding on low
+bushes and undergrowth were such forms as the condylarths, horses,
+artiodactyls, and some of the rodents. Feeding on the rodents and other
+smaller mammals were the creodonts and miacids. Tiny shrew-like forms
+scampered about the undergrowth and fed upon worms and insects.
+
+Bradley (1963) has estimated possible temperature and precipitation
+levels in southwestern Wyoming during the Eocene. Bradley’s modern
+analogues were the Gulf Coast and Great Lakes regions. From a series of
+calculations, an average annual temperature of 65°F is postulated. This
+could have fluctuated greatly in the inland setting of Fossil Basin.
+Precipitation amounts were possibly on the order of 30-43 inches
+annually. The amount of annual evaporation was also possibly in the
+range of 30-43 inches.
+
+It is believed that Fossil Lake was thermally stratified—that is, with
+colder, denser water at depth (hypolimnion) and warmer, less dense water
+(epilimnion) nearer the surface. The deeper waters probably would have
+been devoid of oxygen, hence essentially uninhabited other than by
+anaerobic bacteria that survive without oxygen. If the bottom had been
+oxygenated, many types of life would have burrowed into the sediment
+thus destroying the delicate varves (Fig. 28). The lake was probably
+deep enough that wind and wave action did not roil the bottom sediments.
+
+    [Illustration: Fig. 28. A section of shales from the fish beds
+    showing thin laminae that are interpreted as varves. Enlarged six
+    times.]
+
+There have been many attempts to interpret the taphonomy (see glossary)
+of concentrations of fish at Fossil Butte. Bradley (1948) interpreted
+the cause of death and the reason for their preservation as follows:
+
+  In this basin (Fossil, Wyo.) hundreds of thousands of beautifully
+  preserved fish are entombed in the varved sediments. Even the delicate
+  fin and tail rays and other bones originally held in place only by
+  tissue are virtually undisturbed, and even the scales are in place
+  almost completely undisturbed. It seems to me that the picture of this
+  lake as a thermally stratified water body provides nearly all the
+  necessary information to account for the excellent preservation of
+  these fish. Only in the stagnant hypolimnion could they have escaped
+  being torn to pieces by scavengers or distorted by bottom feeders. It
+  is significant that all the well preserved fish are in varved
+  sediments. Those in non-varved sediments are a disordered mass of
+  broken and chewed up bones.
+
+  The only part of the story lacking now is how the fish died and got
+  into the hypolimnion. Limnology offers two possible explanations.
+  Sometimes when the surface of a lake gets excessively warm, fish will
+  plunge into deep water and might thus penetrate the hypolimnion, be
+  overcome by hydrogen sulphide, and also have the gas in their swim
+  bladders chilled so that they sank at once to the bottom. Once there,
+  only anaerobic bacteria would attack them. The other hypothesis is
+  that the thermally stratified lake was suddenly chilled so that it
+  overturned more rapidly than the hydrogen sulphide could be oxydized
+  and so killed off large numbers of fish. This seems a little more
+  probable as the fossil fish are of all ages and sizes.
+
+The fish in these quarries have been collected since the 1870s but
+mainly by commercial collectors. Most museum collections were purchased
+from these commercial collectors, hence they consist almost entirely of
+perfectly preserved fish, as poorly preserved specimens would be
+discarded by the collectors as of no monetary value. The result has been
+that most people, including Bradley, were misled into believing all of
+the fish in the varved sediments of the quarry were perfectly preserved.
+As nearly as can be determined, the first attempt to systematically
+collect and study this concentration of fish was that by paleontologists
+from the University of Wyoming (McGrew 1974). This work threw much new
+light on the occurrence and made available much new data that permit new
+interpretations.
+
+Shales of the Green River Formation in general have been described by
+Bradley (1931) and he specifically mentioned those of the fish layer in
+the Fossil Basin as follows: “Plate 1 shows a thin section of the varved
+marlstone in the small, unnamed Green River Lake west of Gosiute Lake,
+where the varves are better developed. Each varve or annual deposit,
+consists of a layer of microgranular carbonates and a thinner, dark
+layer of organic matter” (Bradley 1948:645). The X-ray diffraction
+analyses performed by John Ward Smith of the Laramie Energy Research
+Center showed that the shales of the “fish layer” consist predominantly
+of calcite (roughly 60%), aragonite and dolomite (approximately 20%),
+and quartz (up to 10%).
+
+Although fish are numerous throughout the thickness of this “fish
+layer,” there are three laminae that contain so many fish that it is
+almost certain that they represent catastrophic mass mortalities. Two
+are made up primarily of _Priscacara_ and one consists almost
+exclusively of _Knightia_.
+
+X-ray photos show that a rather high percentage of the fish in the
+shales are not perfectly preserved but have undergone varying amounts of
+disarticulation. There appears to be an orderly sequence of stages of
+decomposition—from essentially perfect articulation to total
+disarticulation. Disarticulation first appears in the most anterior
+vertebrae. From there it rapidly proceeds anteriorly into the head
+region and appears to do so posteriorly at a slower rate. In many
+specimens the head and anterior half of the body are completely
+disarticulated, while the posterior part of the body shows no
+disarticulation whatever.
+
+It is assumed that after the dead fish settled to the bottom of the
+lake, external anaerobic bacteria found access to the “innards” of the
+fish via the opercular opening. This would account for the first sign of
+decomposition and disarticulation being just back of the head.
+
+In the blocks of shale covered by X-ray there were 385 fish. For
+convenience, these were classified into six groups, group I showing no
+discernable disarticulation and group VI (Fig. 29) showing total
+disarticulation. The number and percentage of fish in each group are as
+follows:
+
+  Group I          223 fish        58%
+  Group II          38 fish        10%
+  Group III         14 fish         4%
+  Group IV          27 fish         7%
+  Group V           24 fish         6%
+  Group VI          59 fish        15%
+
+    [Illustration: Fig. 29. A partially disarticulated skeleton of a
+    large _Priscacara_, Group IV.]
+
+Because of the predominance of completely articulated fish throughout
+the quarry and the fact that the fish involved in the mass mortalities
+show no disarticulation, it seems probable that some connection might
+exist between the death of the fish and conditions of the lake bottom
+that would cause their perfect preservation. It would seem that rapid
+burial might be the most obvious reason for excellent preservation. Thus
+any factor or combination of factors that would cause rapid
+precipitation of carbonates and also would cause mortality of fish would
+satisfy our requirements. One obvious factor that could, at least
+theoretically, fulfill these requirements would be an annual bloom of
+blue-green algae that are known to be toxic to fish (Prescott 1948).
+Such blooms usually occur during the warmest part of the summer when
+CaCO₃ is least soluble. By extracting CO₂ from the water, these algae
+are known to cause precipitation of CaCO₃. Thus we have a possible cause
+for some annual fish kill and perhaps an occasional superbloom that
+would bring about a catastrophic mass mortality. The highest mortality
+of fish then might have occurred during late summer algal blooms and at
+this time also would occur the most rapid precipitation of CaCO₃.
+
+It is not known how much deposition of CaCO₃ would be required to
+protect a fish from disarticulation. It may be that a very thin layer,
+especially if mixed with organic ooze, might provide an effective seal
+to slow decomposition and prevent disarticulation. If sufficient CaCO₃
+was precipitated and deposited to cover the fish that died during this
+period, one might expect perfect preservation. Such fish would fit into
+group I. Those fish that died just after this period might lie exposed
+on the lake bottom for most of a year and be subject to disarticulation.
+If little or no deposition took place during the rest of the year, fish
+that died just after the period of deposition should be the most
+completely disarticulated and fit into group VI. During the fall,
+winter, and spring, fish that died of attritional mortality would be
+disarticulated according to the length of time they lay on the bottom
+prior to the next period of deposition.
+
+If the foregoing is true, one should be able to determine the
+approximate time of year fish died by the degree of disarticulation. One
+might assume that blooms of blue-green algae and hence precipitation of
+CaCO₃ would take place sometime during August and/or September. Thus we
+should expect the most fish and those most perfectly preserved to have
+died during this time period (group I). Those fish that died in October
+and/or November should be the most completely disarticulated (group VI),
+and those that died in June or July should show only a slight degree of
+disarticulation (group II). The distribution of the stages of
+disarticulation seems to fit almost exactly the pattern that one would
+expect if this interpretation is correct.
+
+Gunter (1947) has shown that annual periods of excess salinity in Texas
+lagoons cause an annual increase in the death of fish and occasionally a
+catastrophic mass mortality. Because Lake Gosiute is known to have been
+saline, it might be assumed that somewhat similar chemical conditions
+prevailed in the Fossil Lake. It is not known definitely that the two
+lakes were ever connected but if they were, it was most probably a
+narrow connection near the southern end of Fossil Lake and probably a
+rather temporary connection.
+
+That a rather long period of aridity occurred in the general region is
+demonstrated by various depositional features, primary structures, and
+salt deposition in Gosiute Lake in a part of the Green River Formation.
+These deposits appear to have settled down during Lostcabinian (late to
+early Eocene) times. Because the Wasatch Formation immediately
+underlying the Fossil Butte Member of the Green River Formation in the
+Fossil Syncline Basin is Lysitean (mid to early Eocene), it is probable
+that the fish deposits are of Lostcabinian age. Thus it may well be that
+the long period of aridity occurred during the deposition of the fish
+beds. While the Fossil Lake probably never reached the high degree of
+salinity present in Lake Gosiute, it was probably sufficiently saline
+that periods of excessive evaporation could increase the salinity enough
+to contribute to the mortality of fish and occasionally cause a
+catastrophic mass mortality such as those described by Gunter. The
+presence of aragonite and dolomite in the shales suggests that at least
+some of the carbonate deposition might well have been because of
+excessive evaporation and high concentrations of carbonates (Smith 1974,
+pers. comm.).
+
+At the University of Wyoming, an attempt is being made to interpret
+scales of fish from the quarries. In a number of specimens annuli can be
+observed and circuli counted. Although removal of scales for study is
+extremely difficult, a number has been removed and photographed with a
+scanning electron microscope. In Lake George, Florida, black crappie
+develop annuli during January, February, March, and April (Huish 1954).
+Climatic conditions in north central Florida may be similar to those
+that existed in western Wyoming during the early Eocene. Thus annuli may
+have developed at the same time of year. By counting the number of
+circuli between the last annulus and the edge of the scale, it should be
+possible to determine the approximate time of death of a fossil fish. If
+this should correlate with the degree of disarticulation, a check on
+this interpretation should be possible. Sufficient data are not yet
+available, however, for the results to be conclusive.
+
+It is not intended to suggest that the conditions outlined above could
+account for all of the fish concentrations in the Green River Shales. In
+certain shales in the Green River Basin, for example, the concentrations
+of _Knightia_ in nonvarved shales appear to have been deposited in quite
+shallow water. These fish are extremely well preserved but were
+obviously laid down under conditions quite different from those at
+Fossil Butte. Much study of these occurrences will be necessary before
+interpretations are possible.
+
+The story, as told here, should make it clear that the earth is
+ever-changing. What was once a beautiful, deep lake in an area of lush
+tropical forests is now a dry, sagebrush desert. What was once an area
+in which sediments were accumulating is now an area of erosion,
+occasioned by a broad uplift of the region near the end of Tertiary
+time.
+
+It is hoped that this brief story of the geologic history of Fossil
+Butte National Monument will give the reader some appreciation of the
+geologic complexity not only of the monument itself but of the
+surrounding area as well. Certainly such knowledge will add to the
+enjoyment of a visit to the monument.
+
+It may seem that geologists have all of the answers. This, however, is
+not so. Interpretations are made on the basis of available evidence.
+Each time a geologist studies an area more geologic data and more
+evidence become available and our interpretations become a little more
+accurate. It will be many years before all details of this fascinating
+history will be known.
+
+
+
+
+                                GLOSSARY
+
+
+  ANAEROBIC. Usually in reference to organisms that can live without
+          oxygen.
+  ANGULAR UNCONFORMITY. Two rock layers which are not parallel; the
+          underlying older layer dips at a different angle (usually
+          steeper) than the younger top strata.
+  ANNULI. Marks on fish scales produced by periods (usually winter) of
+          nongrowth.
+  ANTICLINE. A fold in stratified rock with the strata sloping downward
+          in opposite directions from the fold crest.
+  ARAGONITE. A carbonate mineral with specific characteristics.
+  AUTHIGENIC. A mineral (such as quartz or feldspar) which is formed
+          after the deposition of a sedimentary layer in which it
+          occurs.
+  BENTONITE. A light-colored, soft, porous rock formed from the minute
+          clay crystals of eroded volcanic ash. It has the
+          characteristic of swelling when wet (water absorption) and
+          contracting when dry.
+  BRACKISH. A condition in a body of water in which the salinity (salt
+          level) is below that of sea water, but higher than that of
+          fresh water.
+  CARBONACEOUS. Rock or sediment which contains carbon or altered
+          organic material such as coal.
+  CHERTY. Containing chert: a dull-colored, flint-like quartz often
+          found in limestone.
+  CIRCULI. Ridges on fish scales produced during growth of the scales.
+  CLAST. Rock fragments which are the result of weathering of a larger
+          rock mass.
+  CLASTIC. Rocks that consist of particles derived from pre-existing
+          rocks or minerals.
+  CLAYSTONE. An indurated clay without the lamination or fissility of
+          shale.
+  CONGLOMERATE. A coarse-grained sedimentary rock composed of fragments
+          larger than 2 mm in diameter in a fine-grained matrix.
+  CROSS-BEDDING. An internal structure in sedimentary rock in which the
+          upper sedimentary layer runs across the grain of the main bed;
+          it is caused by changing currents depositing sediment across
+          the grain of the original deposits.
+  DIAMICTITE. A sedimentary rock containing a wide range of particle
+          sizes.
+  DIP. The downward inclination of a rock layer; the vertical angle is
+          determined by its relationship to a horizontal plane.
+  DOLOMITIC. Containing a measurable amount of the mineral dolomite; a
+          mineral consisting mainly of magnesium carbonate and calcium
+          carbonate.
+  FACIES. Lateral variations in the appearance or composition of a rock
+          layer. The variations can be lithologic or paleontologic.
+  FAULT. A fracture in the earth’s crust along which displacement
+          (movement) has occurred.
+  FLUVIAL. Pertaining to a river or rivers. Fluvial sediments are those
+          transported and deposited by stream action.
+  FORMATION. A rock layer that is mappable; has a distinctive lithology
+          or series of lithologies. A mappable sequence of uniform or
+          uniformly varying rocks.
+  GASTROPODAL. A rock containing an abundance of gastropods.
+  HOGBACK. A long, narrow, sharp-crested ridge formed by the outcropping
+          edges of steeply inclined resistant rocks.
+  IGNEOUS ROCKS. A rock or mineral that has solidified from molten or
+          partly molten material.
+  INTRUSIVE. Igneous rock formed by the forcing of molten material into
+          a pre-existing rock.
+  IRONSTONE. A rock composed of various iron minerals that accumulated
+          during or shortly after deposition of the enclosing sediments.
+  LACUSTRINE. Pertaining to, produced by, or formed in a lake or lakes.
+  LATERITIC. Containing laterite: a red, porous material usually
+          developed in a tropical to temperate climate. It is a residual
+          or end-product of weathering.
+  LIGNITE. A brownish-black coal that is intermediate in coalification
+          between peat and subbituminous coal.
+  LITHOLOGY. The scientific study of rocks: composition, texture, color,
+          origin, etc.
+  MAGNETITE. A black, opaque mineral that is strongly magnetic.
+  MARLSTONE. An impure limestone.
+  METAMORPHIC. Rocks whose structure has been changed by pressure, heat,
+          chemical reaction, etc., such as limestone into marble.
+  MUDSTONE. An indurated mud without the lamination or fissility of
+          shale.
+  OPERCULAR OPENING. The gill opening of fish.
+  OSTRACODAL. A rock, usually a limestone, that contains an abundance of
+          the small crustacean, ostracods.
+  OVERTHRUST. A low-angle thrust fault of large scale, usually measured
+          in miles.
+  PALEOLIMNOLOGY. The study of ancient lakes.
+  PAPER SHALE. A form of finely laminated shale that weathers into
+          extremely thin, curled flakes.
+  PHOSPHATIC. Containing phosphates.
+  PHYTOPLANKTON. Floating microscopic plant life that occurs abundantly
+          in lakes and oceans.
+  PLATY. Rocks (sandstone or limestone) which separate into small slabs.
+  PORCELLANITE. A dense cherty rock resembling porcelain.
+  PUDDINGSTONE. A conglomerate consisting of well-rounded pebbles and
+          cobbles sparsely packed in a fine-grained matrix.
+  SILTSTONE. An indurated silt without the lamination or fissility of
+          shale.
+  STRATA. Rock layers of distinct composition and origin.
+  SYNCLINE. A fold in stratified rock in which the strata slope up from
+          the axis of the fold forming a v opposed to anticline.
+  TAPHONOMY. The branch of paleoecology which deals with the change from
+          living animals to fossils.
+  TECTONIC. The forces which result in structural changes in the earth’s
+          crust.
+  THRUST FAULT. A fault in which an upper segment of rock (hanging wall)
+          moves upward at a low angle (less than 45°) relative to a
+          lower segment (footwall).
+  TONGUE. A rock unit that wedges into, but disappears within, another
+          rock unit.
+  TUFFACEOUS. Sediment that contains up to 50% volcanic ash or dust.
+  UNCONFORMITY. A substantial break or gap in the geologic or
+          stratigraphic record.
+  UNGULATES. Hooved mammals.
+  VARVE. A set of rock laminae in which different types of sediment were
+          deposited in the winter and in the summer. Thus a couplet of
+          each sediment type would represent the deposition of one year.
+  WELL SORTED. A rock in which nearly all of the sediment particles are
+          of one grain size.
+  ZOOPLANKTON. Floating microscopic animal life that occurs abundantly
+          in lakes and oceans.
+
+
+
+
+                               REFERENCES
+
+
+  BLACKSTONE, D. L., Jr. 1971. Traveler’s guide to the geology of
+          Wyoming. _Wyo. Geol. Surv. Bull._ 55:1-90.
+  BRADLEY, W. H. 1926. Shore phases of the Green River Formation in
+          northern Sweetwater County, Wyoming. Pages 121-131 _in_ U.S.
+          Geol. Surv. Prof. Pap. 140-D.
+  ——. 1929. The varves and climate of the Green River Epoch. Pages
+          87-110 _in_ U.S. Geol. Surv. Prof. Pap. 158-E.
+  ——. 1931. Origin and microfossils of the oil shale of the Green River
+          Formation of Colorado and Utah. Pages 1-58 _in_ U.S. Geol.
+          Surv. Prof. pap. 168.
+  ——. 1948. Limnology and the Eocene lakes of the Rocky Mountain region.
+          _Geol. Soc. Am. Bull._ 59:635-648.
+  ——. 1963. Paleolimnology. Pages 621-652 _in_ D. G. Frey, ed. Limnology
+          in North America. Univ. of Wisconsin Press.
+  ——. 1964a. Geology of the Green River Formation and associated Eocene
+          rocks in southwestern Wyoming and adjacent parts of Colorado
+          and Utah. U.S. Geol. Surv. Prof. Pap. 469-A.
+  ——. 1964b. Aquatic fungi from the Green River Formation of Wyoming.
+          _Am. J. Sci._ 262:413-416.
+  ——. 1966. Tropical lakes, copropel, and oil shale. _Geol. Soc. Am.
+          Bull._ 77:1333-1338.
+  BRODKORB, P. 1970. An Eocene puffbird from Wyoming. _Contr. Geol._
+          (_Univ. of Wyo._) 9(1):13-15.
+  BROWN, R. W. 1929. Additions to the flora of the Green River
+          Formation. Pages 45-77 _in_ U.S. Geol. Surv. Prof. Pap. 185-C.
+  ——. 1934. The recognizable species of the Green River Flora. Pages
+          45-77 _in_ U.S. Geol. Surv. Prof. Pap. 185-C.
+  COCKRELL, T. D. A. 1920. Eocene insects from the Rocky Mountains.
+          _U.S. Natl. Mus. Proc._ 57:233-260.
+  COPE, E. D. 1877. A contribution to the knowledge of the icthyological
+          fauna of the Green River Shales. _U.S. Geol. Geog. Surv.
+          Territories Bull._ 3(4):807-819.
+  ——. 1878. Descriptions of fishes from the Cretaceous and Tertiary
+          deposits west of the Mississippi River. _U.S. Geol. Geog.
+          Surv. Territories Bull._ 4(1):67-77.
+  COPE. 1884. The vertebrata of the Tertiary Formations of the West.
+          Book 1, Rep. Geol. Surv. of the Territories 3:1-1009.
+  EARDLEY, A. J. 1959. Review of the geology of northeast Utah and
+          southwest Wyoming. Pages 166-171 _in_ Intermountain Assoc. of
+          Pet. Geol. Guidebook, 10th Ann. Field Conf., Wasatch and Uinta
+          Mountains Transition Area.
+  EUGSTER, H. P., and R. C. SURDAM. 1973. Depositional environment of
+          the Green River Formation of Wyoming, a preliminary report.
+          _Geol. Soc. Am. Bull._ 84:1115-1120.
+  GAZIN, C. L. 1956. The occurrence of Paleocene mammalian remains in
+          the Fossil Basin of southwestern Wyoming. _J. Paleontol._
+          39(3):707-717.
+  ——. 1959. Paleontological exploration and dating of the Early Tertiary
+          deposits in basins adjacent to the Uinta Mountains. Pages
+          131-138 _in_ Intermountain Assoc. of Petrol. Geol. Guidebook,
+          10th Ann. Field Conf., Wasatch and Uinta Mountains
+          transitional area.
+  ——. 1969. A new occurrence of Paleocene mammals in the Evanston
+          Formation of southwestern Wyoming. Smithson. Contr. Paleobiol.
+          no. 2, 17 p.
+  GUNTER, G. 1947. Catastrophism in the sea and its paleontological
+          significance, with special reference to the Gulf of Mexico.
+          _Am. J. Sci._ 245(11):669-676.
+  HAYDEN, F. V. 1869. Preliminary field report of the U.S. Geological
+          Survey of Colorado and New Mexico (3rd Ann.). 144 p.
+  ——. 1871. Preliminary report of the U.S. Geological Survey of Wyoming
+          and portions of contiguous territories. 511 p.
+  HUISH, T. 1954. Life history of the Black Crappie of Lake George,
+          Florida. _Trans. Am. Fish. Soc._ 83:176-193.
+  JEPSEN, G. L. 1966. Early Eocene bat from Wyoming. _Science_
+          154(3754): 1333-1339.
+  KNIGHT, S. H. 1955. Review of the early geological explorations of the
+          Green River Basin area, 1812-1879. Pages 10-17 _in_ Wyo. Geol.
+          Assn. 10th Ann. Field Conf. Guidebook (Green River Basin).
+  LEIDY, J. 1856. Notice of some remains of fishes discovered by Dr.
+          John E. Evans. _Acad. Nat. Sci., Phila. Proc._ 8:256-257.
+  LESQUEREUX, L. 1883. Contributions of the fossil flora of the western
+          territories. Part 3 _in_ F. V. Hayden, The Cretaceous and
+          Tertiary floras. U.S. Geol. Survey of the Territories, Rept.
+          8, 283 p.
+  McGREW, P. O. 1974. Taphonomy of Eocene fish from Fossil Basin,
+          Wyoming. Fieldiana 33 (in press).
+  NELSON, M. E. 1973. Age and stratigraphic relations of the Fowkes
+          Formation, Eocene, of southwestern Wyoming and northeastern
+          Utah. _Contr. Geol._ (_Univ. of Wyoming_) 12(1):27-31.
+  ORIEL, S. S., and J. I. TRACEY. 1970 Uppermost Cretaceous and Tertiary
+          stratigraphy of Fossil Basin, southwest Wyoming. U.S. Geol.
+          Surv. Prof. Pap. 635. 53 p.
+  PEALE, A. C. 1879. Report on the geology of the Green River district.
+          Pages 509-646 _in_ F. V. Hayden. 11th Ann. Rept., U.S. Geol.
+          Surv. of the Territories.
+  PRESCOTT, G. W. 1948. Objectionable algae with reference to the
+          killing of fish and other animals. _Hydrobiologia_ 1:1-13.
+  RUBEY, W. W., J. I. TRACEY, and S. S. ORIEL. 1968a. Preliminary
+          geologic map of the Kemmerer quadrangle, Lincoln County,
+          Wyoming. U.S. Geol. Surv., open file map.
+  ——. 1968b. Preliminary map of the Sage quadrangle, Lincoln County,
+          Wyoming. U.S. Geol. Surv., open file map.
+  SCHAEFFER, B., and M. MANGUS. 1965. Fossil lakes from the Eocene. _Am.
+          Mus. Nat. Hist._ 74(4):11-21.
+  SCHULTZ, A. R. 1914. Geology and geography of a portion of Lincoln
+          County, Wyoming. Pages 1-141 _in_U.S. Geol. Surv. Bull. 543.
+  SCUDDER, S. H. 1890. The Tertiary insects of North America. Rept. 13
+          _in_ F. V. Hayden. U.S. Geol. Geog. Surv. of the Territories.
+          734 p.
+  TRACEY, J. I., and S. S. ORIEL. 1959. Uppermost Cretaceous and Lower
+          Tertiary rocks of the Fossil Basin. Pages 126-130 _in_
+          Intermountain Assoc. Petrol. Geol. Guidebook. 10th Annual
+          Field Conf., Wasatch and Uinta Mountains transitional area.
+  ——, and W. W. RUBEY. 1961. Diamicitite facies in the Wasatch Formation
+          in the Fossil Basin, southwestern Wyoming. Pages 149-150 _in_
+          Short Pap. in the Geol. and Hydrol. Sci., U.S. Geol. Surv.
+          Prof. Pap. 424b.
+  VAN HOUTEN, F. B. 1948. Origin of red-banded early Cenozoic deposits
+          in the Rocky Mountain region. Pages 2083-2126 _in_ Am. Assoc.
+          Petrol. Geol. Bull. 32(11).
+  U.S. DEPARTMENT OF THE INTERIOR. 1964. Proposed Fossil Butte National
+          Monument. National Park Service Midwest Region, Omaha, Neb.
+  VEATCH, A. C. 1970. Geography and geology of a portion of southwestern
+          Wyoming with special reference to coal and oil. U.S. Geol.
+          Surv. Prof. Pap. 56. 178 p.
+
+
+
+
+                              BIBLIOGRAPHY
+
+
+  BERRY, E. W. 1925. Flora and ecology of the so-called Bridger Beds of
+          the Wind River Basin, Wyoming. _Pan-Am. Geol._ 44:357-368.
+  BRADLEY, W. H. 1959. Revision of stratigraphic nomenclature of the
+          Green River Formation of Wyoming. _Am. Assoc. Petrol. Geol.
+          Bull._ 43:1072-1075.
+  ——. 1973. Oil shale formed in desert environment, Green River
+          Formation, _Wyoming. Geol. Soc. Am. Bull._ 84:1121-1124.
+  BRADLEY, W. H., and H. P. EUGSTER. 1969. Geochemistry and
+          paleolimnology of the Trona deposits and associated authigenic
+          minerals of the Green River Formation of Wyoming. U.S. Geol.
+          Surv. Prof. Pap. 496-B, 70 p.
+  BRONGERSMA-SANDERS, M. 1957. Mass mortality in the sea. Pages 941-1010
+          _in_ Treatise on marine ecology and paleoecology. G.S.A.
+          Memoir 67.
+  GAZIN, C. L. 1952. The lower Eocene Knight Formation of Wyoming and
+          its mammalian faunas. _Smithson. Misc. Coll._ 117(18): 1-82.
+  ——. 1956a. The upper Paleocene mammalia from the Almy Formation in
+          western Wyoming. _Smithson. Misc. Coll._ 131(7): 1-18.
+  ——. 1962. A further study of the lower Eocene mammalian faunas of
+          southwestern Wyoming. _Smithson. Misc. Coll._ 144(1):1-98.
+  GARY, M., R. McAFEE, Jr., and C. L. WOLF (eds.). 1972. Glossary of
+          Geology. Amer. Geol. Inst., Washington, D.C. 857 p.
+  HESSE, C. J. 1939. Fossil fish localities in the Green River Eocene of
+          Wyoming. _Sci. Monthly_ 48:147-151.
+  HUTCHINSON, G. E. 1957. A Treatise on Limnology, vol. 1 (Geography,
+          Physics, Chemistry). John Wiley and Sons, New York. 1015 p.
+  ORIEL, S. S. 1961. Tongues of the Wasatch and Green River Formation,
+          Fort Hill area, Wyoming. Pages 151-152 _in_ Short Pap. in the
+          Geol. Hydrol. Sci., U.S. Geol. Surv. Prof. Pap. 424b.
+  ——, C. L. GAZIN, and J. I. TRACEY. 1962. Eocene age of the Almy
+          Formation, Wyoming, in its type area. _Am. Assoc. Petrol.
+          Geol. Bull._ 46(10): 1936-1937.
+  ROMER, A. S. 1966. Vertebrate paleontology, 3rd ed. Univ. Chicago
+          Press. 468 p.
+  RUBEY, W. W., S. S. ORIEL, and J. I. TRACEY. 1961. Age of the Evanston
+          Formation, western Wyoming. Pages 153-154 _in_ Short Pap. in
+          the Geol. and Hydrol. Sci., U.S. Geol. Surv. Prof. Pap. 424b.
+  SEARS, J. D., and W. H. BRADLEY. 1924. Relations of the Wasatch and
+          Green River formations in northwest Colorado and southern
+          Wyoming with notes on oil shale in the Green River Formation.
+          Pages 93-107 _in_ U.S. Geol. Surv. Prof. Pap. 132f.
+  THORPE, M. R. 1938. Wyoming Eocene fishes in the Marsh collection.
+          _Am. J. Sci._ 36:279-295.
+
+
+
+
+                            ACKNOWLEDGMENTS
+
+
+This report, which was prepared under National Park Service Contract CX
+6000-3-0076, leans heavily on the publications of those many people who
+have studied various geologic aspects of the Fossil Basin. We would like
+to cite particularly Doctors Steven Oriel and Joshua Tracy of the United
+States Geological Survey, whose studies have clarified the stratigraphic
+relationships of the sediments involved. Dr. D. L. Blackstone, Jr., of
+the University of Wyoming supplied information from his yet unpublished
+interpretations of the complicated structure of the Idaho-Wyoming thrust
+belt. Mr. Tom Bown helped with the structural part of the report and
+critically reviewed other parts. The drafting, except for Figs. 3 and 9,
+was done by Mr. Evan Groutage. Mrs. Elaine Hertzfeldt, secretary for the
+Department of Geology, aided greatly in preparing this manuscript.
+
+                                                          Paul O. McGrew
+                                                      Michael Casilliano
+
+    [Illustration: DEPARTMENT OF THE INTERIOR · MARCH 3 1849; NATIONAL
+    PARK SERVICE]
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Silently corrected a few typos, including inconsistent spelling of
+  “Lostcabinian”.
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Geological History of Fossil Butte
+National Monument and Fossil Basin, by Paul Orman McGrew and Michael Casilliano
+
+*** END OF THIS PROJECT GUTENBERG EBOOK GEOLOGICAL HISTORY--FOSSIL BUTTE MONUMENT ***
+
+***** This file should be named 49829-0.txt or 49829-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/9/8/2/49829/
+
+Produced by Stephen Hutcheson, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

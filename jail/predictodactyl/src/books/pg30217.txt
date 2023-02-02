@@ -1,0 +1,792 @@
+﻿The Project Gutenberg EBook of Pleistocene Bats from San Josecito Cave,
+Nuevo Leon, Mexico, by J. Knox Jones, Jr.
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Pleistocene Bats from San Josecito Cave, Nuevo Leon, Mexico
+
+Author: J. Knox Jones, Jr.
+
+Release Date: October 9, 2009 [EBook #30217]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PLEISTOCENE BATS ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper, Diane Monico, and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS
+MUSEUM OF NATURAL HISTORY
+
+Volume 9, No. 14, pp. 389-396
+December 19, 1958
+
+
+Pleistocene Bats from San Josecito Cave,
+Nuevo León, México
+
+
+BY
+
+J. KNOX JONES, JR.
+
+
+UNIVERSITY OF KANSAS
+
+LAWRENCE
+
+1958
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+Editors: E. Raymond Hall, Chairman, Henry S. Fitch,
+Robert W. Wilson
+
+
+Volume 9, No. 14, pp. 389-396
+Published December 19, 1958
+
+
+UNIVERSITY OF KANSAS
+Lawrence, Kansas
+
+
+PRINTED IN
+THE STATE PRINTING PLANT
+TOPEKA, KANSAS
+
+1958
+
+27-5516
+
+
+
+
+Pleistocene Bats from San Josecito Cave,
+Nuevo León, México
+
+BY
+
+J. KNOX JONES, JR.
+
+
+Some of the Pleistocene mammals from San Josecito Cave, near Aramberri,
+Nuevo León, México, collected by field parties of the California
+Institute of Technology under the direction of the late Professor
+Chester Stock, have been reported previously (see Furlong, 1943;
+Cushing, 1945; Stock, 1950; Hooper, 1952; Findley, 1953; Stock, 1953;
+Handley, 1955; Jackway, 1958). In 1950, Professor Stock loaned a
+portion of the San Josecito material to the University of Kansas for
+identification. Included therein were 89 crania and rami of bats,
+representing three families (Phyllostomidae, Desmodontidae and
+Vespertilionidae) and five genera, each represented by a single
+species. One of the species is here described as new. Three of the
+kinds are known only from the Pleistocene and two are Recent species.
+
+The only previous mention of fossil bats from México known to me
+concerns material from San Josecito Cave. Cushing (1945:182) mentioned
+a "vampire bat" from the cave (see also Maldonado-Koerdell, 1948:17),
+and Handley (1955:48) based his description of _Corynorhinus
+tetralophodon_ on a specimen from San Josecito.
+
+Brief descriptions of the cave have been published by Miller (1943) and
+Stock (1943). The precise age of the deposits is unknown;
+stratification data did not accompany the material sent on loan to the
+University of Kansas. However, most of the micro-fauna is thought to
+have come from the higher levels in the cave and is probably late
+Pleistocene.
+
+The San Josecito Cave collections are currently the property of the Los
+Angeles County Museum.
+
+I am grateful to Dr. E. Raymond Hall for permission to study the bats
+from San Josecito Cave, to Dr. Robert W. Wilson for criticism of the
+manuscript, and to Mr. Philip Hershkovitz for permission to use
+comparative material at the Chicago Natural History Museum. Lucy Rempel
+made the drawings from photographs by John M. Legler.
+
+
+_Leptonycteris nivalis_ (Saussure)
+
+     _Referred material._--Seventy crania, LACM (CIT) 2951-54,
+     2956-64, 3114-22, 3124-25, 3127, 3131-35, 3137-41, 3143-55,
+     3942, 21 unnumbered, of which 35 are nearly complete,
+     lacking zygomatic arches, auditory bullae and some teeth;
+     three rami, one right, LACM (CIT) 3126, and two left,
+     unnumbered.
+
+_Remarks._--The long-nosed bats from San Josecito Cave do not differ
+appreciably from _Leptonycteris nivalis longala_ Stains, the largest
+Recent subspecies of the species, and the subspecies that occurs in the
+same geographic area today. Average and extremes of three cranial
+measurements of 22 specimens from San Josecito Cave, followed in
+parentheses by the average and extreme measurements of 23 adult _L. n.
+longala_ from the type locality, 12 mi. S and 2 mi. E Arteaga, 7500
+ft., Coahuila (after Stains, 1957: 356), are: Greatest length of skull,
+28.2, 27.2-28.9 (27.5, 26.1-29.0); least interorbital constriction,
+5.0, 4.8-5.4 (4.8, 4.1-5.4); breadth of braincase, 11.1, 10.6-11.6
+(10.7, 10.1-11.2). The San Josecito specimens average larger than the
+series of Recent specimens in all of these measurements, especially
+breadth of braincase, but there is considerable overlap in each case
+and the extremes of greatest length of skull and of least interorbital
+constriction do not exceed the extremes in the Recent series.
+
+
+_Desmodus stocki_, new species
+
+     _Holotype._--Cranium, lacking post-incisor dentition on the
+     left side, zygomatic arches and auditory bullae; Los Angeles
+     County Museum (CIT) No. 3129; from Pleistocene deposits of
+     San Josecito Cave, near Aramberri, Nuevo León, México.
+
+     _Referred material._--Twelve additional partial crania, LACM
+     (CIT) 2946-50, 3127-30, 3940-41, 2 unnumbered.
+
+     _Diagnosis._--Resembling the Recent _Desmodus rotundus_ but
+     differing from it as follows: Skull larger (see measurements
+     and Figs. 1-2), heavier and more massive; rostrum and
+     braincase relatively as well as actually broader,
+     interorbital region relatively more constricted; braincase
+     more rounded (less elongate) as viewed from above; nasals
+     less concave in lateral view; narial vacuity broader in
+     relation to greatest length of skull, more nearly
+     heart-shaped; palate broad, less concave medially;
+     mesopterygoid fossa relatively and actually broader
+     anteriorly, the sides nearly parallel; zygomatic arches
+     (judging from No. 2950, the only specimen with a complete
+     arch, the left) less rounded in outline, appearing broader
+     owing to the more constricted interorbital region.
+
+     Dentition larger and heavier than that in _rotundus_, but
+     otherwise differing only slightly from it; upper incisor
+     less concave on cutting surface (see Figs. 3-4); premolar
+     and molar slightly less bladelike, with heavier roots.
+
+     The peculiar shape of the incisor of _stocki_ is shared to
+     some extent with Diaemus youngi, a Recent South American
+     desmodontid. However, _stocki_ does not otherwise resemble
+     _D. youngi_, differing from it as follows: Skull larger and
+     heavier; interorbital constriction much narrower; zygomatic
+     arches less strongly bowed; skull less compact, more
+     elongate; braincase and rostrum relatively much narrower in
+     relation to greatest length of skull. Furthermore, specimens
+     of stocki show no trace of the minute M2 attributed to
+     _youngi_ by de la Torre (Proc. Biol. Soc. Washington, 69:
+     191, 1956). For cranial measurements of _youngi_ see Sanborn
+     (Jour. Mamm., 30: 283, 1949).
+
+[Illustration: FIGS. 1-4. Fig. 1. Dorsal view of holotype of _Desmodus
+stocki_, × 1-1/2. Fig. 2. Dorsal view of _Desmodus rotundus murinus_,
+male, KU 54969, La Mula, 13 mi. N Jaumave, Tamaulipas, × 1-1/2. Fig. 3.
+Lateral view of left upper incisor of _D. stocki_, LACM (CIT) 2950, ×
+2-1/2. Fig. 4. Lateral view of left upper incisor of _D. r. murinus_,
+female, KU 54967, La Mula, 13 mi. N Jaumave, Tamaulipas, × 2-1/2.]
+
+_Remarks._--The essential differences between _D. stocki_ and _D.
+rotundus_ are in size and proportion. I do not doubt that the two
+species are closely related; possibly _stocki_ is ancestral to
+_rotundus_.
+
+The species is named in honor of the late Professor Chester Stock,
+under whose direction the fossil materials from San Josecito Cave were
+obtained, and who, at the time of his death, was studying the mammalian
+fauna from the cave.
+
+
+_Eptesicus cf. grandis_ (Brown)
+
+     _Referred material._--One rostrum, with P4-M3 on the right
+     side and P4 only on the left, LACM (CIT) 2990.
+
+_Remarks._--This specimen is referred provisionally to _E. grandis_.
+The dentition is larger and heavier, and the ridges and depressions on
+the dorsal surface of the rostrum are more pronounced than in Recent
+_E. fuscus_. The P4-M3 length is 6.1 (approximately 6.1 in the holotype
+of _grandis_, less in _fuscus_); least interorbital constriction, 4.2
+(4.3 in the holotype of _grandis_, more in _fuscus_); breadth of
+rostrum between infraorbital canals, 6.4; breadth across P4, 7.3.
+
+
+TABLE 1.--Cranial measurements of two species of _Desmodus_.
+
+---------------------+-------+-------+-------+-------+-------+--------
+Catalogue number     | G   o | C   l | Z   b | B   b | L   c | B   f
+or number of         | r   f | o   e | y   r | r   r | e   o | r   o
+specimens averaged   | e     | n   n | g   e | e   a | a   n | e   r
+                     | a   s | d   g | o   a | a   i | s   s | a   a
+                     | t   k | y   t | m   d | d   n | t   t | d   m
+                     | e   u | l   h | a   t | t   c |     r | t   e
+                     | s   l | o     | t   h | h   a | i   i | h   n
+                     | t   l | b     | i     |     s | n   c |
+                     |       | a     | c     | o   e | t   t | o   m
+                     | l     | s     |       | f     | e   i | f   a
+                     | e     | a     |       |       | r   o |     g
+                     | n     | l     |       |       | o   n |     n
+                     | g     |       |       |       | r     |     u
+                     | t     |       |       |       | b     |     m
+                     | h     |       |       |       | i     |
+                     |       |       |       |       | t     |
+                     |       |       |       |       | a     |
+                     |       |       |       |       | l     |
+---------------------+-------+-------+-------+-------+-------+--------
+
+   _Desmodus rotundus murinus_, La Mula, 13 mi. N Jaumave, Tamaulipas
+
+10 (3 male,    Ave.  | 24.3  | 21.4  | 12.0  | 12.1  |  5.5  |  5.2
+    7 female)  Max.  | 24.9  | 22.0  | 12.5  | 12.5  |  5.6  |  5.3
+               Min.  | 23.9  | 21.0  | 11.7  | 11.9  |  5.3  |  5.1
+
+                _Desmodus stocki_, San Josecito Cave, Nuevo León
+
+2946                 | 27.3  | 24.5  |       | 14.2  |  6.1  |  5.8
+2947                 |       |       |       | 13.6  |       |  5.7
+2948                 |       | 24.3  |       | 13.9  |  6.2  |  5.3
+2949                 |       | 24.7  |       | 13.9  |  6.1  |  5.5
+2950                 |       |       | 14.1  | 13.5  |       |  5.7
+3127                 |       |       |       | 13.5  |  6.0  |  5.7
+3128                 | 26.5  |       |       | 13.5  |  6.2  |  5.5
+3129 (type)          | 28.2  | 24.5  |       | 13.7  |  5.9  |  5.7
+3940                 | 27.4  | 24.4  |       | 13.8  |  6.2  |
+3941                 |       | 24.6  | 14.0  | 13.7  |  6.0  |  5.6
+---------------------+-------+-------+-------+-------+-------+--------
+
+Brown (1908:174) originally named _grandis_ as a subspecies of
+_fuscus_. Gidley and Gazin (1938:11) considered it a distinct species.
+Whether _grandis_ is only a subspecies of _E. fuscus_ or a separate
+species, _grandis_ is closely related to _fuscus_, and probably is
+ancestral to it.
+
+
+_Lasiurus cinereus_ (Palisot de Beauvois)
+
+     _Referred material_.--One cranium, lacking basioccipital,
+     tympanic and mastoid regions, and most of the dentition,
+     having only M3 on the right side and M2-M3 on the left, LACM
+     (CIT) 3160.
+
+_Remarks._--The cranium of No. 3160 is inseparable from those of 10
+spring-taken specimens of _L. c. cinereus_ from the San Gabriel Mts.,
+Los Angeles Co., California (KU 49727, 49729-37). Measurements of No.
+3160, followed by the average and extremes (in parentheses) of the
+Californian series, are: Condylobasal length, 16.1, 16.5 (15.9-17.2);
+zygomatic breadth, 12.3, 12.4 (12.0-12.7); least interorbital
+constriction, 5.2, 5.4 (5.2-5.6); breadth of braincase, 8.7, 9.0
+(8.5-9.3); length of palate not including terminal spine, 5.1, 5.3
+(4.8-5.9). The teeth of the San Josecito specimen are comparatively
+unworn. A label with the skull bears the notation "talus" in
+parentheses, which, in so far as I am able to determine, indicates
+surface talus inside the cave. Therefore, the specimen in question may
+be of Recent origin.
+
+It is perhaps worthy of note that Lasiurus cinereus is primarily a
+tree-dwelling bat, although a few Recent specimens have been reported
+from caves (see Beer, 1954:116).
+
+
+_Corynorhinus tetralophodon_ Handley
+
+A single cranium of a _Corynorhinus_ LACM (CIT) 2989 was included in
+the original materials sent to Kansas by Professor Stock. Subsequently,
+this specimen was loaned to Charles O. Handley, Jr., who described it
+as a new species, _C. tetralophodon_. The latter is said to differ from
+all other plecotine bats by the retention of a well-developed fourth
+commissure (ridge extending posteroexternally from metacone) on the M3
+(Handley, 1955:48).
+
+
+
+
+LITERATURE CITED
+
+
+BEER, J. R.
+
+   1954. A record of the hoary bat from a cave. Jour. Mamm., 35:116,
+         February 10.
+
+BROWN, B.
+
+   1908. The Conard Fissure, a Pleistocene bone deposit in northern
+         Arkansas: with description of two new genera and twenty new
+         species and subspecies of mammals. Mem. Amer. Mus. Nat.,
+         9:155-208, pls. 14-25.
+
+CUSHING, J. E., JR.
+
+   1945. Quaternary rodents and lagomorphs of San Josecito Cave, Nuevo
+         Leon, Mexico. Jour. Mamm., 26:182-185, July 19.
+
+FINDLEY, J. S.
+
+   1953. Pleistocene Soricidae from San Josecito Cave, Nuevo Leon,
+         Mexico. Univ. Kansas Publ., Mus. Nat. Hist., 5:633-639,
+         December 1.
+
+FURLONG, E. L.
+
+   1943. The Pleistocene antelope, Stockoceros conklingi, from San
+         Josecito Cave, Mexico. Carnegie Inst. Washington Publ.,
+         551:1-8, 5 pls., February 3.
+
+GIDLEY, J. W., and GAZIN, C. L.
+
+   1938. The Pleistocene vertebrate fauna from Cumberland Cave,
+         Maryland. Bull. U. S. Nat. Mus., 171:vi + 99, 50 figs., 10
+         pls.
+
+HANDLEY, C. O., JR.
+
+   1955. _A new Pleistocene bat_ (Corynorhinus) _from Mexico_. Jour.
+         Washington Acad. Sci., 45:48-49, March 14.
+
+HOOPER, E. T.
+
+   1952. A systematic review of the harvest mice (genus
+         _Reithrodontomys_) of Latin America. Misc. Publ. Mus.
+         Zool., Univ. Michigan, 77:1-255, 9 pls., 24 figs., 12 maps,
+         January 16.
+
+MALDONADO-KOERDELL, M.
+
+   1948. Los vertebrados fosiles del Cuaternario en México. Revista
+         Soc. Mexicana Hist. Nat., 9:1-35, June.
+
+JACKWAY, G. E.
+
+   1958. Pleistocene Lagomorpha and Rodentia from the San Josecito
+         Cave, Nuevo León, México. Trans. Kansas Acad. Sci., 61: in
+         press.
+
+MILLER, L.
+
+   1943. The Pleistocene birds of San Josecito Cavern, Mexico. Univ.
+         California Publ. Zool., 47:143-168, April 20.
+
+STAINS, H. J.
+
+   1957. A new bat (genus Leptonycteris) from Coahuila. Univ. Kansas
+         Publ., Mus. Nat. Hist., 9:353-356, January 21.
+
+STOCK, C.
+
+   1943. The cave of San Josecito, Mexico. New discoveries of
+         vertebrate life of the ice age. Eng. Sci. Monthly, California
+         Inst. Tech., Balch Grad. School Geol. Sci. Contrib., 361:1-5,
+         September.
+
+   1950. Bears from the Pleistocene cave of San Josecito, Nuevo Leon,
+         Mexico. Jour. Washington Acad. Sci., 40:317-321, 1 fig.,
+         October 23.
+
+   1953. El caballo pleistocenico (_Equus conversidens leoni_, subsp.
+         nov.) de la cueva de San Josecito, Aramberra, Nuevo Leon.
+         Mem. Congr. Cient. Mex., 3:170-171.
+
+
+_Transmitted August 18, 1958._
+
+
+27-5516
+
+
+
+       *       *       *       *       *
+
+Transcriber's Note:
+
+Replaced the two occurrences of male and female symbols with the words
+"male" and "female".
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Pleistocene Bats from San Josecito
+Cave, Nuevo Leon, Mexico, by J. Knox Jones, Jr.
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PLEISTOCENE BATS ***
+
+***** This file should be named 30217-8.txt or 30217-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/0/2/1/30217/
+
+Produced by Chris Curnow, Joseph Cooper, Diane Monico, and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
