@@ -1,0 +1,4 @@
+It's time to get to the bottom of this. An enemy agent has infiltrated your machine at least twice, and H.Q. wants answers NOW. The first thing they want to know is what file was deleted by SDelete. What is the name of the text file that SDelete purged from your machine? Give the answer as:
+byuctf{name_of_file.txt}
+
+WARNING: This is very difficult to do without Windows. There is an author who makes a Python-friendly package that works with the files we are going to be analyzing, so I created a tool that works in Python and can run on any platform. Since it would be unfair to just give this to everyone, I have locked it in a zip file behind a password. The password is the last name of the author of the free tool that would help solve this challenge on Windows.

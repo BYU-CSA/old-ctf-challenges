@@ -1,0 +1,7 @@
+the following hash is given:
+
+93159244323722bb6ece7c914d47f79bec0b73e5
+
+it is a sha1 hash, it can be cracked with the rockyou list or in crackstation. 
+
+byuctf{superspy}

@@ -1,0 +1,1 @@
+The user probably used the RUNAS feature to run SDelete as your user. Are there any event logs that indicate this activity was going on? Alternatively, are there any event logs that indicate interactive logins around this time?

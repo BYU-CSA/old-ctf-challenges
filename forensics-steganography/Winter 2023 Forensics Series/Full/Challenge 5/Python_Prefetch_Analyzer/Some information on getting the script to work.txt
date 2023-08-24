@@ -1,0 +1,8 @@
+In order to work, this script uses pyscca. I would recommend using the following:
+
+First, install the full package (not the source code!) from the instructions here:
+https://github.com/libyal/libscca/wiki/Building#getting-the-source
+Again, do NOT download the GitHub source code! Make your life easier!
+
+Then, use setup.py to install the python-binding only build.
+https://github.com/libyal/libscca/wiki/Building#using-setuppy

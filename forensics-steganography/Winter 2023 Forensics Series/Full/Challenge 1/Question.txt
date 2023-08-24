@@ -1,0 +1,11 @@
+1:00 AM. The rest of the hotel is asleep right now, save a handful of the hotel staff. And you. Earlier that day, you went to the hotel front desk to complain about the internet to your room suddenly stopping. They told you to wait in the lobby while they fixed it. This solution might be acceptable to the average guest, but not to you. You are a member of the top-secret S.E.N.T.I.N.E.L. team, after all. Accidents don't happen to you. As you leave the lobby, the front desk insists that you stay. It will be just a minute, they say. But a minute is 60 seconds too long. As you enter your room, you see a man quickly pull his hands off your computer keyboard. He mumbles an apology as he brushes past you. You have spent the last several hours diving into your computer. What has changed? Finally, you notice it. Your mission orders are different. The change is subtle, but important. You have been compromised.
+What is the username of the last person to save Mission Orders.docx? Give the answer as:
+byuctf{author_name}
+
+
+
+Note: this story isn't too far from a real happening. You can read about the creator of Mimikatz and some of the ways foreign intelligence agencies tried to steal his code before he released it publicly. 
+https://www.wired.com/story/how-mimikatz-became-go-to-hacker-tool/
+
+Note 2: this forensic investigation is very similar to how security firms determined that Russian Intelligence was likely behind the 2016 Democratic National Convention hack.
+https://arstechnica.com/information-technology/2016/06/guccifer-leak-of-dnc-trump-research-has-a-russians-fingerprints-on-it/

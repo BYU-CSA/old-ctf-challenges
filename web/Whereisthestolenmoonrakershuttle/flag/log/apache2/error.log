@@ -1,0 +1,17 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 23 00:45:31.485891 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/8.0.28 configured -- resuming normal operations
+[Thu Feb 23 00:45:31.486634 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Feb 23 00:46:08.494937 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 23 00:48:52.055003 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/8.0.28 configured -- resuming normal operations
+[Thu Feb 23 00:48:52.055311 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Feb 23 01:50:58.745180 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 23 01:52:02.523067 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/8.0.28 configured -- resuming normal operations
+[Thu Feb 23 01:52:02.523977 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Feb 23 02:06:39.892516 2023] [php:error] [pid 18] [client 172.22.0.1:38608] script '/var/www/html/shuttleLocation.php' not found or unable to stat, referer: http://localhost:8000/portal.php?filename=home.php
+[Thu Feb 23 02:35:34.639753 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 23 16:04:19.270332 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/8.0.28 configured -- resuming normal operations
+[Thu Feb 23 16:04:19.270658 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Feb 23 16:05:02.767874 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully

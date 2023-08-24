@@ -1,0 +1,2 @@
+You suspect that the mission orders document may have been altered on another computer and then redownloaded onto the SENTINEL Windows machine. What is the name of the alternate data stream that could tell us if the file was downloaded from the internet? Give the answer as:
+byuctf{name_of_alternate_data_stream}

@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  php-apache-environment:
+    container_name: 007-chal2
+    image: php:8.0-apache
+    volumes:
+      - ./php/src:/var/www/html/
+      - ./flag:/var
+    #command: sh -c "mv /var/www/html/shuttlelocation.php /var/shuttlelocation.php"  
+    ports:
+      - 8000:80

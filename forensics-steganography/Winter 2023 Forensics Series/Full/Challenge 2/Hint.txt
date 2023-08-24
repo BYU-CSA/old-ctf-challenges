@@ -1,0 +1,1 @@
+What is a file signature, and how could you read it?

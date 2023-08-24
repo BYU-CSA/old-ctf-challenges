@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  php-apache-environment:
+    container_name: the-red-room
+    image: php:8.0-apache
+    volumes:
+      - ./php/src:/var/www/html/
+    ports:
+      - 80:80

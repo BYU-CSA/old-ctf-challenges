@@ -1,0 +1,4 @@
+Gathering all the evidence you have found so far, you are ready to submit your report to H.Q. Only one question remains: what is the name of the malware that the attacker used to exfiltrate data from your machine? Give the answer as:
+byuctf{malware.exe}
+
+WARNING: This is very difficult to do without Windows. I didn't have time to code up a tool to do this for you, so you are on your own if you try on Linux or MacOS. You could probably do something with https://github.com/libyal/libesedb. Good luck.

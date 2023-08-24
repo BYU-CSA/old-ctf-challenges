@@ -1,0 +1,1 @@
+File systems carry metadata. I wonder if some types of files carry their own internal metadata as well?

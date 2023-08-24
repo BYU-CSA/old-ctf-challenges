@@ -1,0 +1,11 @@
+Boats boats boats! 
+
+This hash is 3 motorboat builder names put together: no capital letters, no spaces. Wrap the solution in byuctf{}.
+
+I found a list of motorboat manafacturers on wikipedia: https://en.wikipedia.org/wiki/List_of_boat_builders
+I copied the list of manafacturers, and used a python script to remove the capitals and the spaces, and concatinate the wordlist together. After that, I ran the given hash through hashcat, using the following options:  hashcat -m 0 hash.txt wordlist.txt
+ 
+
+sunseekersearaybayliner
+
+hash: a9104e823d7b3bcb9a0246838eea900c

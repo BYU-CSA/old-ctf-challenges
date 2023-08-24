@@ -15,6 +15,8 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Hamilton](cryptography/hamilton/) (Fall 2022) - easy
 * [Dino Friend](cryptography/Dino%20Friend/) (Fall 2022) - easy
 * [Vigenere 1](cryptography/Vigenere%201/) (Fall 2022) - easy
+* [Call Me Maybe](cryptography/Call%20Me%20Maybe/) (Winter 2023) - easy
+* [For Sparta](cryptography/For%20Sparta/) (Winter 2023) - easy
 * [Invisible](cryptography/invisible) (Fall 2021) - medium
 * [Woodchuck](cryptography/woodchuck) (Fall 2021) - medium
 * [Forgotten](cryptography/forgotten) (Fall 2021) - medium
@@ -27,12 +29,15 @@ This private repository stores all the CTF challenges that have been used in pre
 * [A Fine Cipher](cryptography/A%20Fine%20Cipher/) (Fall 2022) - medium
 * [Sore Dino](cryptography/Sore%20Dino/) (Fall 2022) - medium
 * [Vigenere 2](cryptography/Vigenere%202/) (Fall 2022) - medium
+* [Agent Carter](cryptography/Agent%20Carter/) (Winter 2023) - medium
+* [smashbangcrashboom](cryptography/smashbangcrashboom/) (Winter 2023) - medium
 * [Wiki Game](cryptography/wikigame) (Fall 2021) - hard
 * [Too Many Times](cryptography/toomanytimes/) (Winter 2022) - hard
 * [The Most Worthy Distinction of Pain](cryptography/pain/) (Winter 2022) - hard
 * [Dorian Hawkmoon](cryptography/dorian-hawkmoon/) (Winter 2022) - hard
 * [Dino Cipher](cryptography/Dino%20Cipher/) (Fall 2022) - hard
 * [Paper](cryptography/Paper/) (Fall 2022) - hard
+* [b-z then 10](cryptography/b-z%20then%2010/) (Winter 2023) - hard
 
 ### Category - Forensics/Steganography
 #### Steganography
@@ -43,9 +48,14 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Janes Message](forensics-steganography/JanesMessage/) (Fall 2022) - easy
 * [Swimming Secret](forensics-steganography/SwimmingSecret/) (Fall 2022) - easy
 * [Sneaky](forensics-steganography/Sneaky/) (Fall 2022) - easy
+* [Charlie the Fish](forensics-steganography/Charlie%20the%20Fish/) (Winter 2023) - easy
+* [Charlie the Fish 2](forensics-steganography/Charlie%20the%20Fish%202/) (Winter 2023) - easy
+* [thetoymaker](forensics-steganography/thetoymaker/) (Winter 2023) - easy
+* [Wyatt P Memorial Watertower the Sequel](forensics-steganography/Wyatt%20P%20Memorial%20Watertower%20the%20Sequel/)
 * [Cyber Risk](forensics-steganography/cyberrisk) (Fall 2021) - medium
 * [Cyber Risk 2](forensics-steganography/cyberrisk2) (Fall 2021) - medium
 * [steggiboi](forensics-steganography/steggiboi/) (Fall 2022) - medium
+* [Bames Jond has Stronk](forensics-steganography/Bames%20Jond%20has%20Stronk/) (Winter 2023) - medium
 * [Blue 3](forensics-steganography/blue-3) (Winter 2022) - hard
 
 #### Network Forensics
@@ -72,6 +82,14 @@ This private repository stores all the CTF challenges that have been used in pre
 * [zip](forensics-steganography/zip/) (Fall 2022) - hard
 * [PNG](forensics-steganography/png/) (Fall 2022) - hard
 * [Kyuukon](forensics-steganography/kyuukon/) (Fall 2022) - hard
+
+#### Winter 2023 Forensics Series
+* [Challenge 1](forensics-steganography/Winter%202023%20Forensics%20Series/Write-Up/WriteUp.md#Challenge%201) (Winter 2023) - easy
+* [Challenge 2](forensics-steganography/Winter%202023%20Forensics%20Series/Write-Up/WriteUp.md#Challenge%202) (Winter 2023) - easy
+* [Challenge 3](forensics-steganography/Winter%202023%20Forensics%20Series/Write-Up/WriteUp.md#Challenge%203) (Winter 2023) - easy
+* [Challenge 4](forensics-steganography/Winter%202023%20Forensics%20Series/Write-Up/WriteUp.md#Challenge%204) (Winter 2023) - medium
+* [Challenge 5](forensics-steganography/Winter%202023%20Forensics%20Series/Write-Up/WriteUp.md#Challenge%205) (Winter 2023) - medium
+* [Challenge 6](forensics-steganography/Winter%202023%20Forensics%20Series/Write-Up/WriteUp.md#Challenge%206) (Winter 2023) - hard
 
 #### Other
 * [Austenland](forensics-steganography/austenland) (Fall 2021) - medium
@@ -117,21 +135,27 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Programming Challenges](miscellaneous/ProgrammingChallenges/) (Fall 2022) - medium
 * [Secure Password Manager](miscellaneous/Secure%20Password%20Manager/) (Fall 2022) - medium
 * [RawrXD](miscellaneous/RawrXD/) (Fall 2022) - medium
+* [Sluethr](miscellaneous/Sluethr/) (Winter 2023) - medium
 * [Oh, Babylon](miscellaneous/oh_babylon/) (Winter 2022) - hard
 * [Release the Crakin](miscellaneous/release-the-crakin/) (Winter 2022) - hard
 * [Super CTF Land 2](miscellaneous/super_ctf_land2/) (Fall 2022) - hard
 * [Buzz Off](miscellaneous/buzz_off/) (Fall 2022) - hard
 * [Powershell 4](miscellaneous/powershell4) (Fall 2021) - extreme
 
-### Category - Social Engineering
+### Category - Social Engineering / OSINT
 * [Links](OSINT/links) (Winter 2021, Summer 2021) - easy
 * [Cyber Warriors 1](OSINT/Image%20search) (Fall 2021) - easy
 * [Inside the Cyber Warrior #2](OSINT/Image%20search) (Fall 2021) - easy
+* [the man in the golden jacket](OSINT/the%20man%20in%20the%20golden%20jacket/) (Winter 2023) - easy
+* [CSA Conference](OSINT/CSA%20Conference/) (Winter 2023) - easy
+* [I love to see the temple](OSINT/I%20love%20to%20see%20the%20temple/) (Winter 2023) - easy
 * [Cert](OSINT/cert) (Summer 2021) - medium
 * [Domain](OSINT/domain) (Summer 2021) - medium
 * [Were U At](OSINT/wereuat) (Summer 2021) - medium
 * [Y Not](OSINT/self_loath_chal) (Fall 2021) - medium
 * [Okta? More like Okna](OSINT/Okta1.md) (Winter 2022) - Medium
+* [Monuments and Memes](OSINT/Monuments%20and%20Memes/) (Winter 2023) - medium
+* [The OG MITM.](OSINT/The%20OG%20MITM/) (Winter 2023) - medium
 * [Googlefu Crossword](OSINT/googlefu) (Winter 2021) - hard
 * [Everything is an OSINT problem if you try hard enough](OSINT/self_loath_chal) (Fall 2021) - hard
 * [Magnum Opus](OSINT/MagnumOpus) (Winter 2022) - Insane
@@ -185,10 +209,24 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Automation](password-cracking/automation) (Winter 2021) - hard
 * [Evolution](password-cracking/evolution/) (Fall 2022) - hard
 
+#### 006 Series
+* [006 I](password-cracking/006/README.md#006%20I) (Winter 2023) - easy
+* [006 II](password-cracking/006/README.md#006%20II) (Winter 2023) - medium
+* [006 III](password-cracking/006/README.md#006%20III) (Winter 2023) - medium
+
+#### Winter 2023 Series
+* [Password 1](password-cracking/Winter%202023%20Series/Password%201/)
+* [Password 2](password-cracking/Winter%202023%20Series/Password%202/)
+* [Password 3](password-cracking/Winter%202023%20Series/Password%203/)
+* [Password 4](password-cracking/Winter%202023%20Series/Password%204/)
+
 ### Category - Pentesting
 * [Plain](pentesting/plain/) (Winter 2022) - medium
 * [Awkward](pentesting/awkward/) (Winter 2022) - hard
 * [Disaster](pentesting/disaster/) (Winter 2022) - extreme
+* [mi6configuration 1](pentesting/mi6configuration/) (Winter 2023) - medium
+* [mi6configuration 2](pentesting/mi6configuration/) (Winter 2023) - medium
+* [mi6configuration 3](pentesting/mi6configuration/) (Winter 2023) - medium
 
 ### Category - Pwn
 * [Library](pwn/library/) (Fall 2022) - easy
@@ -238,8 +276,17 @@ This private repository stores all the CTF challenges that have been used in pre
 * [MITRE Challenge 2](threat-intel/MITRE_ATT&CK.md) (Fall 2022) - easy
 * [Linked domain](threat-intel/linkeddomain) (Fall 2021) - medium
 * [MITRE Challenge 3](threat-intel/MITRE_ATT&CK.md) (Fall 2022) - medium
+* [Crossy](threat-intel/Crossy) (Winter 2023) - medium
 * [Country](threat-intel/country) (Fall 2021) - hard
 * [MITRE Challenge 4](threat-intel/MITRE_ATT&CK.md) (Fall 2022) - hard
+
+#### On The Job Series
+* [On The Job 1](threat-intel/On%20the%20Job/readme.md#On%20The%20Job%201:) (Winter 2023) - easy
+* [On The Job 2](threat-intel/On%20the%20Job/readme.md#On%20The%20Job%202:) (Winter 2023) - easy
+* [On The Job 3](threat-intel/On%20the%20Job/readme.md#On%20The%20Job%203:) (Winter 2023) - easy
+* [On The Job 4](threat-intel/On%20the%20Job/readme.md#On%20The%20Job%204:) (Winter 2023) - medium
+* [On The Job 5](threat-intel/On%20the%20Job/readme.md#On%20The%20Job%205:) (Winter 2023) - medium
+* [On The Job 6](threat-intel/On%20the%20Job/readme.md#On%20The%20Job%206:) (Winter 2023) - medium
 
 ### Category - Trivia
 * [Trivia 1 - Dr. Lunt](trivia/drlunt) (Winter 2022) - easy
@@ -271,11 +318,18 @@ This private repository stores all the CTF challenges that have been used in pre
 * [Journey](web/Journey/) (Fall 2022) - easy
 * [Ice Cream Store](web/Ice%20Cream%20Store/) (Fall 2022) - easy
 * [Squirrel Injection](web/Squirrel%20Injection/) (Fall 2022) - easy
+* [IMF Flag Portal](web/IMF%20Flag%20Portal/) (Winter 2023) - easy
+* [KGB](web/KGB/) (Winter 2023) - easy
+* [AlexRider](web/AlexRider/) (Winter 2023) - easy
+* [shakennotstirred](web/shakennotstirred/) (Winter 2023) - easy
+* [Whereisthestolenmoonrakershuttle](web/Whereisthestolenmoonrakershuttle/) (Winter 2023) - easy
+* [Web-Inator](web/Web-Inator/) (Winter 2023) - easy
 * [Brid](web/brid) (Fall 2021) - medium
 * [Fragment](web/fragment) (Winter 2022) - medium
 * [Fetaverse](web/fetaverse/) (Winter 2022) - medium
 * [Black](web/black/) (Winter 2022) - medium
 * [Command](web/command/) (Fall 2022) - medium
+* [the-red-room](web/the-red-room/) - medium
 * [Grafana](web/grafana/) (Winter 2022) - hard
 * [Social Media](web/socialmedia) (Winter 2022) - hard
 * [good ol days](web/good%20ol%20days/) (Fall 2022) - hard

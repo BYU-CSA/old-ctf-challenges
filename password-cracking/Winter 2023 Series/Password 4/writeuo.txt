@@ -1,0 +1,5 @@
+the password is: hotstuff32
+
+the zip folder is password protected. using zip2john in kali, one can extract the password hash from the zip folder. Then it can be ran against john the ripper using john hash.txt. Once the user enters the password to open the zip folder, they should be able to open flag.txt.
+
+ byuctf{zip_2_john_is_pretty_cool}

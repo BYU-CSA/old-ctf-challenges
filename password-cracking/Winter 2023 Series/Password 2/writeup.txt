@@ -1,0 +1,7 @@
+The hash is this: b4d267707b99e45c5113a66deeb87589
+
+ the plaintext is byuctf{######} with the pound signs representing a digit. 
+
+flag: byuctf{891337}
+
+To solve, use hashcat: `hashcat -m 0 -a 3 ./hash.txt 'byuctf{?d?d?d?d?d?d}'`
